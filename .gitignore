@@ -2,4 +2,6 @@ mock.py
 .idea/
 __pycache__/
 data/MOCK_DATA.csv
+klassdiagram.drawio
+Instructions.pdf
 
