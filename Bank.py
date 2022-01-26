@@ -3,13 +3,11 @@ from Customer import Customer
 from DataSource import DataSource
 
 
-# create new account id
-def get_new_id(start_id, keys):
-    # self.customers = {k: v for k, v in sorted(list(self.customers.items()))}
-    g = list(keys)
-    list.sort(g)
+# Sorts and returns a new ID with dictionary
+def get_new_id(start_id, dict):
+    dict = {k: v for k, v in sorted(list(dict.items()))}
     id = start_id
-    for existing_id in g:
+    for existing_id in dict.keys():
         if existing_id == id:
             id += 1
         else:
@@ -26,7 +24,6 @@ class Bank:
             for account in customer.get_accounts().values():
                 self.all_customer_accounts[account.id] = account;
 
-
     def save(self):
         self.datasource.save_all(self.customers)
 
@@ -36,7 +33,6 @@ class Bank:
 
     def is_account(self, account_id):
         return self.all_customer_accounts.__contains__(account_id)
-
 
     # Returns a dictionary with all accounts
     def get_all_customer_accounts(self):
@@ -48,7 +44,10 @@ class Bank:
 
     # Returns a specified customer
     def get_customer(self, person_number):
-        return self.customers.get(person_number)
+        for customer in self.customers.values():
+            if customer.get_person_number() == person_number:
+                return customer;
+        return None
 
     # Change customer names
     # Returns true if successful, returns false if no customer was found
@@ -64,21 +63,12 @@ class Bank:
     # Returns false if the person is already a customer, true otherwise.
     def add_customer(self, first_name, last_name, person_number):
         if self.customers.get(person_number) is None:
-            new_id = get_new_id(111111, self.get_customer_ids())
+            new_id = get_new_id(111111, self.customers)
             new_customer = Customer(new_id, first_name, last_name, person_number, {})
             self.customers[person_number] = new_customer
             return True
         else:
             return False
-
-
-
-    def get_customer_ids(self):
-        ids = []
-        for customer in self.customers.values():
-            ids.append(customer.id)
-        return ids
-
 
     # Removes a customer from the bank.
     # Returns account information including the total balance.
@@ -93,7 +83,7 @@ class Bank:
         customer = self.get_customer(person_number)
         new_account_id = -1
         if customer is not None:
-            new_account_id = get_new_id(1000, self.all_customer_accounts.keys())
+            new_account_id = get_new_id(1000, self.all_customer_accounts)
             new_account = Account(new_account_id, "Debit konto", 0.0, [])
             customer.add_account(new_account)
             self.all_customer_accounts[new_account.id] = new_account
@@ -131,8 +121,6 @@ class Bank:
         del customer.get_accounts()[account_id]
         del self.all_customer_accounts[account_id]
         return account.__str__
-
-
 
     # Returns all transaction history for specified account
     def get_transactions(self, person_number, account_id):

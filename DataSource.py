@@ -38,7 +38,7 @@ class DataSource:
         for customer in customers.values():
             for account in customer.get_accounts().values():
                 text += str(account.id) + ","
-                for transaction in account.get_transactions():
+                for transaction in account.get_transactions().values():
                     text += "%s;%s;%s#" % (transaction.id, transaction.date, transaction.amount)
                 text = text[0:-1] + "\n"
         __write__("data/transactions.txt", text)
@@ -52,42 +52,33 @@ class DataSource:
         for line in lines:
             if len(line) == 0:
                 continue
-            account_transactions = []
+            account_transactions = {}
             data = line.split(",")
             account_id = int(data[0])
             if len(data) > 1 and len(data[1]) > 0:
                 for transaction in data[1].split("#"):
                     transaction_details = transaction.split(";")
-                    id = transaction_details[0]
+                    transaction_id = int(transaction_details[0])
                     date = transaction_details[1]
                     amount = transaction_details[2]
-                    t = Transaction(id, date, amount)
-                    account_transactions.append(t)
-            account_transactions.sort(key=get_id)
+                    account_transactions[transaction_id] = Transaction(transaction_id, date, amount)
             all_transactions[account_id] = account_transactions
         return all_transactions
 
     def get_all(self):
         customers = {}
         all_transactions = self.__get_all_transactions__()
-        file = open("data/customers.txt", "rt")
-        lines = file.read().split('\n')
-
+        lines = __read__("data/customers.txt").split("\n")
         for line in lines:
             accounts = {}
-
             if len(line) == 0:
                 continue
-
             all_data = line.split(',')
-
             personal_data = all_data[0].split(":")
             customer_id = int(personal_data[0])
             first_name = personal_data[1]
             last_name = personal_data[2]
             person_number = personal_data[3]
-
-            # print(">%s<"%line)
             if len(all_data) > 1:
                 for all_account_data in all_data[1].split("#"):
                     account_data = all_account_data.split(":")
@@ -95,11 +86,7 @@ class DataSource:
                     account_type = account_data[1]
                     account_balance = float(account_data[2])
                     transactions = all_transactions.get(account_id)
-                    account = Account(account_id, account_type, account_balance, transactions if transactions else [])
+                    account = Account(account_id, account_type, account_balance, transactions if transactions else {})
                     accounts[account_id] = account
-
-            customer = Customer(customer_id, first_name, last_name, person_number, accounts)
-            customers[person_number] = customer
-
-        file.close()
+            customers[customer_id] = Customer(customer_id, first_name, last_name, person_number, accounts)
         return customers

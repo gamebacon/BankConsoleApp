@@ -1,1000 +1,1000 @@
-111111:Noni:Morrish:199311058482
-111112:Addia:Newbury:195805045949,1000:Debit konto:41959.0#1001:Debit konto:13914.0
-111113:Krysta:Molson:199102182415,1002:Debit konto:3110.0#1003:Debit konto:37638.0
-111114:Harley:Tremoulet:197502187685,1004:Debit konto:650.0#1005:Debit konto:22194.0#1006:Debit konto:3926.0
-111115:Elnora:Pierpoint:195404028290
-111116:Kristine:Simenel:197110159365
-111117:Archer:Tunbridge:200606278384,1007:Debit konto:25973.0#1008:Debit konto:32428.0#1009:Debit konto:45412.0#1010:Debit konto:15298.0
-111118:Ira:Riditch:199509081690,1011:Debit konto:25393.0#1012:Debit konto:22094.0#1013:Debit konto:44280.0
-111119:Dominic:Flasby:195812018643,1014:Debit konto:1880.0
-111120:Kiersten:Roote:200307232735,1015:Debit konto:36795.0#1016:Debit konto:24344.0
-111121:Clareta:Juster:198009209189,1017:Debit konto:1649.0
-111122:Madel:Longstaffe:197308214842,1018:Debit konto:10371.0#1019:Debit konto:30527.0
-111123:Halsy:Stubbley:196309159554,1020:Debit konto:254.0#1021:Debit konto:27738.0#1022:Debit konto:5088.0#1023:Debit konto:43908.0
-111124:Sofie:Faustin:201001061728,1024:Debit konto:44577.0#1025:Debit konto:47110.0
-111125:Colin:Giacovetti:199308108961,1026:Debit konto:10734.0#1027:Debit konto:1723.0
-111126:Jessie:Dennett:200511079096
-111127:Jacky:Killock:199107103731,1028:Debit konto:49202.0#1029:Debit konto:39442.0#1030:Debit konto:28106.0#1031:Debit konto:3400.0
-111128:Johannes:Rays:197406209175
-111129:Welch:Dowbakin:200510175787,1032:Debit konto:7296.0#1033:Debit konto:23406.0#1034:Debit konto:41603.0
-111130:Winnifred:Keats:198209245697,1035:Debit konto:40351.0
-111131:Marin:Askaw:198501025565,1036:Debit konto:28901.0
-111132:Rudie:Santon:198409171716,1037:Debit konto:34390.0#1038:Debit konto:46336.0#1039:Debit konto:27985.0#1040:Debit konto:43504.0
-111133:Abran:Grassot:198503198026,1041:Debit konto:43577.0#1042:Debit konto:18423.0#1043:Debit konto:416.0
-111134:Barrie:Slowan:195808283567,1044:Debit konto:20847.0#1045:Debit konto:35800.0
-111135:Carol-jean:Toyer:195008277621
-111136:Lamar:Grishin:198404235788
-111137:Micah:Scholar:197901191872
-111138:Cecilla:Filshin:199408121978
-111139:Vivianna:Fearney:199510138865,1046:Debit konto:21728.0
-111140:Tammi:Dudny:201201025221,1047:Debit konto:11980.0#1048:Debit konto:29914.0#1049:Debit konto:32564.0
-111141:Ceciley:Kearle:200305203119,1050:Debit konto:38350.0#1051:Debit konto:12655.0
-111142:Corine:Gitting:198803215243,1052:Debit konto:6148.0#1053:Debit konto:37976.0
-111143:Clemmy:Gadesby:201708043290
-111144:Willie:Thexton:197307141912,1054:Debit konto:13911.0
-111145:Parry:Swalough:196007203078,1055:Debit konto:13585.0#1056:Debit konto:13834.0#1057:Debit konto:10771.0#1058:Debit konto:38699.0
-111146:Michelina:Ohrt:200801228860,1059:Debit konto:33843.0
-111147:Panchito:Layburn:201803252536,1060:Debit konto:30272.0#1061:Debit konto:3975.0#1062:Debit konto:35558.0
-111148:Jewel:Fasham:196007052635,1063:Debit konto:33428.0#1064:Debit konto:16004.0#1065:Debit konto:18402.0
-111149:Thorsten:Fishbie:196410124840
-111150:Theresita:Hadkins:197908128025,1066:Debit konto:40125.0#1067:Debit konto:34789.0#1068:Debit konto:26460.0
-111151:Edd:Gokes:197304087384,1069:Debit konto:21608.0
-111152:Alexandrina:Dahill:198405179011,1070:Debit konto:25270.0
-111153:Tan:Keable:197610056896,1071:Debit konto:7946.0#1072:Debit konto:12824.0#1073:Debit konto:43753.0
-111154:Rasia:Scinelli:201509262321,1074:Debit konto:30520.0#1075:Debit konto:5933.0
-111155:Delinda:Crotty:195004288080,1076:Debit konto:41514.0#1077:Debit konto:33861.0#1078:Debit konto:39869.0
-111156:Ryan:Saywood:198602137611,1079:Debit konto:45703.0
-111157:Roley:Hanburry:197308256624,1080:Debit konto:1239.0#1081:Debit konto:20801.0
-111158:Christine:Morter:195201276529,1082:Debit konto:27880.0
-111159:Farlie:Cleaver:196310058183,1083:Debit konto:2579.0#1084:Debit konto:6396.0#1085:Debit konto:9723.0#1086:Debit konto:14748.0
-111160:Alexi:Burvill:201906275863,1087:Debit konto:22294.0
-111161:Garvin:Sparrow:200606155342,1088:Debit konto:5328.0
-111162:Kaylyn:Topaz:201611232355,1089:Debit konto:40514.0#1090:Debit konto:19373.0#1091:Debit konto:20896.0
-111163:Petronia:Benwell:196906101112,1092:Debit konto:26238.0
-111164:Silvester:Cornil:200911254197,1093:Debit konto:34734.0#1094:Debit konto:47955.0#1095:Debit konto:3616.0#1096:Debit konto:27309.0
-111165:Diann:Derr:198806092398,1097:Debit konto:26131.0#1098:Debit konto:23722.0#1099:Debit konto:40812.0#1100:Debit konto:24565.0
-111166:Shea:Doud:198010188189
-111167:Corena:Sellens:198403117300
-111168:Alister:MacRirie:196602233090,1101:Debit konto:41659.0#1102:Debit konto:43970.0#1103:Debit konto:36356.0#1104:Debit konto:26803.0
-111169:Jasmin:Paliser:198708081975,1105:Debit konto:30226.0#1106:Debit konto:23886.0
-111170:Cobbie:Hargrove:200003124223
-111171:Dunn:O' Faherty:195203218849,1107:Debit konto:8828.0#1108:Debit konto:18769.0
-111172:Beck:Danbury:198210281788,1109:Debit konto:3949.0#1110:Debit konto:4002.0#1111:Debit konto:28729.0
-111173:Lorant:Minnette:199308045893,1112:Debit konto:42120.0#1113:Debit konto:9304.0#1114:Debit konto:45188.0
-111174:Alistair:Limprecht:196608048531,1115:Debit konto:28984.0#1116:Debit konto:35423.0#1117:Debit konto:14389.0#1118:Debit konto:29307.0
-111175:Evvie:Dahlman:196906069061,1119:Debit konto:31809.0#1120:Debit konto:47208.0#1121:Debit konto:42481.0#1122:Debit konto:34571.0
-111176:Morley:Brussell:198806285985,1123:Debit konto:35519.0#1124:Debit konto:6273.0#1125:Debit konto:17323.0
-111177:Margaretha:Chanson:196807184993,1126:Debit konto:1205.0#1127:Debit konto:26711.0#1128:Debit konto:19367.0#1129:Debit konto:13549.0
-111178:Aryn:Spiller:199111238940,1130:Debit konto:44347.0#1131:Debit konto:14608.0#1132:Debit konto:41319.0#1133:Debit konto:43030.0
-111179:Giulia:Avrahamov:201111205179
-111180:Reginald:Hunnybun:200008207704
-111181:Shauna:Krysztofiak:196204089604,1134:Debit konto:24137.0#1135:Debit konto:9121.0#1136:Debit konto:49209.0
-111182:Chloris:Chong:197205132348,1137:Debit konto:40245.0
-111183:Mavra:Thorington:195507129546,1138:Debit konto:31562.0#1139:Debit konto:30679.0
-111184:Rubi:Densham:199210277788,1140:Debit konto:11329.0
-111185:Tish:Kildea:201606155990,1141:Debit konto:40505.0#1142:Debit konto:3812.0#1143:Debit konto:5235.0#1144:Debit konto:46783.0
-111186:Cornelle:Tabourel:198012035870,1145:Debit konto:15313.0#1146:Debit konto:29742.0#1147:Debit konto:22699.0#1148:Debit konto:860.0
-111187:Lowe:Booker:201512031158,1149:Debit konto:18724.0#1150:Debit konto:8903.0#1151:Debit konto:21055.0
-111188:Ruperto:Phipard-Shears:197010024324
-111189:Walliw:Grinyakin:197503097898,1152:Debit konto:8289.0#1153:Debit konto:12914.0
-111190:Franni:Siemons:195808162609,1154:Debit konto:38889.0#1155:Debit konto:49353.0#1156:Debit konto:19121.0
-111191:Dane:Perrins:198806094593,1157:Debit konto:28502.0
-111192:Piggy:McWhannel:198311087588
-111193:Frasco:Colomb:196111218804,1158:Debit konto:17808.0
-111194:Ozzy:Fumagallo:196608088725,1159:Debit konto:42777.0#1160:Debit konto:11584.0
-111195:Dinnie:Puddle:200307114107,1161:Debit konto:2421.0
-111196:Arv:Oakley:197003097673,1162:Debit konto:10466.0#1163:Debit konto:42243.0
-111197:Marni:Gaspard:200408177055,1164:Debit konto:26551.0
-111198:Franklyn:Cowdery:196006126815,1165:Debit konto:18889.0#1166:Debit konto:47871.0
-111199:Zorah:Heigl:201410014445
-111200:Fidelity:Duffell:197808093361,1167:Debit konto:26733.0#1168:Debit konto:31578.0#1169:Debit konto:36549.0#1170:Debit konto:35983.0
-111201:Abigale:Hould:195402115515,1171:Debit konto:24452.0
-111202:Jermain:Davidof:197504161208,1172:Debit konto:31089.0#1173:Debit konto:23245.0
-111203:Reinold:Jeves:200704151707,1174:Debit konto:26832.0#1175:Debit konto:41545.0#1176:Debit konto:24144.0#1177:Debit konto:36575.0
-111204:Meier:Tucker:202112149497,1178:Debit konto:30210.0#1179:Debit konto:725.0#1180:Debit konto:23631.0#1181:Debit konto:25862.0
-111205:Lesley:Strewther:196806213950,1182:Debit konto:28872.0#1183:Debit konto:41948.0#1184:Debit konto:14830.0
-111206:Griselda:Holdforth:196709109093,1185:Debit konto:26974.0#1186:Debit konto:3241.0
-111207:Guillermo:di Rocca:200701103351,1187:Debit konto:44729.0#1188:Debit konto:4549.0
-111208:Jill:Harkes:195101057863,1189:Debit konto:16322.0#1190:Debit konto:8013.0#1191:Debit konto:7417.0#1192:Debit konto:3796.0
-111209:Cammy:Waplinton:197803124947,1193:Debit konto:9942.0
-111210:Vlad:Hullins:198611262810
-111211:Ewart:Roller:201503253266,1194:Debit konto:27145.0
-111212:Quintin:McGreary:201210246932
-111213:Herculie:Balharry:202101026982,1195:Debit konto:12862.0#1196:Debit konto:45932.0#1197:Debit konto:2955.0#1198:Debit konto:14355.0
-111214:Imojean:Ennever:199403081437,1199:Debit konto:40412.0#1200:Debit konto:42400.0
-111215:Georgianna:Bigby:196906182260,1201:Debit konto:3369.0#1202:Debit konto:44708.0#1203:Debit konto:34841.0
-111216:Tiebold:Le Blond:201002234706,1204:Debit konto:38916.0
-111217:Ambrosius:McMillan:202101178430,1205:Debit konto:1585.0#1206:Debit konto:32618.0#1207:Debit konto:6230.0
-111218:Marje:Stewart:197207221583
-111219:Rodolph:Greggor:197106207761,1208:Debit konto:19356.0
-111220:Nancee:Barke:196304171952
-111221:Dasie:MacCaughey:196103062859,1209:Debit konto:12977.0#1210:Debit konto:35746.0
-111222:Albie:Alliban:198206039694,1211:Debit konto:9422.0#1212:Debit konto:20502.0#1213:Debit konto:19123.0#1214:Debit konto:18290.0
-111223:Duff:Selwood:196410272869
-111224:Ellene:Izac:197305145715
-111225:Mahmoud:Belk:198409282909,1215:Debit konto:15938.0
-111226:Estevan:Testro:199001045736,1216:Debit konto:35328.0#1217:Debit konto:25086.0#1218:Debit konto:31434.0#1219:Debit konto:12200.0
-111227:Alfonso:Walbridge:201511027666,1220:Debit konto:23147.0
-111228:Freeland:Flohard:201306034516
-111229:Van:MacLise:199303126106
-111230:Abigael:Stoyell:196507213793,1221:Debit konto:30343.0
-111231:Raoul:Sings:199610099593,1222:Debit konto:47244.0#1223:Debit konto:12121.0
-111232:Otis:Broke:199512058318,1224:Debit konto:14311.0#1225:Debit konto:11860.0#1226:Debit konto:43852.0#1227:Debit konto:14246.0
-111233:Agretha:Hitcham:197109011246,1228:Debit konto:12988.0
-111234:Eduino:Carwardine:195207172517,1229:Debit konto:192.0#1230:Debit konto:26653.0#1231:Debit konto:4857.0#1232:Debit konto:12701.0
-111235:Ryan:Campanelli:201506142445,1233:Debit konto:33731.0#1234:Debit konto:26782.0#1235:Debit konto:31613.0#1236:Debit konto:13197.0
-111236:Ivie:Marsay:199809085758
-111237:Jennilee:Muldowney:196201284781,1237:Debit konto:49059.0#1238:Debit konto:28331.0
-111238:Anna:Stolting:197603202629,1239:Debit konto:14908.0#1240:Debit konto:35180.0#1241:Debit konto:32854.0#1242:Debit konto:26746.0
-111239:Benton:Matiewe:198903046255,1243:Debit konto:12831.0#1244:Debit konto:30733.0#1245:Debit konto:25409.0
-111240:Eimile:Binley:199109239891,1246:Debit konto:46627.0#1247:Debit konto:15699.0
-111241:Englebert:Shivlin:199002032027,1248:Debit konto:17448.0#1249:Debit konto:19299.0#1250:Debit konto:43669.0#1251:Debit konto:43999.0
-111242:Richart:Piers:196201268895
-111243:Emelyne:Kellaway:201904268952,1252:Debit konto:13268.0#1253:Debit konto:37608.0
-111244:Donnie:Cruces:200004013839,1254:Debit konto:27843.0
-111245:Rodolfo:Kropp:200001078958
-111246:Tatum:Smelley:196411133090
-111247:Alia:Affuso:197612099727,1255:Debit konto:23183.0#1256:Debit konto:27432.0
-111248:Jodie:Smedley:199004278519,1257:Debit konto:23090.0#1258:Debit konto:44415.0#1259:Debit konto:15370.0
-111249:Dedie:Purselowe:200503031151,1260:Debit konto:10231.0
-111250:Crysta:Becerro:201706043174,1261:Debit konto:41238.0#1262:Debit konto:44950.0#1263:Debit konto:31282.0
-111251:Nicky:Canniffe:199001073623,1264:Debit konto:48512.0#1265:Debit konto:2567.0
-111252:Shina:Currier:200204279844,1266:Debit konto:35219.0#1267:Debit konto:46067.0
-111253:Vikky:Goldsbrough:198106147424,1268:Debit konto:32920.0#1269:Debit konto:38717.0#1270:Debit konto:1602.0#1271:Debit konto:49807.0
-111254:Ethe:Grimsdell:197010248710,1272:Debit konto:39792.0#1273:Debit konto:23801.0#1274:Debit konto:43024.0
-111255:Elijah:Egiloff:197710275320,1275:Debit konto:4981.0#1276:Debit konto:31180.0#1277:Debit konto:24988.0#1278:Debit konto:46526.0
-111256:Kelwin:Ewen:195902096132,1279:Debit konto:31149.0#1280:Debit konto:20203.0#1281:Debit konto:29599.0#1282:Debit konto:1998.0
-111257:Drucy:McGowran:202004011038,1283:Debit konto:25440.0#1284:Debit konto:33343.0#1285:Debit konto:45132.0
-111258:Mackenzie:Penner:202010242015,1286:Debit konto:24301.0#1287:Debit konto:5182.0#1288:Debit konto:30918.0#1289:Debit konto:35507.0
-111259:Roderick:Hawkswood:197608284581,1290:Debit konto:42533.0#1291:Debit konto:737.0
-111260:Mallissa:Stegel:196904226754,1292:Debit konto:43027.0#1293:Debit konto:29837.0#1294:Debit konto:10254.0
-111261:Findley:Dobrowolski:196911197182,1295:Debit konto:9728.0#1296:Debit konto:9596.0#1297:Debit konto:23189.0
-111262:Sallee:Crosse:200811082190,1298:Debit konto:29323.0#1299:Debit konto:22343.0
-111263:Kary:Lowdwell:196512134484,1300:Debit konto:18825.0#1301:Debit konto:14788.0#1302:Debit konto:44826.0
-111264:Dorene:Bastide:199405272443,1303:Debit konto:6940.0#1304:Debit konto:14440.0#1305:Debit konto:47094.0#1306:Debit konto:31721.0
-111265:Ker:Fadden:197602227563,1307:Debit konto:35141.0#1308:Debit konto:24684.0#1309:Debit konto:26106.0
-111266:Annamaria:Rockingham:195706206981,1310:Debit konto:40729.0
-111267:Candace:Chattaway:195609266677,1311:Debit konto:45230.0#1312:Debit konto:40000.0
-111268:Else:Harbron:200612018821,1313:Debit konto:16297.0#1314:Debit konto:1762.0#1315:Debit konto:15977.0#1316:Debit konto:38764.0
-111269:Urban:Godbald:196706146015,1317:Debit konto:44034.0
-111270:Poppy:Bloxsum:200301183199,1318:Debit konto:43367.0
-111271:Karna:Currier:195512153393,1319:Debit konto:49328.0#1320:Debit konto:35557.0#1321:Debit konto:46781.0
-111272:Bay:Dovidaitis:195709019604
-111273:Adelind:Skatcher:199912207375,1322:Debit konto:38506.0#1323:Debit konto:28002.0#1324:Debit konto:29828.0
-111274:Bartie:De Marchi:197907191073,1325:Debit konto:38783.0#1326:Debit konto:45587.0
-111275:Selia:Golbourn:199312032836,1327:Debit konto:21419.0#1328:Debit konto:13721.0
-111276:Shoshana:Smees:200704243022,1329:Debit konto:17059.0#1330:Debit konto:39294.0
-111277:Clari:Tigner:197406192102,1331:Debit konto:2389.0#1332:Debit konto:16491.0#1333:Debit konto:27568.0#1334:Debit konto:49257.0
-111278:Cleavland:Myatt:197604122148,1335:Debit konto:39788.0#1336:Debit konto:40865.0#1337:Debit konto:21690.0#1338:Debit konto:39182.0
-111279:Edouard:Whorlton:198404068729
-111280:Gradeigh:Matchett:198109175746,1339:Debit konto:48268.0#1340:Debit konto:42253.0#1341:Debit konto:47514.0
-111281:Pam:MacKilroe:196603015171,1342:Debit konto:16399.0
-111282:Viva:Lennard:195808234034,1343:Debit konto:42563.0
-111283:Brad:Howsego:201108194392,1344:Debit konto:17605.0#1345:Debit konto:11085.0#1346:Debit konto:45618.0#1347:Debit konto:1326.0
-111284:Bordy:La Padula:198201102874
-111285:Saw:Trunkfield:195802204275
-111286:Royal:Osborne:197203176394,1348:Debit konto:38207.0#1349:Debit konto:9363.0#1350:Debit konto:10014.0
-111287:Gates:Sheeran:199303213920
-111288:Donalt:Aslam:200909215277,1351:Debit konto:48710.0#1352:Debit konto:46984.0#1353:Debit konto:45505.0#1354:Debit konto:22027.0
-111289:Sanders:Dannell:201105277903,1355:Debit konto:31802.0#1356:Debit konto:23507.0#1357:Debit konto:9413.0#1358:Debit konto:17422.0
-111290:Kettie:Sidwell:195408282660,1359:Debit konto:445.0#1360:Debit konto:34669.0
-111291:Sara:Rampton:196812098470,1361:Debit konto:45431.0#1362:Debit konto:4653.0#1363:Debit konto:36549.0#1364:Debit konto:2668.0
-111292:Rossy:Kenway:199506274116,1365:Debit konto:19838.0#1366:Debit konto:41332.0#1367:Debit konto:47713.0#1368:Debit konto:15283.0
-111293:Tasia:Frogley:198511089214,1369:Debit konto:44489.0#1370:Debit konto:2994.0#1371:Debit konto:17510.0#1372:Debit konto:33451.0
-111294:Tyrone:Slamaker:195805165994,1373:Debit konto:4499.0#1374:Debit konto:39593.0#1375:Debit konto:20842.0#1376:Debit konto:25229.0
-111295:Reagen:Lattie:196806256737,1377:Debit konto:35414.0#1378:Debit konto:44027.0
-111296:Lauren:Cater:199208209443,1379:Debit konto:16824.0#1380:Debit konto:27887.0
-111297:Hoyt:Dreamer:197111258378,1381:Debit konto:13368.0#1382:Debit konto:30543.0
-111298:Jeremiah:Doget:200905025839,1383:Debit konto:45713.0#1384:Debit konto:21709.0#1385:Debit konto:4580.0#1386:Debit konto:22652.0
-111299:Eleanor:Sturr:199412135306,1387:Debit konto:36297.0#1388:Debit konto:36074.0#1389:Debit konto:1803.0
-111300:Hattie:Truss:195410048420,1390:Debit konto:40346.0#1391:Debit konto:4662.0#1392:Debit konto:10639.0#1393:Debit konto:19263.0
-111301:Bernelle:Ludwikiewicz:201311187782,1394:Debit konto:741.0#1395:Debit konto:32324.0#1396:Debit konto:10277.0
-111302:Abran:Restorick:200009188061,1397:Debit konto:7465.0#1398:Debit konto:9063.0#1399:Debit konto:41388.0#1400:Debit konto:32814.0
-111303:Nickolaus:Summerhayes:195308219040,1401:Debit konto:23713.0#1402:Debit konto:38936.0#1403:Debit konto:8807.0#1404:Debit konto:24274.0
-111304:Bevvy:Clemmow:199604019705,1405:Debit konto:3004.0#1406:Debit konto:41181.0#1407:Debit konto:17136.0
-111305:Anselm:Friedman:196812253837,1408:Debit konto:30012.0#1409:Debit konto:45328.0
-111306:Sigismundo:Peggrem:199507129572
-111307:Byran:Adnam:201103152847
-111308:Mortimer:McClosh:200210182851,1410:Debit konto:31439.0
-111309:Meier:Skinn:198703251926
-111310:Patsy:Chart:195803136013,1411:Debit konto:41203.0#1412:Debit konto:18490.0
-111311:Dud:Knapper:201301096947,1413:Debit konto:14124.0#1414:Debit konto:34894.0#1415:Debit konto:18804.0#1416:Debit konto:18926.0
-111312:Ingrid:Ellingham:198006274874,1417:Debit konto:47890.0#1418:Debit konto:43354.0
-111313:Norrie:Nevin:198103263135,1419:Debit konto:30320.0#1420:Debit konto:19730.0#1421:Debit konto:7815.0
-111314:Amelia:Kopps:197302082300
-111315:Claribel:Fairnington:202102138114,1422:Debit konto:10858.0
-111316:Ronnica:Ruben:195703032380,1423:Debit konto:29396.0#1424:Debit konto:18314.0#1425:Debit konto:1130.0
-111317:Nelson:Bryett:197405158663
-111318:Bartolomeo:Eteen:196305168554,1426:Debit konto:10310.0
-111319:Elenore:Toyne:200006257010
-111320:Matty:Gooddie:199807185030
-111321:Loy:Sworder:201107114975,1427:Debit konto:48579.0#1428:Debit konto:17622.0
-111322:Tadeo:Brookhouse:201307115540,1429:Debit konto:1557.0#1430:Debit konto:49288.0#1431:Debit konto:31945.0#1432:Debit konto:2834.0
-111323:Brod:Costigan:199809109793,1433:Debit konto:42076.0
-111324:Rici:Stawell:195507112606,1434:Debit konto:28495.0
-111325:Ladonna:Kiddye:198210077942
-111326:Estrella:Minmagh:201805067590,1435:Debit konto:43422.0#1436:Debit konto:24446.0
-111327:Augy:Middlewick:197611285475
-111328:Justina:Pyle:196411078980
-111329:Jayne:Steljes:198310173810,1437:Debit konto:47443.0
-111330:Mirella:Emanuelov:196501102696,1438:Debit konto:26604.0#1439:Debit konto:9952.0
-111331:Debor:Ballefant:197805136864,1440:Debit konto:30332.0#1441:Debit konto:30637.0#1442:Debit konto:46390.0
-111332:Jeth:Markey:200003203173,1443:Debit konto:15557.0#1444:Debit konto:6100.0#1445:Debit konto:33443.0#1446:Debit konto:33505.0
-111333:Lorena:Calderwood:199606014756,1447:Debit konto:10691.0#1448:Debit konto:36179.0#1449:Debit konto:35926.0
-111334:Mendel:Penchen:197206187817,1450:Debit konto:15464.0
-111335:Bruce:Tivers:198305152111,1451:Debit konto:8156.0#1452:Debit konto:9187.0#1453:Debit konto:46574.0
-111336:Laverne:Brewett:199511241138,1454:Debit konto:34250.0#1455:Debit konto:44491.0#1456:Debit konto:13912.0#1457:Debit konto:48576.0
-111337:Janet:Waulker:201412253170,1458:Debit konto:14073.0#1459:Debit konto:28946.0#1460:Debit konto:2121.0
-111338:Sherlock:Stanning:199312034739
-111339:Shandee:Dresser:199912134095,1461:Debit konto:37070.0#1462:Debit konto:3145.0#1463:Debit konto:31666.0#1464:Debit konto:2167.0
-111340:Reeba:Laydel:200910166755
-111341:Rafael:Cruikshank:198505209023,1465:Debit konto:39120.0#1466:Debit konto:37580.0#1467:Debit konto:31686.0#1468:Debit konto:40880.0
-111342:Chandler:Ramlot:200104273182
-111343:Jonell:Gapper:200911014695,1469:Debit konto:48647.0#1470:Debit konto:23630.0#1471:Debit konto:30216.0#1472:Debit konto:15758.0
-111344:Saunderson:Gasperi:197303164399,1473:Debit konto:35910.0#1474:Debit konto:10489.0
-111345:Ashlan:Curzey:196905084415,1475:Debit konto:25344.0
-111346:Tammy:Bitterton:195611211009,1476:Debit konto:16135.0#1477:Debit konto:22545.0#1478:Debit konto:912.0#1479:Debit konto:23649.0
-111347:Wynny:O'Tierney:200508074855
-111348:Daryl:Coleson:198610028614,1480:Debit konto:2648.0
-111349:Jacques:Stonelake:196011052964,1481:Debit konto:49400.0
-111350:Zonda:Trenouth:197310094773,1482:Debit konto:40764.0#1483:Debit konto:28069.0
-111351:Sula:Paice:201106013457,1484:Debit konto:43746.0#1485:Debit konto:34941.0#1486:Debit konto:17283.0#1487:Debit konto:36755.0
-111352:Eartha:Westover:199603211624,1488:Debit konto:24633.0#1489:Debit konto:14761.0
-111353:Lynnette:Birkmyre:197502104518,1490:Debit konto:25946.0
-111354:Katharina:McGreary:197102288995,1491:Debit konto:29243.0#1492:Debit konto:33576.0#1493:Debit konto:30279.0#1494:Debit konto:41991.0
-111355:Constanta:Brinson:199010122345
-111356:Trey:Noore:199604218073
-111357:Kamillah:Nuss:199504105265,1495:Debit konto:16132.0#1496:Debit konto:13234.0#1497:Debit konto:4774.0
-111358:Ninetta:Maharry:201903181388,1498:Debit konto:35678.0#1499:Debit konto:11635.0
-111359:Cristine:Dawnay:198105073552,1500:Debit konto:48318.0#1501:Debit konto:13639.0#1502:Debit konto:33294.0
-111360:Camala:Licciardi:197506247670,1503:Debit konto:39541.0#1504:Debit konto:38689.0#1505:Debit konto:32080.0
-111361:Nonah:Cossor:198003218229,1506:Debit konto:11712.0#1507:Debit konto:5287.0#1508:Debit konto:31769.0
-111362:Morrie:Cosh:196509178855,1509:Debit konto:2795.0#1510:Debit konto:32904.0
-111363:Philomena:Truett:198104173411
-111364:Kristopher:Cromb:196712286257,1511:Debit konto:42057.0#1512:Debit konto:47692.0#1513:Debit konto:2983.0
-111365:Jeni:Levay:197206212668,1514:Debit konto:6538.0#1515:Debit konto:21890.0#1516:Debit konto:5471.0
-111366:Chase:Bavister:199706168492,1517:Debit konto:17667.0#1518:Debit konto:45894.0
-111367:Florian:Davidou:195507069590,1519:Debit konto:48136.0#1520:Debit konto:23212.0#1521:Debit konto:2073.0#1522:Debit konto:45399.0
-111368:Pattin:Daleman:197210126860,1523:Debit konto:1237.0#1524:Debit konto:41347.0#1525:Debit konto:32394.0
-111369:Mack:Currom:195202012472,1526:Debit konto:7256.0#1527:Debit konto:41806.0
-111370:Vitoria:Founds:199006073366,1528:Debit konto:49260.0#1529:Debit konto:3156.0#1530:Debit konto:35803.0#1531:Debit konto:32806.0
-111371:Lina:Seedull:199307201628,1532:Debit konto:40495.0#1533:Debit konto:35121.0#1534:Debit konto:41687.0
-111372:Terrel:Raw:197809014671
-111373:Dora:Brandino:198808232243,1535:Debit konto:12858.0#1536:Debit konto:45779.0#1537:Debit konto:282.0
-111374:Arni:Bowstead:197312114207,1538:Debit konto:15256.0#1539:Debit konto:11613.0#1540:Debit konto:14622.0
-111375:Alwyn:Turmall:200303018007,1541:Debit konto:49724.0#1542:Debit konto:24439.0#1543:Debit konto:18317.0#1544:Debit konto:38586.0
-111376:Maribelle:Hart:199705132353,1545:Debit konto:40027.0#1546:Debit konto:42058.0#1547:Debit konto:25173.0
-111377:Quintina:Cotillard:195107175028,1548:Debit konto:954.0
-111378:Heath:Gery:197005161122,1549:Debit konto:28162.0
-111379:Aylmer:Robertacci:200611153453,1550:Debit konto:31064.0#1551:Debit konto:6951.0#1552:Debit konto:28349.0#1553:Debit konto:183.0
-111380:Lyndy:Danks:200612251600,1554:Debit konto:37926.0#1555:Debit konto:25548.0
-111381:Burlie:Tolcher:197311235786,1556:Debit konto:3380.0#1557:Debit konto:2537.0
-111382:Ximenez:Jacobi:196007219687
-111383:Jaclyn:Osgodby:196304234147,1558:Debit konto:49401.0#1559:Debit konto:33104.0
-111384:Barclay:McDonand:201005259421,1560:Debit konto:24216.0#1561:Debit konto:36704.0#1562:Debit konto:42506.0#1563:Debit konto:46520.0
-111385:Felisha:Vaggers:195101263602,1564:Debit konto:18058.0#1565:Debit konto:42811.0#1566:Debit konto:11552.0
-111386:Rickey:Leeder:200602158714,1567:Debit konto:23400.0#1568:Debit konto:16339.0#1569:Debit konto:5427.0#1570:Debit konto:20945.0
-111387:Tom:Priter:201303133691
-111388:Cati:Giuron:200911191942,1571:Debit konto:24974.0#1572:Debit konto:32774.0#1573:Debit konto:11535.0#1574:Debit konto:27104.0
-111389:Pyotr:Pickavance:196011113288,1575:Debit konto:3885.0#1576:Debit konto:38616.0#1577:Debit konto:8111.0#1578:Debit konto:24427.0
-111390:Bryon:Hellmore:201107026508,1579:Debit konto:18817.0
-111391:Camey:Basten:201806171753,1580:Debit konto:25196.0#1581:Debit konto:38279.0#1582:Debit konto:49761.0
-111392:Shurlocke:Meysham:202108167879
-111393:Flor:Swede:198611069987,1583:Debit konto:3574.0#1584:Debit konto:30775.0
-111394:Lemar:Conochie:201509173126,1585:Debit konto:44385.0#1586:Debit konto:39018.0#1587:Debit konto:39268.0
-111395:Niel:Leah:200509146239
-111396:Ari:Batt:196410227212,1588:Debit konto:14612.0#1589:Debit konto:30555.0
-111397:Kendall:Orr:196203233971
-111398:Gerhardt:Stredwick:199109089982,1590:Debit konto:27113.0#1591:Debit konto:43496.0#1592:Debit konto:30123.0#1593:Debit konto:6691.0
-111399:Malchy:Chiddy:199707114710,1594:Debit konto:4926.0#1595:Debit konto:48581.0
-111400:Rubie:Ryan:197311224539,1596:Debit konto:4943.0
-111401:Aeriela:Treece:198907178467,1597:Debit konto:8448.0
-111402:Tiphany:Senton:200904132573
-111403:Evy:Follen:198701156438,1598:Debit konto:41316.0#1599:Debit konto:33563.0#1600:Debit konto:20073.0
-111404:Field:Bayly:200401182279,1601:Debit konto:9451.0#1602:Debit konto:9369.0#1603:Debit konto:49461.0
-111405:Isacco:O' Sullivan:199306239189
-111406:Nani:Pepis:195705035443,1604:Debit konto:19463.0#1605:Debit konto:39309.0#1606:Debit konto:20233.0
-111407:Silvester:Kopps:200909038779,1607:Debit konto:8332.0#1608:Debit konto:34383.0
-111408:Cele:Awcock:200412225543,1609:Debit konto:23648.0#1610:Debit konto:1115.0#1611:Debit konto:12885.0#1612:Debit konto:13893.0
-111409:Marline:Stanman:195707255836
-111410:Dorthy:Swalowe:200507228737
-111411:Devora:Southgate:200402243410,1613:Debit konto:14824.0#1614:Debit konto:35805.0#1615:Debit konto:32001.0#1616:Debit konto:8707.0
-111412:Alecia:Blackaller:200508104103,1617:Debit konto:32710.0
-111413:Hardy:Duny:198709051671,1618:Debit konto:882.0#1619:Debit konto:4134.0
-111414:Etienne:Eccleston:195411264469,1620:Debit konto:29506.0
-111415:Mikel:Flanagan:196412183571,1621:Debit konto:36118.0#1622:Debit konto:30609.0#1623:Debit konto:5530.0#1624:Debit konto:47293.0
-111416:Nickie:Cheetham:197810106167
-111417:Gerrilee:Blennerhassett:200112043499,1625:Debit konto:43190.0#1626:Debit konto:15439.0#1627:Debit konto:44694.0#1628:Debit konto:14894.0
-111418:Thatcher:Hilley:197109147679,1629:Debit konto:13513.0#1630:Debit konto:39440.0#1631:Debit konto:28863.0
-111419:Joice:Bover:199411138411,1632:Debit konto:3042.0#1633:Debit konto:32356.0#1634:Debit konto:7643.0#1635:Debit konto:25126.0
-111420:Sarajane:Quirk:198810155228,1636:Debit konto:42855.0#1637:Debit konto:24157.0#1638:Debit konto:4187.0
-111421:Georgeanne:Alvy:195103286586
-111422:Darlleen:Trammel:201409157074,1639:Debit konto:17465.0#1640:Debit konto:33200.0#1641:Debit konto:21205.0#1642:Debit konto:24440.0
-111423:Cele:Nutty:197410236428
-111424:Gael:Curtayne:200403162777,1643:Debit konto:9027.0#1644:Debit konto:12463.0
-111425:Jolyn:Habden:200807237762,1645:Debit konto:48272.0#1646:Debit konto:1316.0
-111426:Eamon:Milverton:200106142463
-111427:Worthington:Sawdon:199211025584,1647:Debit konto:3727.0
-111428:Dannie:Bigmore:197408129302,1648:Debit konto:45646.0#1649:Debit konto:8325.0#1650:Debit konto:36613.0
-111429:Josie:Bodle:199408278349,1651:Debit konto:42347.0#1652:Debit konto:26042.0
-111430:Elysee:Rue:198403195723,1653:Debit konto:45163.0
-111431:Ailene:Brockman:201805278532,1654:Debit konto:5433.0
-111432:Engracia:Potbury:198309285663,1655:Debit konto:1098.0#1656:Debit konto:19693.0#1657:Debit konto:1755.0
-111433:Arron:Thurston:200403117090,1658:Debit konto:44809.0#1659:Debit konto:9673.0#1660:Debit konto:7986.0#1661:Debit konto:24171.0
-111434:Leonidas:Delooze:200609062995,1662:Debit konto:22063.0#1663:Debit konto:42015.0
-111435:Dolley:Romaynes:195604245288
-111436:Matt:Catlette:200111216071,1664:Debit konto:15413.0#1665:Debit konto:36285.0#1666:Debit konto:18588.0
-111437:Monika:Pendrill:196409223686,1667:Debit konto:25725.0#1668:Debit konto:36210.0#1669:Debit konto:43457.0
-111438:Berkly:Lucia:199505042617,1670:Debit konto:37510.0
-111439:Mallory:Scurry:196512116412,1671:Debit konto:38616.0#1672:Debit konto:19775.0
-111440:Theodosia:Waszkiewicz:196006119195,1673:Debit konto:43008.0#1674:Debit konto:15293.0#1675:Debit konto:4697.0
-111441:Klemens:Alentyev:201103171951,1676:Debit konto:39426.0
-111442:Adelaida:Camps:201710181799,1677:Debit konto:45736.0#1678:Debit konto:13815.0#1679:Debit konto:383.0#1680:Debit konto:35709.0
-111443:Franky:Thyng:201507227047
-111444:Odo:Plum:195411279806,1681:Debit konto:4193.0
-111445:Niels:FitzAlan:201506219341,1682:Debit konto:47419.0#1683:Debit konto:24846.0#1684:Debit konto:6853.0
-111446:Rosamund:Kolczynski:199306272852,1685:Debit konto:7946.0#1686:Debit konto:15890.0#1687:Debit konto:32795.0
-111447:Winna:Donat:202012051745,1688:Debit konto:42008.0#1689:Debit konto:23556.0#1690:Debit konto:24242.0#1691:Debit konto:27535.0
-111448:Cinda:Izzatt:195101184505,1692:Debit konto:20987.0#1693:Debit konto:24426.0#1694:Debit konto:11777.0#1695:Debit konto:41618.0
-111449:Nickey:Matches:198010027535,1696:Debit konto:24063.0#1697:Debit konto:11278.0
-111450:Arturo:Cass:195910246824,1698:Debit konto:32530.0#1699:Debit konto:35799.0#1700:Debit konto:41276.0
-111451:Townsend:Hamstead:201506271333
-111452:Conroy:MacMechan:199102173350,1701:Debit konto:35439.0#1702:Debit konto:35936.0#1703:Debit konto:2111.0
-111453:Bethany:Cayzer:196010184083,1704:Debit konto:22065.0#1705:Debit konto:36778.0#1706:Debit konto:13271.0
-111454:Josiah:Petris:195901051927,1707:Debit konto:40465.0
-111455:Boycey:Spinks:195209205393,1708:Debit konto:27205.0#1709:Debit konto:22557.0
-111456:Helaina:Large:200003075224,1710:Debit konto:42788.0#1711:Debit konto:23843.0#1712:Debit konto:32475.0#1713:Debit konto:23438.0
-111457:Rosamund:Rawood:201211121062,1714:Debit konto:35993.0
-111458:Merci:Lupson:199310243807,1715:Debit konto:32789.0
-111459:Emmett:Iacopetti:196102283394,1716:Debit konto:1905.0#1717:Debit konto:42302.0
-111460:Laure:Spandley:199201061151,1718:Debit konto:34323.0#1719:Debit konto:28688.0
-111461:Aldridge:Soame:196412219872
-111462:Gaile:Atter:198911161207,1720:Debit konto:8421.0#1721:Debit konto:26885.0#1722:Debit konto:3822.0
-111463:Bobby:Compford:200107213454,1723:Debit konto:24405.0#1724:Debit konto:32566.0#1725:Debit konto:6937.0
-111464:Kellsie:Jacob:196910259196
-111465:Maritsa:Hunsworth:195908198620,1726:Debit konto:25870.0#1727:Debit konto:9388.0#1728:Debit konto:22196.0
-111466:Paxon:Bulfoy:195809201781,1729:Debit konto:20520.0
-111467:Felita:Cutmare:200204129644,1730:Debit konto:34441.0#1731:Debit konto:15257.0#1732:Debit konto:41680.0
-111468:Angele:Norcutt:197105066558
-111469:Olympe:Domokos:201010183503,1733:Debit konto:37109.0#1734:Debit konto:45224.0
-111470:Tabbatha:Slym:196205242766,1735:Debit konto:4017.0#1736:Debit konto:17241.0#1737:Debit konto:39502.0#1738:Debit konto:9355.0
-111471:Florie:Caulder:200202226784,1739:Debit konto:29086.0#1740:Debit konto:44836.0#1741:Debit konto:36480.0#1742:Debit konto:34355.0
-111472:Harland:Reeks:196309103885,1743:Debit konto:40321.0
-111473:Hewitt:Pither:201611086798,1744:Debit konto:37340.0
-111474:Gael:Lidster:200708098233,1745:Debit konto:41794.0#1746:Debit konto:48889.0#1747:Debit konto:48644.0#1748:Debit konto:33017.0
-111475:Marcelle:Fosserd:199111134007,1749:Debit konto:16344.0
-111476:Lilith:Bloxsome:200608265998,1750:Debit konto:32204.0#1751:Debit konto:24128.0#1752:Debit konto:35994.0#1753:Debit konto:47052.0
-111477:Beryle:Confait:196007076474
-111478:Lionello:Hele:199804134031,1754:Debit konto:49977.0
-111479:Derrick:Wyman:198701026840
-111480:Ber:Minguet:201311176179,1755:Debit konto:16806.0#1756:Debit konto:40580.0#1757:Debit konto:242.0
-111481:Orren:Spurgeon:196706086083,1758:Debit konto:25124.0#1759:Debit konto:38794.0#1760:Debit konto:5285.0#1761:Debit konto:39252.0
-111482:Hanny:Liddard:199608099548,1762:Debit konto:33801.0#1763:Debit konto:24271.0#1764:Debit konto:21528.0
-111483:Vasily:Whittek:195601198692,1765:Debit konto:43634.0
-111484:Frazer:Jarvis:195809195096,1766:Debit konto:26735.0#1767:Debit konto:3064.0#1768:Debit konto:3878.0
-111485:Emmet:Aberdein:201405085916,1769:Debit konto:18538.0#1770:Debit konto:44695.0#1771:Debit konto:40698.0#1772:Debit konto:5263.0
-111486:Lamar:Gauntlett:196105054281,1773:Debit konto:32793.0#1774:Debit konto:9068.0
-111487:Ragnar:Schoolfield:200101056081,1775:Debit konto:11438.0
-111488:Shauna:Boutcher:198801275640,1776:Debit konto:23577.0#1777:Debit konto:45364.0
-111489:Dore:Busher:195405178845,1778:Debit konto:40879.0#1779:Debit konto:15480.0#1780:Debit konto:13890.0
-111490:Janet:Heisman:199304081356,1781:Debit konto:28280.0#1782:Debit konto:28118.0
-111491:Jdavie:Polfer:196012054900,1783:Debit konto:29485.0#1784:Debit konto:48657.0#1785:Debit konto:36480.0
-111492:Quintin:Simonich:200406074538,1786:Debit konto:46542.0#1787:Debit konto:8509.0#1788:Debit konto:39449.0#1789:Debit konto:40399.0
-111493:Lamont:Creasey:198401242991,1790:Debit konto:47282.0#1791:Debit konto:11752.0#1792:Debit konto:15945.0#1793:Debit konto:5677.0
-111494:Dominique:McWard:199211131967,1794:Debit konto:5372.0
-111495:Lanie:Densham:198705191144,1795:Debit konto:14977.0
-111496:Biddie:Impey:198612132501,1796:Debit konto:2346.0#1797:Debit konto:32892.0#1798:Debit konto:32519.0#1799:Debit konto:33981.0
-111497:Etti:Mowsdill:199311018676
-111498:Natalee:Hammond:197102102996,1800:Debit konto:17501.0#1801:Debit konto:35141.0
-111499:Dorry:Zanussii:200007032720,1802:Debit konto:4450.0#1803:Debit konto:38386.0
-111500:Kitty:Dallywater:195610239846,1804:Debit konto:23602.0
-111501:Wanids:McKerton:196006084690,1805:Debit konto:36624.0
-111502:Jania:Balshen:198012132114,1806:Debit konto:34284.0#1807:Debit konto:22168.0
-111503:Neddy:Elgar:196406038671
-111504:Tabbatha:Worham:199208283398,1808:Debit konto:28848.0
-111505:Cori:Valek:195310055578,1809:Debit konto:18176.0#1810:Debit konto:22663.0
-111506:Hubie:Blofield:196902116742
-111507:Ailbert:Waldock:200108121488,1811:Debit konto:43803.0#1812:Debit konto:5943.0#1813:Debit konto:13127.0#1814:Debit konto:835.0
-111508:Zahara:Bilbery:201510149992
-111509:Herby:D'Andrea:195509277985,1815:Debit konto:6382.0#1816:Debit konto:12445.0#1817:Debit konto:23826.0#1818:Debit konto:46317.0
-111510:Sibylla:Benedite:195204018303,1819:Debit konto:32680.0#1820:Debit konto:46415.0
-111511:Madlen:Heaps:195510094291,1821:Debit konto:8963.0
-111512:Lucho:Gaukrodge:196608049951,1822:Debit konto:8949.0
-111513:Nettie:Gullberg:195512244903,1823:Debit konto:8050.0#1824:Debit konto:33083.0#1825:Debit konto:16252.0
-111514:Peggie:Nassau:197008071454,1826:Debit konto:8799.0
-111515:Hugo:Lorans:196512136248,1827:Debit konto:8946.0
-111516:Murray:Greenhough:195712088080,1828:Debit konto:903.0#1829:Debit konto:20306.0
-111517:Mellicent:Vann:198404085709,1830:Debit konto:26102.0#1831:Debit konto:1430.0#1832:Debit konto:7509.0
-111518:Vanna:Leader:202005118126,1833:Debit konto:45028.0#1834:Debit konto:4143.0#1835:Debit konto:3734.0#1836:Debit konto:10662.0
-111519:Ikey:Bugge:195405044988,1837:Debit konto:23836.0#1838:Debit konto:11615.0#1839:Debit konto:30066.0
-111520:Theodoric:Colnet:197205063058,1840:Debit konto:6333.0
-111521:Ceil:Beeson:201102102511,1841:Debit konto:13234.0
-111522:Derk:Goby:195810238742,1842:Debit konto:45137.0#1843:Debit konto:33341.0#1844:Debit konto:33981.0#1845:Debit konto:15807.0
-111523:Annadiane:Glentworth:196303231267
-111524:Sean:Rheaume:200804062361,1846:Debit konto:22543.0#1847:Debit konto:12896.0#1848:Debit konto:33809.0
-111525:Kristofer:Matyja:200202073469,1849:Debit konto:761.0#1850:Debit konto:7089.0
-111526:Tami:Sprade:198902017238
-111527:Beale:Fiorentino:201404033350,1851:Debit konto:46860.0#1852:Debit konto:37583.0#1853:Debit konto:48983.0#1854:Debit konto:26991.0
-111528:Theobald:Currao:197603191150,1855:Debit konto:15074.0#1856:Debit konto:42133.0
-111529:Kriste:Moggan:200410105317,1857:Debit konto:23089.0#1858:Debit konto:2043.0
-111530:Earl:Webland:200703212716,1859:Debit konto:16889.0#1860:Debit konto:26819.0#1861:Debit konto:36250.0#1862:Debit konto:46649.0
-111531:Chan:Duthie:200603175126,1863:Debit konto:47726.0#1864:Debit konto:23637.0
-111532:Welsh:Genty:197609094706,1865:Debit konto:29795.0#1866:Debit konto:8989.0#1867:Debit konto:16047.0
-111533:Cletus:Braden:200401199282,1868:Debit konto:46691.0#1869:Debit konto:42236.0#1870:Debit konto:20585.0#1871:Debit konto:26453.0
-111534:Jacqueline:Hanney:195701262497
-111535:Dinnie:Lacroux:200404223022
-111536:Kelly:Medford:201109267659
-111537:Robb:Dagon:198610144571
-111538:Prince:Savidge:196607162565,1872:Debit konto:32327.0#1873:Debit konto:42312.0#1874:Debit konto:6848.0#1875:Debit konto:28179.0
-111539:Shirlene:Greetham:195801225065,1876:Debit konto:9869.0
-111540:Godiva:Christophers:199312277333
-111541:Karen:Loy:199307221356,1877:Debit konto:7032.0
-111542:Norma:Benmore:201305043019,1878:Debit konto:15812.0#1879:Debit konto:49243.0#1880:Debit konto:1470.0#1881:Debit konto:36097.0
-111543:Ashleigh:Barts:200606141347,1882:Debit konto:34511.0#1883:Debit konto:47989.0
-111544:Dalton:Cagan:195505058801
-111545:Wolf:Jeffcoate:199902068203
-111546:Ruby:Cheek:201201225305,1884:Debit konto:25048.0
-111547:Alaine:Farquharson:195511208477,1885:Debit konto:10023.0#1886:Debit konto:41966.0#1887:Debit konto:19050.0#1888:Debit konto:39581.0
-111548:Bambie:Fransseni:195601183810,1889:Debit konto:33860.0#1890:Debit konto:12892.0
-111549:Gunner:Rhelton:198408218228,1891:Debit konto:46158.0#1892:Debit konto:32673.0#1893:Debit konto:45176.0
-111550:Benedicto:Whewill:195902284814,1894:Debit konto:32607.0#1895:Debit konto:8976.0#1896:Debit konto:2115.0
-111551:Mara:Dines:201002209714,1897:Debit konto:5773.0#1898:Debit konto:41263.0
-111552:Christie:Chetwind:199001153493,1899:Debit konto:2689.0
-111553:Cirstoforo:McOmish:200812036539,1900:Debit konto:6522.0#1901:Debit konto:1193.0
-111554:Germayne:Herion:198807097009,1902:Debit konto:1192.0#1903:Debit konto:39190.0#1904:Debit konto:43573.0
-111555:Schuyler:Auchterlonie:198202158520,1905:Debit konto:27186.0#1906:Debit konto:49478.0#1907:Debit konto:20671.0
-111556:Gabriele:Voase:200008162324,1908:Debit konto:35919.0
-111557:Ware:Tossell:195612171520
-111558:Ingra:Kelcher:198105105446,1909:Debit konto:15661.0#1910:Debit konto:38721.0
-111559:Mick:Drewe:201007036497,1911:Debit konto:36309.0
-111560:Nancy:Tourville:197911031094,1912:Debit konto:14517.0
-111561:Suzette:O'Hanley:198702141071
-111562:Queenie:Stanislaw:195104216736
-111563:Vally:Dreier:199910072146,1913:Debit konto:42802.0#1914:Debit konto:19461.0#1915:Debit konto:34057.0
-111564:Silvester:Karchowski:199310096353,1916:Debit konto:13078.0#1917:Debit konto:7404.0#1918:Debit konto:15448.0
-111565:Pooh:Yokelman:197205182936,1919:Debit konto:21964.0
-111566:Claudianus:Laing:198610181530,1920:Debit konto:704.0
-111567:Coralie:Cossom:198807228072,1921:Debit konto:10351.0#1922:Debit konto:6106.0#1923:Debit konto:27500.0
-111568:Chancey:Mordin:196209132097,1924:Debit konto:13810.0
-111569:Addy:Ungerecht:200909087485
-111570:Ethelind:Primarolo:197702025873,1925:Debit konto:24207.0
-111571:Frederique:Houndson:196803116673,1926:Debit konto:38821.0
-111572:Lesli:Banghe:200105212252,1927:Debit konto:13476.0#1928:Debit konto:221.0#1929:Debit konto:1923.0#1930:Debit konto:1891.0
-111573:Cornelle:Caller:196911095802,1931:Debit konto:11295.0#1932:Debit konto:39691.0
-111574:Adham:Beauman:196707168967,1933:Debit konto:44714.0#1934:Debit konto:43838.0#1935:Debit konto:6200.0#1936:Debit konto:33093.0
-111575:Edwin:Colquete:198407205615,1937:Debit konto:35413.0#1938:Debit konto:3164.0#1939:Debit konto:46302.0#1940:Debit konto:25748.0
-111576:Peria:Leppard:199209013836,1941:Debit konto:16608.0#1942:Debit konto:20166.0#1943:Debit konto:42930.0
-111577:Christine:Gann:196104093676,1944:Debit konto:47865.0#1945:Debit konto:27151.0#1946:Debit konto:9899.0#1947:Debit konto:19403.0
-111578:Bertrando:Battleson:197212187335,1948:Debit konto:10016.0#1949:Debit konto:30451.0
-111579:Lion:Rhodef:197011265806,1950:Debit konto:5921.0#1951:Debit konto:20411.0
-111580:Martina:Tomadoni:199504049272,1952:Debit konto:9963.0#1953:Debit konto:21070.0#1954:Debit konto:1541.0
-111581:Rubi:Stoney:199406267342,1955:Debit konto:37157.0#1956:Debit konto:10811.0
-111582:Agace:Kintish:199012032444
-111583:Yurik:Veneur:199508137551,1957:Debit konto:45238.0#1958:Debit konto:33229.0#1959:Debit konto:39907.0#1960:Debit konto:44249.0
-111584:Ibbie:Caff:195710241110,1961:Debit konto:45200.0#1962:Debit konto:11073.0#1963:Debit konto:2159.0#1964:Debit konto:1903.0
-111585:Paul:Cantrell:198102061747,1965:Debit konto:41876.0#1966:Debit konto:684.0
-111586:Ferrel:Petschel:196311067520,1967:Debit konto:23428.0#1968:Debit konto:3363.0
-111587:Berkeley:Stenet:195202053097,1969:Debit konto:9734.0
-111588:Tabor:Tuberfield:198710246229,1970:Debit konto:23728.0#1971:Debit konto:25013.0#1972:Debit konto:6034.0#1973:Debit konto:38216.0
-111589:Stepha:Labram:201604265619
-111590:Ive:Verissimo:199109047630,1974:Debit konto:34575.0#1975:Debit konto:6230.0#1976:Debit konto:17673.0#1977:Debit konto:14807.0
-111591:Shaine:Marzella:197902103324,1978:Debit konto:2513.0#1979:Debit konto:22683.0
-111592:Claresta:Ugolotti:196810163411,1980:Debit konto:22648.0
-111593:Mattie:Salvidge:200006051713,1981:Debit konto:19145.0#1982:Debit konto:37360.0
-111594:Jaymie:Richemont:196208226904
-111595:Alma:Lis:198412148684,1983:Debit konto:39771.0#1984:Debit konto:26979.0#1985:Debit konto:46600.0#1986:Debit konto:8389.0
-111596:Larry:Plank:198810169858
-111597:Kerri:Gaines:198105224067,1987:Debit konto:19386.0#1988:Debit konto:884.0
-111598:Eb:Bendel:196008173855,1989:Debit konto:48159.0#1990:Debit konto:3152.0#1991:Debit konto:33705.0#1992:Debit konto:22569.0
-111599:Boonie:Pellamonuten:200306228187,1993:Debit konto:47607.0#1994:Debit konto:40700.0#1995:Debit konto:10103.0
-111600:Kelcie:Sheaber:198403024228,1996:Debit konto:17199.0#1997:Debit konto:16788.0#1998:Debit konto:19886.0#1999:Debit konto:42393.0
-111601:Donaugh:Lumb:195910019612
-111602:Kalil:Lassells:200109031381
-111603:Layton:Luscott:198109134519,2000:Debit konto:2639.0#2001:Debit konto:3504.0#2002:Debit konto:13008.0#2003:Debit konto:24317.0
-111604:Ginelle:Pleaden:196109271283,2004:Debit konto:45552.0#2005:Debit konto:15920.0#2006:Debit konto:48256.0#2007:Debit konto:21503.0
-111605:Venus:Struan:199003179145,2008:Debit konto:49801.0
-111606:Corena:Hellings:202109066861,2009:Debit konto:18002.0
-111607:Berkeley:Faustin:199106271958,2010:Debit konto:11078.0#2011:Debit konto:36683.0#2012:Debit konto:39798.0#2013:Debit konto:46196.0
-111608:Gavra:Wyeld:199004104976,2014:Debit konto:15968.0#2015:Debit konto:21663.0
-111609:Barrie:Simenel:201601209653,2016:Debit konto:2843.0#2017:Debit konto:23021.0#2018:Debit konto:10634.0
-111610:Dode:Dombrell:197808179513,2019:Debit konto:13592.0
-111611:Analiese:Arboine:195208276291,2020:Debit konto:46709.0#2021:Debit konto:3514.0
-111612:Parry:O'Longain:195308081767,2022:Debit konto:45027.0
-111613:Ulrich:Grissett:196105092138,2023:Debit konto:45444.0#2024:Debit konto:15074.0
-111614:Abigael:Barme:200205138186,2025:Debit konto:48760.0
-111615:Doralyn:Itzhayek:199812284472,2026:Debit konto:49902.0#2027:Debit konto:8127.0#2028:Debit konto:33803.0#2029:Debit konto:44997.0
-111616:Janey:Selland:196703117476,2030:Debit konto:14010.0#2031:Debit konto:1928.0#2032:Debit konto:8755.0#2033:Debit konto:44730.0
-111617:Jason:Crosio:195307082457,2034:Debit konto:45732.0#2035:Debit konto:7171.0
-111618:Gunner:Verner:197005122916,2036:Debit konto:34463.0#2037:Debit konto:10722.0#2038:Debit konto:13093.0
-111619:Lonnie:Ledgerton:196906233383,2039:Debit konto:14505.0#2040:Debit konto:47341.0#2041:Debit konto:42890.0#2042:Debit konto:48739.0
-111620:Rubetta:Duddle:198610223688,2043:Debit konto:41724.0#2044:Debit konto:16386.0#2045:Debit konto:38798.0#2046:Debit konto:36539.0
-111621:Jannelle:Poskitt:199706207803
-111622:Logan:Whitcher:199112285107,2047:Debit konto:21754.0
-111623:Antonella:Careswell:199306188382,2048:Debit konto:25757.0#2049:Debit konto:39354.0
-111624:Brodie:Meas:200512103256,2050:Debit konto:49766.0#2051:Debit konto:2561.0#2052:Debit konto:1017.0
-111625:Norry:Hoovart:199903232707,2053:Debit konto:12522.0#2054:Debit konto:17957.0#2055:Debit konto:17384.0#2056:Debit konto:21237.0
-111626:Winne:Lawty:199002235242,2057:Debit konto:7681.0#2058:Debit konto:28579.0
-111627:Yolanda:Braferton:195007011315
-111628:Wylie:Sidebotton:195106108138,2059:Debit konto:47609.0
-111629:Leta:Atcherley:197808012624,2060:Debit konto:47886.0#2061:Debit konto:40369.0#2062:Debit konto:27516.0
-111630:Bronnie:Sidden:199803177543,2063:Debit konto:23845.0#2064:Debit konto:33812.0#2065:Debit konto:25131.0#2066:Debit konto:11712.0
-111631:Nial:Etherton:201909223303,2067:Debit konto:9928.0#2068:Debit konto:6027.0#2069:Debit konto:11944.0
-111632:Karolina:Norton:199004082872,2070:Debit konto:10924.0#2071:Debit konto:4092.0
-111633:Ingra:Grayston:196204094330,2072:Debit konto:3893.0#2073:Debit konto:47996.0#2074:Debit konto:23309.0#2075:Debit konto:4705.0
-111634:Yasmeen:MacGow:199708281041,2076:Debit konto:15825.0#2077:Debit konto:45783.0
-111635:Myrta:Selwin:197710144203,2078:Debit konto:33065.0#2079:Debit konto:27211.0
-111636:Emmy:Kloser:196301129902,2080:Debit konto:36747.0
-111637:Shawna:Abells:195705171918,2081:Debit konto:38767.0
-111638:Agnesse:Esselin:199301018780,2082:Debit konto:40510.0
-111639:Prudi:Willbourne:196306183648,2083:Debit konto:7098.0#2084:Debit konto:38917.0
-111640:Carmen:Fusedale:197512233597,2085:Debit konto:43952.0
-111641:Donal:Agnolo:200205287082
-111642:Jamey:Rowbury:196504276464,2086:Debit konto:18878.0
-111643:Ralph:Cheverell:196601193411,2087:Debit konto:5332.0
-111644:Vinson:Neller:196607062518,2088:Debit konto:27268.0
-111645:Sid:Burfitt:201507161621,2089:Debit konto:37757.0#2090:Debit konto:7688.0#2091:Debit konto:8803.0#2092:Debit konto:46353.0
-111646:Dall:Devoy:201209248267,2093:Debit konto:34144.0#2094:Debit konto:35965.0#2095:Debit konto:24504.0
-111647:Rube:Lansley:200007197226,2096:Debit konto:43740.0#2097:Debit konto:5279.0#2098:Debit konto:24166.0
-111648:Mallory:Darby:196204275815,2099:Debit konto:18575.0#2100:Debit konto:12182.0#2101:Debit konto:34944.0#2102:Debit konto:23049.0
-111649:Terence:Cudbird:197505086174,2103:Debit konto:47882.0
-111650:Tailor:Edlyn:198006287677,2104:Debit konto:30104.0#2105:Debit konto:10599.0#2106:Debit konto:19185.0#2107:Debit konto:24196.0
-111651:Maggee:Devas:201912079351,2108:Debit konto:5167.0#2109:Debit konto:17093.0
-111652:Manon:Cromley:197306169401,2110:Debit konto:10382.0
-111653:Nelie:Deaton:196401021334,2111:Debit konto:32500.0#2112:Debit konto:43913.0#2113:Debit konto:48729.0
-111654:Cecilia:Wadly:199412076032,2114:Debit konto:12391.0#2115:Debit konto:42961.0
-111655:Lothario:Hovenden:199302097638,2116:Debit konto:45826.0#2117:Debit konto:8952.0#2118:Debit konto:3536.0#2119:Debit konto:2550.0
-111656:Fitzgerald:Colrein:200212145171,2120:Debit konto:31114.0
-111657:Felizio:Winnard:201311257440,2121:Debit konto:11553.0#2122:Debit konto:33960.0
-111658:Dalston:Gillion:197708226052,2123:Debit konto:39176.0
-111659:Windham:Greetland:200110238893,2124:Debit konto:43755.0#2125:Debit konto:13762.0#2126:Debit konto:46263.0
-111660:Jessie:Marin:200405248731
-111661:Juliana:Speed:200811225208,2127:Debit konto:25824.0#2128:Debit konto:10345.0#2129:Debit konto:2880.0
-111662:Isa:Qusklay:200001186794,2130:Debit konto:17687.0#2131:Debit konto:40496.0#2132:Debit konto:18132.0#2133:Debit konto:27923.0
-111663:Elliot:Czaja:197002051184,2134:Debit konto:29105.0#2135:Debit konto:35092.0#2136:Debit konto:24045.0#2137:Debit konto:7370.0
-111664:Aurore:Tindley:198209073288,2138:Debit konto:24788.0#2139:Debit konto:36500.0#2140:Debit konto:16996.0
-111665:Fidela:Matelaitis:197002285453,2141:Debit konto:39014.0#2142:Debit konto:33168.0#2143:Debit konto:22332.0#2144:Debit konto:2522.0
-111666:Charlean:Le Friec:196106208842,2145:Debit konto:48898.0#2146:Debit konto:28534.0#2147:Debit konto:41560.0
-111667:Adriana:Geertsen:196810047370,2148:Debit konto:3898.0#2149:Debit konto:45315.0#2150:Debit konto:21066.0#2151:Debit konto:4926.0
-111668:Lisetta:Pennetta:201112253909,2152:Debit konto:19401.0
-111669:Marillin:Herrieven:200304151965,2153:Debit konto:44168.0#2154:Debit konto:42095.0
-111670:Minetta:Dibben:201311019386
-111671:Loella:Hucks:198810221293,2155:Debit konto:42926.0#2156:Debit konto:48156.0#2157:Debit konto:28009.0#2158:Debit konto:16020.0
-111672:Humbert:Mardling:202105115224
-111673:Desi:Attride:201401156148,2159:Debit konto:5222.0
-111674:Sigrid:Willoughby:200309236736,2160:Debit konto:22175.0
-111675:Kalila:Sundin:198404242187,2161:Debit konto:48961.0#2162:Debit konto:12086.0
-111676:Ibbie:Presley:197804134175,2163:Debit konto:15949.0
-111677:Anson:Kerbler:196609047568,2164:Debit konto:42674.0#2165:Debit konto:20365.0#2166:Debit konto:41884.0
-111678:Suellen:Gaskell:196306233713,2167:Debit konto:9362.0#2168:Debit konto:30367.0#2169:Debit konto:40307.0
-111679:Noelyn:Belone:196003155602
-111680:Jillian:Myderscough:196602172367,2170:Debit konto:29384.0#2171:Debit konto:5515.0#2172:Debit konto:7556.0
-111681:Cooper:Chanders:197005201170,2173:Debit konto:49203.0
-111682:Itch:Hatherley:197511115013
-111683:Lolita:Dundon:200812027191,2174:Debit konto:19790.0#2175:Debit konto:4362.0#2176:Debit konto:46062.0#2177:Debit konto:39419.0
-111684:Regan:MacKay:200205057979,2178:Debit konto:30129.0#2179:Debit konto:35238.0#2180:Debit konto:30460.0
-111685:My:Barizeret:195905049621,2181:Debit konto:30509.0#2182:Debit konto:34163.0#2183:Debit konto:20917.0
-111686:Kippar:Oldfield:199402195828,2184:Debit konto:2175.0
-111687:Cleavland:Hillatt:195107288366,2185:Debit konto:8114.0#2186:Debit konto:28013.0#2187:Debit konto:8969.0
-111688:Debbi:Gloy:195708103248,2188:Debit konto:46837.0#2189:Debit konto:34662.0#2190:Debit konto:17219.0#2191:Debit konto:23488.0
-111689:Averyl:McCrudden:198508136283,2192:Debit konto:6781.0
-111690:Letizia:O'Beirne:200408206928,2193:Debit konto:21559.0#2194:Debit konto:6602.0#2195:Debit konto:26858.0#2196:Debit konto:11199.0
-111691:Ugo:Monan:198904089495,2197:Debit konto:3215.0
-111692:Clarinda:Jedras:197303083238,2198:Debit konto:29311.0#2199:Debit konto:8332.0#2200:Debit konto:13165.0#2201:Debit konto:29265.0
-111693:Audrey:Stenbridge:197807197816,2202:Debit konto:13148.0#2203:Debit konto:4445.0
-111694:Ginny:Mahaffey:198209256602,2204:Debit konto:45793.0#2205:Debit konto:42660.0#2206:Debit konto:19032.0#2207:Debit konto:19529.0
-111695:Oriana:Hendrix:196107254449,2208:Debit konto:32092.0#2209:Debit konto:18682.0#2210:Debit konto:19072.0#2211:Debit konto:42624.0
-111696:Elle:Warboy:201612122616
-111697:Chas:Lapping:200301018288
-111698:Sander:Kinglesyd:197706152655,2212:Debit konto:31304.0#2213:Debit konto:26120.0#2214:Debit konto:18099.0
-111699:Marijn:Scambler:198808251098
-111700:Min:Sandels:201704155983,2215:Debit konto:44290.0#2216:Debit konto:12568.0
-111701:Jessi:Basey:197007021191,2217:Debit konto:13061.0#2218:Debit konto:21057.0#2219:Debit konto:1014.0
-111702:Letta:Powlesland:199911271612,2220:Debit konto:26211.0#2221:Debit konto:3248.0#2222:Debit konto:9657.0
-111703:Mathias:MacKartan:197106267774,2223:Debit konto:40943.0#2224:Debit konto:2716.0#2225:Debit konto:46452.0
-111704:Caz:Pariss:201801152616,2226:Debit konto:2451.0#2227:Debit konto:38253.0
-111705:Rube:O'Sherrin:196312204891,2228:Debit konto:35919.0
-111706:Jamie:McBoyle:198907159127,2229:Debit konto:40009.0#2230:Debit konto:5555.0#2231:Debit konto:1926.0#2232:Debit konto:48597.0
-111707:Dona:Vickar:200604167610,2233:Debit konto:20516.0#2234:Debit konto:13848.0
-111708:Vanessa:Michelin:197210156205,2235:Debit konto:44747.0#2236:Debit konto:44953.0#2237:Debit konto:24709.0#2238:Debit konto:9372.0
-111709:Bree:Bilsborrow:200807135928
-111710:Myrle:Jiles:198907135640,2239:Debit konto:16594.0
-111711:Garey:Linacre:198804157498,2240:Debit konto:33380.0#2241:Debit konto:10104.0#2242:Debit konto:34122.0#2243:Debit konto:12273.0
-111712:Colette:Keysall:200011152759,2244:Debit konto:45880.0#2245:Debit konto:29157.0#2246:Debit konto:45778.0#2247:Debit konto:23914.0
-111713:Jehanna:Ellershaw:201206233925,2248:Debit konto:11342.0#2249:Debit konto:31558.0#2250:Debit konto:13939.0
-111714:Hetty:Prahm:196205226353,2251:Debit konto:38333.0#2252:Debit konto:34161.0
-111715:Peggi:Cobb:196907013031,2253:Debit konto:4369.0#2254:Debit konto:22991.0
-111716:Melody:Ugoletti:199104013667,2255:Debit konto:10811.0#2256:Debit konto:807.0#2257:Debit konto:8340.0
-111717:Theresita:Mochan:198803176673,2258:Debit konto:38423.0#2259:Debit konto:44540.0#2260:Debit konto:49881.0
-111718:Carolee:Thurnham:197811181496,2261:Debit konto:21992.0#2262:Debit konto:7472.0#2263:Debit konto:23206.0
-111719:Denice:Zieme:199501233907
-111720:Bruno:Beards:199102037071,2264:Debit konto:47158.0#2265:Debit konto:16264.0#2266:Debit konto:4071.0
-111721:Fenelia:McKerlie:199408052927,2267:Debit konto:138.0
-111722:Alli:Barden:198112145160,2268:Debit konto:9131.0#2269:Debit konto:13374.0
-111723:Adrea:de Juares:201706274072,2270:Debit konto:26292.0
-111724:Petra:Birds:199602109270,2271:Debit konto:47551.0
-111725:Launce:Lygo:202008043174,2272:Debit konto:44280.0
-111726:Flynn:Yurocjkin:201310246891
-111727:Florence:Larn:199611236287,2273:Debit konto:31358.0#2274:Debit konto:24072.0#2275:Debit konto:25886.0#2276:Debit konto:42715.0
-111728:Kaylyn:Lanchberry:195405179907,2277:Debit konto:25891.0#2278:Debit konto:35478.0#2279:Debit konto:41832.0#2280:Debit konto:23469.0
-111729:Tiler:Philpotts:198612215523,2281:Debit konto:41225.0#2282:Debit konto:12753.0#2283:Debit konto:45499.0#2284:Debit konto:35985.0
-111730:Bartholomew:Stubbington:197903011867,2285:Debit konto:23544.0#2286:Debit konto:8082.0#2287:Debit konto:29159.0#2288:Debit konto:48639.0
-111731:Chrysler:Shooter:195407212424,2289:Debit konto:42254.0
-111732:Galina:Nibloe:199512239277,2290:Debit konto:36448.0
-111733:Barr:Stanier:200708171571,2291:Debit konto:9223.0#2292:Debit konto:1872.0#2293:Debit konto:5850.0
-111734:Woodman:Geratasch:196803163782,2294:Debit konto:31058.0#2295:Debit konto:15893.0#2296:Debit konto:44186.0
-111735:Maxim:Rimington:200907106098,2297:Debit konto:14121.0#2298:Debit konto:30486.0#2299:Debit konto:9034.0#2300:Debit konto:29985.0
-111736:Elenore:Filipovic:197005022161
-111737:Cassie:Mayling:201409148060,2301:Debit konto:33746.0#2302:Debit konto:18889.0
-111738:Malena:Mossbee:196103254458
-111739:Sheryl:Earwicker:201702198615,2303:Debit konto:8332.0#2304:Debit konto:13622.0
-111740:Kenon:McCutheon:195207023800,2305:Debit konto:20561.0
-111741:Sophi:Brundrett:200606037857,2306:Debit konto:14805.0
-111742:Warden:Oyley:201102073696,2307:Debit konto:29181.0
-111743:Rheta:Espinas:202108171996,2308:Debit konto:10210.0
-111744:Bertie:Varnals:198009125006,2309:Debit konto:39666.0#2310:Debit konto:43184.0#2311:Debit konto:33674.0
-111745:Darrel:Lapwood:197702276073,2312:Debit konto:24813.0#2313:Debit konto:11132.0#2314:Debit konto:13132.0
-111746:Kile:Bruneau:201402015774,2315:Debit konto:2080.0
-111747:Luis:Geare:198705235146
-111748:Felisha:Tappin:201907265764,2316:Debit konto:35685.0#2317:Debit konto:11898.0#2318:Debit konto:12205.0
-111749:Armstrong:Prew:197108116278,2319:Debit konto:34364.0#2320:Debit konto:2351.0#2321:Debit konto:38860.0#2322:Debit konto:34692.0
-111750:Araldo:Gosneye:200511288993
-111751:Martainn:Shortland:198404081933,2323:Debit konto:8083.0#2324:Debit konto:45885.0
-111752:Krishna:Moulsdall:200706056569,2325:Debit konto:43962.0
-111753:Almeta:Kenefick:196702231034,2326:Debit konto:37645.0#2327:Debit konto:18657.0#2328:Debit konto:24755.0
-111754:Kaia:Herries:200106073292
-111755:Carter:Krammer:197305171239,2329:Debit konto:41012.0#2330:Debit konto:17104.0
-111756:Doroteya:Nares:202102099920,2331:Debit konto:13079.0#2332:Debit konto:9719.0#2333:Debit konto:19612.0#2334:Debit konto:48769.0
-111757:Arlene:Melendez:200001198703,2335:Debit konto:8887.0
-111758:Hendrick:Newlyn:201504057210,2336:Debit konto:41313.0#2337:Debit konto:18971.0#2338:Debit konto:20072.0
-111759:Mari:Linturn:198005206157,2339:Debit konto:25348.0#2340:Debit konto:1167.0
-111760:Edee:Ardron:199805182925
-111761:Nonah:Bettison:198808175030,2341:Debit konto:24045.0
-111762:Humfrid:Geerdts:197303287388,2342:Debit konto:49772.0#2343:Debit konto:46790.0
-111763:Vallie:Gerriessen:197308071819,2344:Debit konto:17344.0
-111764:Aprilette:Domaschke:199006168749,2345:Debit konto:12642.0#2346:Debit konto:17122.0#2347:Debit konto:12266.0
-111765:Katya:Mottini:195104154434,2348:Debit konto:40942.0
-111766:Kristo:Kob:201711014545,2349:Debit konto:48749.0
-111767:Fabe:Opie:199407234311,2350:Debit konto:32706.0#2351:Debit konto:40016.0#2352:Debit konto:24477.0#2353:Debit konto:48923.0
-111768:Aldridge:Munt:201712192855
-111769:Dudley:Rodda:201502126347,2354:Debit konto:35.0#2355:Debit konto:12912.0
-111770:Camile:Askam:195912248332,2356:Debit konto:36507.0
-111771:Amos:Mathet:197906173035,2357:Debit konto:35414.0#2358:Debit konto:18488.0#2359:Debit konto:7444.0
-111772:Della:Sproson:195906157558
-111773:Natty:Deetlefs:198209034084
-111774:Verla:Bellee:199008123040,2360:Debit konto:8233.0#2361:Debit konto:27421.0#2362:Debit konto:49689.0
-111775:Burke:Reucastle:198504097163,2363:Debit konto:27186.0
-111776:Em:Scott:201511178668,2364:Debit konto:17127.0#2365:Debit konto:36354.0#2366:Debit konto:31183.0#2367:Debit konto:27544.0
-111777:Rand:Stonard:200108108891,2368:Debit konto:14412.0#2369:Debit konto:29856.0
-111778:Edy:Stive:198006253983,2370:Debit konto:46336.0#2371:Debit konto:45432.0#2372:Debit konto:41467.0
-111779:Clio:Casterou:195708049086,2373:Debit konto:36427.0#2374:Debit konto:43827.0
-111780:Lloyd:Byron:197007277801,2375:Debit konto:15457.0#2376:Debit konto:13257.0
-111781:Tadeo:Perkis:197603276557,2377:Debit konto:27627.0#2378:Debit konto:31985.0#2379:Debit konto:38138.0#2380:Debit konto:22498.0
-111782:Ezmeralda:Lanphere:197206013447,2381:Debit konto:8535.0#2382:Debit konto:10542.0#2383:Debit konto:17375.0
-111783:Adlai:Merwe:200405131648
-111784:Lucais:Philippe:200103218511,2384:Debit konto:7129.0#2385:Debit konto:48428.0#2386:Debit konto:48217.0#2387:Debit konto:24289.0
-111785:Fulton:Ferfulle:201701216830,2388:Debit konto:47582.0
-111786:Hayward:Cressor:201012231241
-111787:Stephan:Pierton:198105185568
-111788:Pepito:Ullock:195610243860,2389:Debit konto:12355.0#2390:Debit konto:46066.0#2391:Debit konto:4758.0#2392:Debit konto:7362.0
-111789:Alleen:Feehely:199302033451,2393:Debit konto:44220.0#2394:Debit konto:28222.0
-111790:Sephira:Elfes:196202025561,2395:Debit konto:8269.0#2396:Debit konto:22647.0
-111791:Marlin:Goodband:196211219112,2397:Debit konto:19090.0#2398:Debit konto:18395.0#2399:Debit konto:25437.0#2400:Debit konto:38160.0
-111792:Roscoe:Dockree:195209065526,2401:Debit konto:7462.0#2402:Debit konto:2363.0#2403:Debit konto:25307.0
-111793:Rocky:Ferretti:201307104144,2404:Debit konto:3946.0
-111794:Jarrod:Fasse:202001157816,2405:Debit konto:29802.0#2406:Debit konto:11729.0#2407:Debit konto:47512.0#2408:Debit konto:10689.0
-111795:Amara:Loach:201106051199,2409:Debit konto:21359.0#2410:Debit konto:11884.0#2411:Debit konto:10922.0#2412:Debit konto:11348.0
-111796:Marty:Meldrum:195409275460,2413:Debit konto:18670.0#2414:Debit konto:27707.0#2415:Debit konto:38136.0
-111797:Anderea:Wandless:200710238928,2416:Debit konto:42633.0#2417:Debit konto:13416.0#2418:Debit konto:16431.0
-111798:Gwyn:Bretton:198406247005,2419:Debit konto:13974.0#2420:Debit konto:44262.0#2421:Debit konto:49481.0#2422:Debit konto:45207.0
-111799:Dale:Ubee:199004179777,2423:Debit konto:1611.0#2424:Debit konto:44402.0
-111800:Alidia:Padbury:197709253522,2425:Debit konto:41192.0
-111801:Bird:De Maine:195604164284
-111802:Cacilie:Sewill:199404203067,2426:Debit konto:12032.0#2427:Debit konto:47053.0#2428:Debit konto:21920.0#2429:Debit konto:45553.0
-111803:Bertie:Randalson:200406045961,2430:Debit konto:2392.0#2431:Debit konto:36536.0#2432:Debit konto:27203.0
-111804:Enriqueta:Bullocke:199406124588,2433:Debit konto:10717.0
-111805:Geoffrey:Shutte:196406188175,2434:Debit konto:37422.0
-111806:Wayne:Favelle:200602011948,2435:Debit konto:42527.0#2436:Debit konto:33240.0#2437:Debit konto:38107.0#2438:Debit konto:36409.0
-111807:Dorena:Flecknoe:198007136523,2439:Debit konto:12308.0#2440:Debit konto:43153.0
-111808:Cherry:Maffione:196001197789,2441:Debit konto:16954.0#2442:Debit konto:21400.0
-111809:Mil:Breewood:202109138134
-111810:Wood:Forestel:201307224748,2443:Debit konto:37122.0#2444:Debit konto:47227.0
-111811:Homerus:Wickersley:195705043245,2445:Debit konto:32582.0#2446:Debit konto:16636.0
-111812:Josy:Kneafsey:201405063690
-111813:Juieta:Griffoen:200001026801
-111814:Bennie:Domenichelli:198211275876,2447:Debit konto:8491.0#2448:Debit konto:39065.0
-111815:Genvieve:Blower:200810117598,2449:Debit konto:25773.0#2450:Debit konto:24206.0#2451:Debit konto:45979.0#2452:Debit konto:28838.0
-111816:Aloin:Rance:196607251126,2453:Debit konto:46631.0#2454:Debit konto:46360.0#2455:Debit konto:32975.0#2456:Debit konto:34524.0
-111817:Katie:McPhilip:195109252401,2457:Debit konto:35746.0#2458:Debit konto:26163.0
-111818:Clotilda:Popelay:196407144241
-111819:Jonas:Ethelston:200310107407,2459:Debit konto:38958.0#2460:Debit konto:38076.0#2461:Debit konto:11968.0#2462:Debit konto:38311.0
-111820:Pierson:Rizzini:195712077225,2463:Debit konto:19210.0
-111821:Brandie:Kofax:201302215146,2464:Debit konto:17582.0
-111822:Lek:Kordes:201201241064,2465:Debit konto:23667.0#2466:Debit konto:47981.0#2467:Debit konto:36638.0
-111823:Shamus:Redhouse:198305193181,2468:Debit konto:44654.0
-111824:Banky:Cheatle:201204189157,2469:Debit konto:17956.0
-111825:Anna-maria:Danilyak:202007146704,2470:Debit konto:11864.0
-111826:Stephie:Creaven:199409274321,2471:Debit konto:13962.0
-111827:Constance:Megroff:197305173123,2472:Debit konto:23547.0#2473:Debit konto:34565.0
-111828:Jessalin:Doore:199904174260,2474:Debit konto:29492.0#2475:Debit konto:32289.0
-111829:Rooney:Lawlings:201205011506,2476:Debit konto:2724.0#2477:Debit konto:38264.0
-111830:Blanche:Ringsell:198110181483,2478:Debit konto:46363.0
-111831:Reinald:Champney:196704117811
-111832:Waylin:Waitland:200707288059,2479:Debit konto:13435.0#2480:Debit konto:43933.0#2481:Debit konto:17620.0#2482:Debit konto:34164.0
-111833:Ira:Stranieri:199510135264,2483:Debit konto:48703.0#2484:Debit konto:36171.0#2485:Debit konto:40381.0
-111834:Avie:Reignould:198306051282,2486:Debit konto:39540.0#2487:Debit konto:7944.0#2488:Debit konto:31813.0
-111835:Gwyn:Du Pre:197005148163,2489:Debit konto:47442.0#2490:Debit konto:47431.0#2491:Debit konto:9054.0#2492:Debit konto:21830.0
-111836:Frannie:Wale:197110054918,2493:Debit konto:4299.0
-111837:Aime:Whisby:201804218869,2494:Debit konto:37545.0#2495:Debit konto:49911.0
-111838:Ingelbert:Corde:200011058373,2496:Debit konto:38980.0#2497:Debit konto:10103.0
-111839:Ethel:Hardwell:201001022026,2498:Debit konto:17312.0#2499:Debit konto:5112.0#2500:Debit konto:11579.0#2501:Debit konto:39499.0
-111840:Terri-jo:Strang:195410023848,2502:Debit konto:48992.0#2503:Debit konto:26689.0#2504:Debit konto:43693.0#2505:Debit konto:8866.0
-111841:Brooks:Heritege:201306034826,2506:Debit konto:45745.0#2507:Debit konto:21580.0#2508:Debit konto:36527.0
-111842:Joyan:Shepperd:202105126103,2509:Debit konto:21887.0
-111843:Siusan:Codlin:196706034521,2510:Debit konto:25279.0#2511:Debit konto:4699.0#2512:Debit konto:40582.0#2513:Debit konto:35553.0
-111844:Shelagh:Dabling:195711114482
-111845:Fidelio:Yakunchikov:201510092603,2514:Debit konto:41490.0#2515:Debit konto:30126.0
-111846:Whitby:Rodwell:199011053816,2516:Debit konto:9898.0#2517:Debit konto:35746.0
-111847:Pebrook:Wornham:198212226049,2518:Debit konto:33834.0#2519:Debit konto:22601.0#2520:Debit konto:5548.0#2521:Debit konto:28761.0
-111848:Saundra:Aleksidze:197204023075,2522:Debit konto:20772.0#2523:Debit konto:21591.0#2524:Debit konto:12414.0
-111849:Ardelia:Chestney:197307218878,2525:Debit konto:1810.0#2526:Debit konto:43543.0#2527:Debit konto:19428.0#2528:Debit konto:42710.0
-111850:Gabbey:Balas:201210089207,2529:Debit konto:2594.0#2530:Debit konto:2392.0#2531:Debit konto:6844.0#2532:Debit konto:31282.0
-111851:Gay:Berwick:201805262981,2533:Debit konto:2083.0
-111852:Carlie:Gribbins:199609131717,2534:Debit konto:41608.0#2535:Debit konto:30029.0#2536:Debit konto:45382.0#2537:Debit konto:29226.0
-111853:Galen:Britnell:202012255549,2538:Debit konto:28114.0
-111854:Alyse:Dartnell:201703028495,2539:Debit konto:48485.0#2540:Debit konto:23979.0#2541:Debit konto:8580.0#2542:Debit konto:11974.0
-111855:Patric:Tesimon:196005174688
-111856:Annmaria:Bilson:201603089177,2543:Debit konto:42242.0#2544:Debit konto:18032.0#2545:Debit konto:682.0#2546:Debit konto:1590.0
-111857:Laurent:Yude:200108055989,2547:Debit konto:45459.0#2548:Debit konto:22978.0#2549:Debit konto:7229.0#2550:Debit konto:36072.0
-111858:Sissy:Gristhwaite:196012122426,2551:Debit konto:31356.0#2552:Debit konto:29428.0#2553:Debit konto:40692.0
-111859:Johnathan:Shann:198309051365,2554:Debit konto:33989.0
-111860:Shirline:Woofenden:196702267924,2555:Debit konto:7190.0#2556:Debit konto:25708.0
-111861:Shellie:Boni:196308099267,2557:Debit konto:1984.0#2558:Debit konto:38615.0#2559:Debit konto:33525.0#2560:Debit konto:5983.0
-111862:Thomasina:Sabathier:201809065590,2561:Debit konto:39969.0#2562:Debit konto:49497.0
-111863:Carey:Basketter:195609089391,2563:Debit konto:41688.0#2564:Debit konto:38644.0#2565:Debit konto:34867.0#2566:Debit konto:14658.0
-111864:Julie:Jeremaes:202011197775,2567:Debit konto:26506.0#2568:Debit konto:646.0#2569:Debit konto:6961.0
-111865:Devondra:Tutin:201710267635
-111866:Sib:Dinis:195202166984,2570:Debit konto:21916.0#2571:Debit konto:9887.0
-111867:Mella:Leyfield:200610059407
-111868:Bell:Giffin:201803067348,2572:Debit konto:18908.0
-111869:Garek:MacGovern:196601019655,2573:Debit konto:46771.0
-111870:Alfy:Brasse:201311039364,2574:Debit konto:41332.0#2575:Debit konto:1364.0#2576:Debit konto:44153.0
-111871:Obed:Mantione:195511244640,2577:Debit konto:2659.0#2578:Debit konto:39184.0#2579:Debit konto:34489.0#2580:Debit konto:4476.0
-111872:Sigvard:Worley:195309189722,2581:Debit konto:2448.0#2582:Debit konto:26910.0
-111873:Ardene:Tumber:198008201504,2583:Debit konto:35644.0#2584:Debit konto:16255.0#2585:Debit konto:11191.0
-111874:Karin:Shadbolt:197903288151
-111875:Rafferty:Ortler:200708275043,2586:Debit konto:26207.0
-111876:Ardyce:Kempston:201912267523
-111877:Kimmy:Rustadge:198006175342,2587:Debit konto:25311.0
-111878:Reena:Magnar:200805124128,2588:Debit konto:9095.0
-111879:Theadora:MacAndrew:200011144054
-111880:Bronson:Knight:199106278471,2589:Debit konto:34366.0
-111881:Hedy:Pruce:201507043020,2590:Debit konto:5367.0#2591:Debit konto:2420.0#2592:Debit konto:15989.0#2593:Debit konto:10957.0
-111882:Bendick:McNeilley:196303029743,2594:Debit konto:33987.0
-111883:Andrey:Honacker:200403118635
-111884:Danell:Oxer:199805063349,2595:Debit konto:42501.0#2596:Debit konto:22798.0
-111885:Emelda:Rudge:200111019755,2597:Debit konto:32400.0#2598:Debit konto:46452.0
-111886:Abbey:Sherrell:197808243675,2599:Debit konto:42213.0#2600:Debit konto:40868.0
-111887:Cobb:Aggett:201904127927,2601:Debit konto:28568.0
-111888:Dina:Jewett:201402177197,2602:Debit konto:9552.0#2603:Debit konto:20755.0#2604:Debit konto:35641.0#2605:Debit konto:16315.0
-111889:Euphemia:Chess:196312071674
-111890:Tiffi:Lebang:202110099335,2606:Debit konto:4128.0#2607:Debit konto:29792.0#2608:Debit konto:22196.0#2609:Debit konto:12500.0
-111891:Isabelita:Brixey:198703231519,2610:Debit konto:34421.0
-111892:Briggs:Cull:201607147608
-111893:Dina:Benediktsson:198304255063
-111894:Krissy:Championnet:200903149083,2611:Debit konto:9810.0
-111895:Rab:Baitson:197808089471,2612:Debit konto:27598.0#2613:Debit konto:20782.0
-111896:Rosamund:Rois:200101285787,2614:Debit konto:1091.0#2615:Debit konto:32663.0#2616:Debit konto:49921.0
-111897:Fanya:Jerrom:200310019260,2617:Debit konto:15024.0
-111898:Dieter:Barwise:196602283169,2618:Debit konto:18684.0#2619:Debit konto:20664.0
-111899:Simon:Erskine Sandys:195002145528,2620:Debit konto:44185.0#2621:Debit konto:49020.0#2622:Debit konto:35254.0#2623:Debit konto:49469.0
-111900:Timothy:Lubbock:196806154474,2624:Debit konto:42341.0#2625:Debit konto:31189.0#2626:Debit konto:47638.0
-111901:Tricia:Tullett:195801079587,2627:Debit konto:22039.0#2628:Debit konto:27255.0#2629:Debit konto:35765.0#2630:Debit konto:4938.0
-111902:Bridie:Vlasin:197803241551,2631:Debit konto:12575.0#2632:Debit konto:40506.0#2633:Debit konto:42351.0
-111903:Bron:Derrett:195408223682
-111904:Peirce:Brigshaw:198208114013,2634:Debit konto:21234.0#2635:Debit konto:27397.0#2636:Debit konto:46393.0#2637:Debit konto:15903.0
-111905:Lara:Feechan:198002246103,2638:Debit konto:41473.0
-111906:Joseph:Manicomb:196209044772,2639:Debit konto:16864.0
-111907:Courtney:Masterman:200406204360,2640:Debit konto:1974.0#2641:Debit konto:33107.0#2642:Debit konto:46154.0#2643:Debit konto:34195.0
-111908:Nikaniki:Androck:196206181627
-111909:Cull:Southernwood:195308263737,2644:Debit konto:34799.0#2645:Debit konto:37392.0
-111910:Zsa zsa:Ruddin:201303194050,2646:Debit konto:35782.0#2647:Debit konto:49189.0#2648:Debit konto:15673.0
-111911:Kerby:McVane:199910275494
-111912:Germayne:Sausman:198508072876,2649:Debit konto:35300.0#2650:Debit konto:29249.0
-111913:Jacky:Tures:199507136517
-111914:Denney:Bradnocke:200605226588,2651:Debit konto:16491.0#2652:Debit konto:33904.0#2653:Debit konto:31337.0#2654:Debit konto:16193.0
-111915:Englebert:Wellbeloved:196604194321,2655:Debit konto:30188.0
-111916:Merci:Doring:196504199555
-111917:Meredeth:Eick:200203287314,2656:Debit konto:31052.0#2657:Debit konto:12345.0#2658:Debit konto:23061.0#2659:Debit konto:33539.0
-111918:Corly:Cressy:195104152255,2660:Debit konto:28968.0#2661:Debit konto:5812.0
-111919:Matthiew:Girardez:195711149702,2662:Debit konto:2221.0#2663:Debit konto:5342.0#2664:Debit konto:31442.0#2665:Debit konto:0.0
-111920:Obidiah:Creyke:198509013801,2666:Debit konto:41384.0#2667:Debit konto:18789.0#2668:Debit konto:2767.0#2669:Debit konto:31327.0
-111921:Kiel:Cullinan:196212195206,2670:Debit konto:24700.0#2671:Debit konto:208.0#2672:Debit konto:9883.0
-111922:Morna:Giorgio:200611065209
-111923:Cyril:Bing:199309148373,2673:Debit konto:41582.0
-111924:Lelia:Capewell:199007219901,2674:Debit konto:40865.0#2675:Debit konto:23301.0#2676:Debit konto:42100.0#2677:Debit konto:35701.0
-111925:Merl:Boecke:196410045432,2678:Debit konto:7828.0
-111926:Lebbie:Scneider:199206024210,2679:Debit konto:19477.0#2680:Debit konto:46578.0
-111927:Steffie:McKellen:201207263800,2681:Debit konto:11021.0
-111928:Gearard:Leed:199801072130,2682:Debit konto:34479.0
-111929:Haskell:Harbison:198110011462,2683:Debit konto:37076.0#2684:Debit konto:21508.0
-111930:Allianora:Collison:199702122728,2685:Debit konto:35550.0#2686:Debit konto:47282.0
-111931:Ilse:Leonarde:199412105171,2687:Debit konto:39527.0
-111932:Wendell:Petrulis:195505077658,2688:Debit konto:34760.0#2689:Debit konto:25396.0
-111933:Wittie:Cowperthwaite:196404286043,2690:Debit konto:16118.0#2691:Debit konto:21643.0#2692:Debit konto:19350.0
-111934:Cristina:Rickets:197702203277,2693:Debit konto:18671.0#2694:Debit konto:22176.0
-111935:Merrielle:Danett:201102267781,2695:Debit konto:40236.0#2696:Debit konto:31367.0#2697:Debit konto:37689.0
-111936:Brigg:Folliott:196707183116,2698:Debit konto:21131.0#2699:Debit konto:21547.0
-111937:Stinky:Eaglestone:198110275674,2700:Debit konto:44572.0#2701:Debit konto:36257.0#2702:Debit konto:22744.0#2703:Debit konto:36954.0
-111938:Trudy:Rabb:196409083161,2704:Debit konto:12579.0#2705:Debit konto:13120.0#2706:Debit konto:39020.0#2707:Debit konto:11328.0
-111939:Pernell:Trillo:196609027671,2708:Debit konto:35472.0#2709:Debit konto:42485.0#2710:Debit konto:25131.0
-111940:Gabby:Golsby:201211086346
-111941:Bink:McCleod:200001216310,2711:Debit konto:18744.0#2712:Debit konto:25587.0
-111942:Dehlia:Letertre:198310202356,2713:Debit konto:34933.0#2714:Debit konto:19583.0#2715:Debit konto:36844.0#2716:Debit konto:20592.0
-111943:Mile:Southon:198706019559,2717:Debit konto:48990.0#2718:Debit konto:6837.0
-111944:Leanora:Callard:201004268380,2719:Debit konto:44799.0
-111945:Denni:Hutchinges:202107076284,2720:Debit konto:26463.0#2721:Debit konto:41322.0#2722:Debit konto:39074.0
-111946:Tan:Zielinski:197601228729,2723:Debit konto:39049.0#2724:Debit konto:5007.0
-111947:Ainslie:Rowbottam:199212121323,2725:Debit konto:44921.0#2726:Debit konto:30869.0#2727:Debit konto:17523.0
-111948:Reynard:Pearn:195302088930,2728:Debit konto:10025.0#2729:Debit konto:20671.0
-111949:Martin:Eadmead:196804278281,2730:Debit konto:17258.0#2731:Debit konto:8233.0
-111950:Tuesday:Dolman:195001049940
-111951:Nert:Northill:196611201267,2732:Debit konto:692.0#2733:Debit konto:18165.0#2734:Debit konto:25919.0
-111952:Poppy:Lickorish:196108148980,2735:Debit konto:30069.0#2736:Debit konto:4697.0
-111953:Guglielma:Bellis:199611077961
-111954:Kyla:Stuffins:199901279636,2737:Debit konto:88.0#2738:Debit konto:20892.0#2739:Debit konto:26813.0
-111955:Cathleen:Norley:200808197850,2740:Debit konto:21744.0#2741:Debit konto:29675.0#2742:Debit konto:33880.0#2743:Debit konto:49937.0
-111956:Rebe:Wingeatt:198512109659,2744:Debit konto:37554.0#2745:Debit konto:17638.0#2746:Debit konto:9743.0#2747:Debit konto:31650.0
-111957:Rochelle:Lincoln:198512142022,2748:Debit konto:23496.0#2749:Debit konto:26585.0
-111958:Jo-anne:Caught:195206088533,2750:Debit konto:6744.0#2751:Debit konto:14008.0#2752:Debit konto:23173.0#2753:Debit konto:4642.0
-111959:Coop:Dunan:198806171287,2754:Debit konto:48375.0
-111960:Finley:Ranson:196710206268,2755:Debit konto:11766.0#2756:Debit konto:45234.0#2757:Debit konto:43836.0
-111961:Roz:Udall:196709114085
-111962:Brewster:Embling:202009264157,2758:Debit konto:36269.0#2759:Debit konto:42203.0
-111963:Pammi:Mehmet:199108112130,2760:Debit konto:37657.0
-111964:Ricki:Gravy:201002237151,2761:Debit konto:44296.0
-111965:Bastien:Jedrzejkiewicz:195206212740,2762:Debit konto:44876.0
-111966:Nevsa:Royal:201404096064,2763:Debit konto:23096.0
-111967:Gill:Niesegen:199311261586,2764:Debit konto:49976.0
-111968:Rhody:Kidson:195309121900,2765:Debit konto:37534.0#2766:Debit konto:45320.0
-111969:Westbrook:Rentoll:199002245074
-111970:Durward:Caston:195005279191,2767:Debit konto:1385.0#2768:Debit konto:44727.0#2769:Debit konto:45447.0
-111971:Ysabel:Bakster:201212097129,2770:Debit konto:4891.0
-111972:Banky:Coysh:197910033888,2771:Debit konto:30609.0#2772:Debit konto:13293.0#2773:Debit konto:30793.0
-111973:Nicolle:Cowell:199708119288,2774:Debit konto:8300.0
-111974:Wilona:Pardi:201608186905,2775:Debit konto:33413.0#2776:Debit konto:23904.0
-111975:Rodolphe:Warin:199106146605,2777:Debit konto:5704.0#2778:Debit konto:48118.0#2779:Debit konto:49985.0
-111976:Dolph:Lower:198712093938,2780:Debit konto:33455.0#2781:Debit konto:7699.0#2782:Debit konto:28419.0#2783:Debit konto:46456.0
-111977:Joann:Germon:197402121576,2784:Debit konto:29759.0#3057:Debit konto:0.0
-111978:Tuck:McLardie:197501073999,2785:Debit konto:49257.0
-111979:Sherwood:Chatfield:200609127695,2786:Debit konto:34703.0#2787:Debit konto:3067.0#2788:Debit konto:12573.0
-111980:Storm:Vertigan:200311028298,2789:Debit konto:20093.0#2790:Debit konto:43058.0#2791:Debit konto:46944.0#2792:Debit konto:48819.0
-111981:Ring:Yole:196808082913,2793:Debit konto:9329.0
-111982:Stephanus:Sollner:201803165322,2794:Debit konto:2356.0#2795:Debit konto:15224.0
-111983:Earvin:Robez:197009148602,2796:Debit konto:10364.0
-111984:Estell:Mosedall:195604239019,2797:Debit konto:45212.0#2798:Debit konto:42821.0
-111985:Tansy:Nial:201502062768,2799:Debit konto:33262.0#2800:Debit konto:19238.0#2801:Debit konto:45894.0#2802:Debit konto:38507.0
-111986:Terrence:Lomen:196105209305,2803:Debit konto:6462.0#2804:Debit konto:7716.0#2805:Debit konto:10755.0#2806:Debit konto:5009.0
-111987:Tasia:Petrishchev:197501037195
-111988:Bobby:Pittman:198206178192,2807:Debit konto:13834.0
-111989:Stacee:Cornejo:201908206678
-111990:Truda:Fidgin:196201235198
-111991:Anatole:Akast:195210237716,2808:Debit konto:27700.0#2809:Debit konto:13984.0#2810:Debit konto:3038.0#2811:Debit konto:10206.0
-111992:Perry:Milkin:199911233439,2812:Debit konto:4992.0#2813:Debit konto:31154.0
-111993:Elbertine:Herreran:197104161285,2814:Debit konto:18657.0#2815:Debit konto:42655.0#2816:Debit konto:27723.0#2817:Debit konto:324.0
-111994:Rivy:Polland:197911077672
-111995:Claudius:Sizey:199401109472,2818:Debit konto:14198.0
-111996:Haleigh:Dooly:195307159375,2819:Debit konto:27323.0#2820:Debit konto:36323.0
-111997:Latashia:Kirrens:199505078984,2821:Debit konto:17327.0#2822:Debit konto:1781.0
-111998:Allyce:Scholer:197408253236,2823:Debit konto:38569.0#2824:Debit konto:46123.0#2825:Debit konto:42841.0
-111999:Celia:McSperron:195702096123,2826:Debit konto:38670.0#2827:Debit konto:41165.0#2828:Debit konto:31086.0#2829:Debit konto:34536.0
-112000:Elsi:Trimnell:201412231850
-112001:Farris:Yeardley:200008058416
-112002:Carie:McVaugh:197803133155,2830:Debit konto:23304.0
-112003:Reiko:Nertney:195609028446
-112004:Paloma:Joreau:196003276797,2831:Debit konto:10534.0
-112005:Sigmund:Mapham:199510278863,2832:Debit konto:48557.0#2833:Debit konto:33574.0#2834:Debit konto:47441.0#2835:Debit konto:42795.0
-112006:Enos:Asken:195803228703,2836:Debit konto:25227.0
-112007:Thibaut:Rennicks:197101165054,2837:Debit konto:15899.0#2838:Debit konto:26410.0
-112008:Berry:Tattershaw:199306184849
-112009:Hilario:Meysham:195010148888,2839:Debit konto:26535.0
-112010:Westbrooke:Crosier:196607094411,2840:Debit konto:2401.0#2841:Debit konto:36670.0#2842:Debit konto:21843.0
-112011:Robbyn:Gewer:200609075103,2843:Debit konto:25244.0#2844:Debit konto:13323.0
-112012:Reginald:Cleen:200910134280,2845:Debit konto:3110.0#2846:Debit konto:19922.0
-112013:Aarika:Beringer:199207197754,2847:Debit konto:23827.0
-112014:Saxon:Eland:201508024457,2848:Debit konto:40140.0#2849:Debit konto:19316.0
-112015:Margarette:Phillott:199710102438,2850:Debit konto:19463.0#2851:Debit konto:5264.0
-112016:Bertrand:MacQueen:195411171772,2852:Debit konto:27650.0#2853:Debit konto:19337.0#2854:Debit konto:29692.0
-112017:Dyane:Wisdish:201603061729,2855:Debit konto:24976.0
-112018:Gnni:Cerith:197701129997,2856:Debit konto:32749.0#2857:Debit konto:21894.0#2858:Debit konto:12523.0
-112019:Lianna:Berth:200001106945,2859:Debit konto:4929.0#2860:Debit konto:7813.0#2861:Debit konto:35323.0#2862:Debit konto:5796.0
-112020:Janella:Benner:200904175801,3056:Debit konto:0.0
-112021:Walsh:Bungey:201911266942,2863:Debit konto:16441.0#2864:Debit konto:701.0
-112022:Caroljean:Grumley:198012169125,2865:Debit konto:38760.0#2866:Debit konto:3689.0#2867:Debit konto:21409.0
-112023:Carolyn:Flieger:199408258293,2868:Debit konto:2623.0
-112024:Philis:Calfe:200810268850,2869:Debit konto:19406.0#2870:Debit konto:35759.0
-112025:Fonzie:Boxe:199209033966,2871:Debit konto:13801.0#2872:Debit konto:22955.0
-112026:Clea:Ayre:200001186036,2873:Debit konto:18775.0
-112027:Maure:Bugbird:198907213714
-112028:Angelia:Shilliday:197607285462,2874:Debit konto:48280.0#2875:Debit konto:30896.0#2876:Debit konto:37621.0
-112029:Ursa:Kennewell:197907042876
-112030:Erhart:Limpenny:197604123177
-112031:Elmore:Jagielski:202006288287,2877:Debit konto:29450.0#2878:Debit konto:24023.0
-112032:Taite:Zupa:197201024477,2879:Debit konto:344.0#2880:Debit konto:309.0#2881:Debit konto:31500.0#2882:Debit konto:4159.0
-112033:Phylys:Fancutt:195604108005,2883:Debit konto:31044.0#2884:Debit konto:22442.0#2885:Debit konto:23911.0
-112034:Dina:Imlock:201507227748,2886:Debit konto:1182.0#2887:Debit konto:32947.0#2888:Debit konto:40650.0#2889:Debit konto:10771.0
-112035:Lynett:Farington:202103197566
-112036:Flossie:Moncey:201610087223,2890:Debit konto:46061.0#2891:Debit konto:33757.0#2892:Debit konto:15797.0#2893:Debit konto:18869.0
-112037:Susanna:Baelde:195406135237,2894:Debit konto:29679.0#2895:Debit konto:17729.0
-112038:Mordecai:Belding:196808067122,2896:Debit konto:23621.0#2897:Debit konto:47582.0
-112039:Dave:Warbeys:196603102829,2898:Debit konto:48282.0#2899:Debit konto:40949.0
-112040:Mellisent:Mara:200708149475,2900:Debit konto:30920.0#2901:Debit konto:27455.0#2902:Debit konto:25121.0
-112041:Crissy:Hutten:198408281505,2903:Debit konto:7894.0#2904:Debit konto:19041.0
-112042:Graehme:Woolaston:196805084537,2905:Debit konto:33275.0
-112043:Angelica:Rosenbarg:202006218848,2906:Debit konto:5345.0#2907:Debit konto:13925.0
-112044:Ursulina:Lackney:197611256852,2908:Debit konto:24762.0
-112045:Adrien:Waleworke:197611179544,2909:Debit konto:37201.0#2910:Debit konto:31131.0#2911:Debit konto:34926.0#2912:Debit konto:35997.0
-112046:Blakelee:Dunthorn:200604079326,2913:Debit konto:26375.0#2914:Debit konto:19816.0#2915:Debit konto:22642.0
-112047:Melosa:Filipyev:201707223899,2916:Debit konto:4962.0#2917:Debit konto:35049.0
-112048:Cleve:Morecombe:199505154693,2918:Debit konto:39066.0#2919:Debit konto:44863.0
-112049:Dulcia:Dowyer:201510152734,2920:Debit konto:15617.0#2921:Debit konto:23296.0
-112050:Gabriela:Borlease:195308218276
-112051:Benedict:Hugo:198210166575,2922:Debit konto:3325.0#2923:Debit konto:48556.0#2924:Debit konto:28690.0#2925:Debit konto:23573.0
-112052:Loy:Bebb:195607216959,2926:Debit konto:35275.0#2927:Debit konto:15618.0#2928:Debit konto:30324.0#2929:Debit konto:19627.0
-112053:Raquel:Thorogood:196610161579,2930:Debit konto:2441.0#2931:Debit konto:2128.0#2932:Debit konto:9081.0
-112054:Dori:Halliwell:195803235181,2933:Debit konto:39211.0#2934:Debit konto:6722.0#2935:Debit konto:35909.0
-112055:Daune:Sydney:197606238640,2936:Debit konto:41216.0#2937:Debit konto:36778.0
-112056:Raimund:Monshall:198410052234,2938:Debit konto:31150.0#2939:Debit konto:28181.0#2940:Debit konto:36337.0
-112057:Herbie:Cake:199512105677,2941:Debit konto:14018.0#2942:Debit konto:640.0#2943:Debit konto:5261.0
-112058:Delores:McKinnon:202102213529
-112059:Bat:Panchen:195112219020,2944:Debit konto:46870.0#2945:Debit konto:36802.0#2946:Debit konto:40761.0#2947:Debit konto:4209.0
-112060:Forest:Palombi:197502082241
-112061:Goldie:Frossell:195206229234,2948:Debit konto:43083.0#2949:Debit konto:35035.0#2950:Debit konto:16129.0#2951:Debit konto:23290.0
-112062:Denise:Dreigher:198602038480,2952:Debit konto:8732.0#2953:Debit konto:26862.0#2954:Debit konto:5988.0#2955:Debit konto:8372.0
-112063:Minny:Mantrup:195402115137,2956:Debit konto:32553.0#2957:Debit konto:38029.0
-112064:Patty:Becom:195501228318,2958:Debit konto:22944.0
-112065:Cary:Swindells:200812069426,2959:Debit konto:13374.0#2960:Debit konto:49992.0
-112066:Antons:Bartholat:195804251227,2961:Debit konto:23291.0#2962:Debit konto:39493.0#2963:Debit konto:7753.0#2964:Debit konto:36636.0
-112067:Chick:Elstob:198603158922,2965:Debit konto:16721.0#2966:Debit konto:12408.0#2967:Debit konto:41230.0
-112068:Eveline:Akid:195310219868,2968:Debit konto:36813.0
-112069:Melania:Lacheze:195301247902
-112070:Yettie:D'Arrigo:195707151905
-112071:Lucio:Pennock:199611226517,2969:Debit konto:36260.0#2970:Debit konto:8794.0#2971:Debit konto:14710.0
-112072:Cherise:Reyne:201204227919,2972:Debit konto:34598.0#2973:Debit konto:38001.0
-112073:Frederick:Laraway:196311196315,2974:Debit konto:47931.0#2975:Debit konto:15655.0#2976:Debit konto:42000.0
-112074:Gannon:Flounders:196101179141,2977:Debit konto:14373.0#2978:Debit konto:36973.0
-112075:Grace:Klagge:196903223674
-112076:Christi:Iddison:195405029993,2979:Debit konto:46051.0#2980:Debit konto:16819.0#2981:Debit konto:39541.0#2982:Debit konto:22431.0
-112077:Franciska:Nellies:198305283204,2983:Debit konto:46778.0#2984:Debit konto:5841.0#2985:Debit konto:8276.0
-112078:Astrid:Copsey:195209054532,2986:Debit konto:573.0#2987:Debit konto:20652.0#2988:Debit konto:21410.0
-112079:Val:Corballis:199008191860,2989:Debit konto:45913.0#2990:Debit konto:20039.0
-112080:Angelico:Ferrand:198803142984,2991:Debit konto:14009.0#2992:Debit konto:37424.0#2993:Debit konto:9088.0#2994:Debit konto:26907.0
-112081:Jena:O'Brallaghan:199011202229,2995:Debit konto:16640.0#2996:Debit konto:33969.0#2997:Debit konto:43748.0
-112082:Cordy:Bagenal:201803027548,2998:Debit konto:35898.0#2999:Debit konto:28057.0#3000:Debit konto:21925.0
-112083:Willa:Bolingbroke:197912197053,3001:Debit konto:23568.0
-112084:Sarene:Sillars:196907022142,3002:Debit konto:30365.0#3003:Debit konto:14796.0#3004:Debit konto:21456.0#3005:Debit konto:11760.0
-112085:Odell:Lannon:197509044917,3006:Debit konto:37269.0#3007:Debit konto:34706.0#3008:Debit konto:18226.0
-112086:Paco:Tremblay:201405198501
-112087:Mary:Kadd:195708248665
-112088:Morly:Rechert:201806065419,3009:Debit konto:23753.0#3010:Debit konto:13930.0#3011:Debit konto:20395.0
-112089:Gael:Paff:201907137305,3012:Debit konto:6281.0#3013:Debit konto:2489.0#3014:Debit konto:31406.0
-112090:Lib:Geary:201002129679,3015:Debit konto:25819.0#3016:Debit konto:49757.0#3017:Debit konto:8110.0#3018:Debit konto:30133.0
-112091:Marge:Dripp:198511259617,3019:Debit konto:15771.0#3020:Debit konto:32018.0#3021:Debit konto:12445.0
-112092:Nikolaus:Scougall:197004241826
-112093:Anselm:Bricksey:195209199629,3022:Debit konto:11744.0#3023:Debit konto:39297.0
-112094:Zonda:Bodker:201709133731,3024:Debit konto:39586.0#3025:Debit konto:26071.0#3026:Debit konto:43906.0
-112095:Clyde:Loughren:200412243983
-112096:Aaren:Oakwell:198707066718,3027:Debit konto:2529.0#3028:Debit konto:42359.0
-112097:Eugenius:Winskill:197810102888,3029:Debit konto:22458.0
-112098:Marybeth:Coare:196010259950
-112099:Tonia:Dy:199510214707,3030:Debit konto:37133.0#3031:Debit konto:17223.0#3032:Debit konto:28296.0
-112100:Drona:Freathy:196504013652,3033:Debit konto:4481.0#3034:Debit konto:6633.0#3035:Debit konto:41879.0
-112101:Dotti:Markovich:195208219381,3036:Debit konto:13881.0#3037:Debit konto:13809.0#3038:Debit konto:26585.0#3039:Debit konto:11708.0
-112102:Isaak:Geeves:196201262527
-112103:Frants:Jorioz:198009168748,3040:Debit konto:16169.0#3041:Debit konto:6805.0
-112104:Rora:Crambie:202003238186
-112105:Toby:Antonin:195001109148,3042:Debit konto:15232.0#3043:Debit konto:32758.0
-112106:Charmine:Braundt:198501279700,3044:Debit konto:14514.0#3045:Debit konto:32494.0
-112107:Thibaut:Akitt:200301185355,3046:Debit konto:38882.0
-112108:Mignon:Cawkill:200403022329,3047:Debit konto:31481.0#3048:Debit konto:42140.0#3049:Debit konto:27372.0
-112109:Michaela:Poyzer:197909098912,3050:Debit konto:46999.0#3051:Debit konto:8442.0#3052:Debit konto:1515.0#3053:Debit konto:38073.0
-112110:Camella:Trivett:198603154079,3054:Debit konto:526.0#3055:Debit konto:37212.0
+111111:Noni:Morrish:195308256286,1000:Debit:49202#1001:Debit:30070#1002:Debit:33227#1003:Debit:26194
+111112:Addia:Newbury:197001214464,1004:Debit:1188#1005:Debit:22866#1006:Debit:10366#1007:Debit:32573
+111113:Krysta:Molson:200712127184,1008:Debit:12119#1009:Debit:41052#1010:Debit:19428
+111114:Harley:Tremoulet:201612031055,1011:Debit:3985#1012:Debit:41248
+111115:Elnora:Pierpoint:198612048036,1013:Debit:10433#1014:Debit:9011#1015:Debit:25077#1016:Debit:26226
+111116:Kristine:Simenel:199108085198,1017:Debit:29729
+111117:Archer:Tunbridge:200107046622,1018:Debit:31343#1019:Debit:49451#1020:Debit:5886
+111118:Ira:Riditch:196912146006,1021:Debit:19518#1022:Debit:1666#1023:Debit:45389
+111119:Dominic:Flasby:195812202985
+111120:Kiersten:Roote:198804084545,1024:Debit:13149
+111121:Clareta:Juster:202005117320,1025:Debit:2843#1026:Debit:43524
+111122:Madel:Longstaffe:200204102132,1027:Debit:33310#1028:Debit:30759#1029:Debit:2373#1030:Debit:42052
+111123:Halsy:Stubbley:198506017002,1031:Debit:297#1032:Debit:21171
+111124:Sofie:Faustin:197301104629
+111125:Colin:Giacovetti:199611243590,1033:Debit:45782#1034:Debit:48045
+111126:Jessie:Dennett:200703076955
+111127:Jacky:Killock:199906284467,1035:Debit:1956#1036:Debit:32376#1037:Debit:26052
+111128:Johannes:Rays:195004145344,1038:Debit:49494#1039:Debit:8028
+111129:Welch:Dowbakin:202109184819
+111130:Winnifred:Keats:195803139437
+111131:Marin:Askaw:201712201604,1040:Debit:44879
+111132:Rudie:Santon:195412178487
+111133:Abran:Grassot:201712051263,1041:Debit:21818
+111134:Barrie:Slowan:198312017767,1042:Debit:3897#1043:Debit:13726
+111135:Carol-jean:Toyer:200304244934
+111136:Lamar:Grishin:195605215719,1044:Debit:5184#1045:Debit:41387#1046:Debit:24271#1047:Debit:4697
+111137:Micah:Scholar:195311072544,1048:Debit:23245#1049:Debit:20685#1050:Debit:21354#1051:Debit:23388
+111138:Cecilla:Filshin:200107066478,1052:Debit:27847
+111139:Vivianna:Fearney:196602135448,1053:Debit:39927#1054:Debit:8651#1055:Debit:20646
+111140:Tammi:Dudny:200705277636
+111141:Ceciley:Kearle:201902029297
+111142:Corine:Gitting:201301256994
+111143:Clemmy:Gadesby:199211209671,1056:Debit:34260#1057:Debit:42908#1058:Debit:33013
+111144:Willie:Thexton:196008053564
+111145:Parry:Swalough:199003203841,1059:Debit:35067#1060:Debit:13950#1061:Debit:39913#1062:Debit:28189
+111146:Michelina:Ohrt:198809156096
+111147:Panchito:Layburn:199812077191,1063:Debit:25212#1064:Debit:3015#1065:Debit:45021#1066:Debit:31636
+111148:Jewel:Fasham:199402284400,1067:Debit:33546#1068:Debit:23105#1069:Debit:42317#1070:Debit:49914
+111149:Thorsten:Fishbie:200210125824,1071:Debit:19467
+111150:Theresita:Hadkins:201908229708,1072:Debit:4805#1073:Debit:35502#1074:Debit:32560#1075:Debit:21364
+111151:Edd:Gokes:199909017464,1076:Debit:17593#1077:Debit:42017#1078:Debit:39030#1079:Debit:31874
+111152:Alexandrina:Dahill:198012083399,1080:Debit:16676#1081:Debit:14756#1082:Debit:25849#1083:Debit:40261
+111153:Tan:Keable:195101267778,1084:Debit:17680#1085:Debit:40971#1086:Debit:13583
+111154:Rasia:Scinelli:201802096807,1087:Debit:11497
+111155:Delinda:Crotty:196411109168,1088:Debit:5943
+111156:Ryan:Saywood:198709274856,1089:Debit:38337
+111157:Roley:Hanburry:196205014937
+111158:Christine:Morter:195511048452
+111159:Farlie:Cleaver:197806039919,1090:Debit:10031#1091:Debit:20647
+111160:Alexi:Burvill:201101257743,1092:Debit:19266#1093:Debit:34809
+111161:Garvin:Sparrow:201803075311,1094:Debit:21470
+111162:Kaylyn:Topaz:195305112840
+111163:Petronia:Benwell:196812112182,1095:Debit:5950
+111164:Silvester:Cornil:196908282371,1096:Debit:25893#1097:Debit:9013#1098:Debit:42231
+111165:Diann:Derr:195107013770,1099:Debit:35053
+111166:Shea:Doud:195707221250
+111167:Corena:Sellens:200907208943,1100:Debit:6193
+111168:Alister:MacRirie:199606282163
+111169:Jasmin:Paliser:195507129761,1101:Debit:17647#1102:Debit:11336
+111170:Cobbie:Hargrove:196907171467,1103:Debit:46105
+111171:Dunn:O' Faherty:199303018822
+111172:Beck:Danbury:196207166519,1104:Debit:44425
+111173:Lorant:Minnette:201304263085,1105:Debit:21066#1106:Debit:41678
+111174:Alistair:Limprecht:195504228398,1107:Debit:38875
+111175:Evvie:Dahlman:195305207397
+111176:Morley:Brussell:197211283060,1108:Debit:14829#1109:Debit:28787
+111177:Margaretha:Chanson:195506187947,1110:Debit:4404#1111:Debit:21634#1112:Debit:944
+111178:Aryn:Spiller:201910277484,1113:Debit:2285#1114:Debit:28478
+111179:Giulia:Avrahamov:197012241874,1115:Debit:29888
+111180:Reginald:Hunnybun:197405255170,1116:Debit:8810
+111181:Shauna:Krysztofiak:199105117396
+111182:Chloris:Chong:201706015227,1117:Debit:34722#1118:Debit:15484#1119:Debit:15440
+111183:Mavra:Thorington:201404225005,1120:Debit:5564#1121:Debit:29136#1122:Debit:16119
+111184:Rubi:Densham:197203012066,1123:Debit:11995#1124:Debit:43022#1125:Debit:39506
+111185:Tish:Kildea:198712066198,1126:Debit:28957#1127:Debit:36659#1128:Debit:17184#1129:Debit:8034
+111186:Cornelle:Tabourel:197809086914,1130:Debit:17025
+111187:Lowe:Booker:195604206360,1131:Debit:27005#1132:Debit:34120
+111188:Ruperto:Phipard-Shears:198505155423,1133:Debit:14902
+111189:Walliw:Grinyakin:195003119492,1134:Debit:47897#1135:Debit:46208#1136:Debit:30703#1137:Debit:30644
+111190:Franni:Siemons:195812031633,1138:Debit:19386#1139:Debit:20622#1140:Debit:23530
+111191:Dane:Perrins:200809104739,1141:Debit:46284#1142:Debit:45776#1143:Debit:34234#1144:Debit:42986
+111192:Piggy:McWhannel:198410192307
+111193:Frasco:Colomb:195304068486,1145:Debit:40073
+111194:Ozzy:Fumagallo:198809237638,1146:Debit:28853
+111195:Dinnie:Puddle:199208017714,1147:Debit:15331#1148:Debit:22417
+111196:Arv:Oakley:202003145380
+111197:Marni:Gaspard:199212218558,1149:Debit:8586#1150:Debit:43727#1151:Debit:35888#1152:Debit:36883
+111198:Franklyn:Cowdery:197907069495,1153:Debit:9094#1154:Debit:24790#1155:Debit:17565
+111199:Zorah:Heigl:199908092671,1156:Debit:11606
+111200:Fidelity:Duffell:195202031209,1157:Debit:7480
+111201:Abigale:Hould:197208269514
+111202:Jermain:Davidof:196002045139,1158:Debit:43793#1159:Debit:15969
+111203:Reinold:Jeves:195302201104,1160:Debit:354#1161:Debit:2052#1162:Debit:27348
+111204:Meier:Tucker:199811263912
+111205:Lesley:Strewther:201411157681,1163:Debit:3226#1164:Debit:34980
+111206:Griselda:Holdforth:201911196580,1165:Debit:35420
+111207:Guillermo:di Rocca:199503217708,1166:Debit:40381#1167:Debit:1995#1168:Debit:46473
+111208:Jill:Harkes:197101238782
+111209:Cammy:Waplinton:200012072525,1169:Debit:44025#1170:Debit:6037#1171:Debit:6456#1172:Debit:15744
+111210:Vlad:Hullins:199804255458,1173:Debit:22771#1174:Debit:461#1175:Debit:25890
+111211:Ewart:Roller:200708032004,1176:Debit:30760#1177:Debit:44536
+111212:Quintin:McGreary:201408024144,1178:Debit:45326#1179:Debit:23579
+111213:Herculie:Balharry:198810031670,1180:Debit:22049#1181:Debit:28779#1182:Debit:13964
+111214:Imojean:Ennever:198703162277,1183:Debit:866#1184:Debit:5373#1185:Debit:10142
+111215:Georgianna:Bigby:197911174304,1186:Debit:34379#1187:Debit:14116#1188:Debit:36551
+111216:Tiebold:Le Blond:195008023146,1189:Debit:28799#1190:Debit:2285#1191:Debit:15268#1192:Debit:45827
+111217:Ambrosius:McMillan:196908098433,1193:Debit:8091#1194:Debit:34368#1195:Debit:9804#1196:Debit:34572
+111218:Marje:Stewart:196504067956,1197:Debit:38011
+111219:Rodolph:Greggor:196702147345,1198:Debit:21489
+111220:Nancee:Barke:198609046639,1199:Debit:25541
+111221:Dasie:MacCaughey:200305185222,1200:Debit:19377#1201:Debit:26901#1202:Debit:3874#1203:Debit:34718
+111222:Albie:Alliban:196206286303,1204:Debit:25291
+111223:Duff:Selwood:197301143157,1205:Debit:13512#1206:Debit:23632
+111224:Ellene:Izac:196702125829,1207:Debit:29819#1208:Debit:38754#1209:Debit:8302#1210:Debit:33998
+111225:Mahmoud:Belk:202002234307,1211:Debit:28846#1212:Debit:45773#1213:Debit:39621#1214:Debit:5140
+111226:Estevan:Testro:198709192582,1215:Debit:45110#1216:Debit:27997#1217:Debit:3993
+111227:Alfonso:Walbridge:200908044751,1218:Debit:27243#1219:Debit:43780#1220:Debit:48170#1221:Debit:11496
+111228:Freeland:Flohard:199110196863,1222:Debit:44464#1223:Debit:18032#1224:Debit:15482#1225:Debit:26546
+111229:Van:MacLise:196401252281
+111230:Abigael:Stoyell:199108135877,1226:Debit:34531#1227:Debit:30489#1228:Debit:13461#1229:Debit:6962
+111231:Raoul:Sings:200303137951,1230:Debit:7198#1231:Debit:16558#1232:Debit:10324
+111232:Otis:Broke:195112066894,1233:Debit:5170#1234:Debit:10288#1235:Debit:13799#1236:Debit:34329
+111233:Agretha:Hitcham:199411026621,1237:Debit:13041#1238:Debit:9386#1239:Debit:5347
+111234:Eduino:Carwardine:201201016826,1240:Debit:21364
+111235:Ryan:Campanelli:196911218503
+111236:Ivie:Marsay:201304128063
+111237:Jennilee:Muldowney:200503257353,1241:Debit:43302#1242:Debit:12884
+111238:Anna:Stolting:199701171512,1243:Debit:49087
+111239:Benton:Matiewe:197303131655,1244:Debit:19371#1245:Debit:39347
+111240:Eimile:Binley:199204272863,1246:Debit:41185#1247:Debit:40573
+111241:Englebert:Shivlin:198512244748
+111242:Richart:Piers:201701218997,1248:Debit:19671
+111243:Emelyne:Kellaway:201810053108
+111244:Donnie:Cruces:199701241284,1249:Debit:13379#1250:Debit:36473#1251:Debit:23507
+111245:Rodolfo:Kropp:200109076917,1252:Debit:6409
+111246:Tatum:Smelley:201310206901
+111247:Alia:Affuso:198305105077,1253:Debit:6365#1254:Debit:37037#1255:Debit:19299#1256:Debit:26240
+111248:Jodie:Smedley:197410288744
+111249:Dedie:Purselowe:199712044491
+111250:Crysta:Becerro:196903106002,1257:Debit:16909#1258:Debit:7276#1259:Debit:3792#1260:Debit:2002
+111251:Nicky:Canniffe:195912243606,1261:Debit:17588
+111252:Shina:Currier:199002179159,1262:Debit:41108
+111253:Vikky:Goldsbrough:198310195355,1263:Debit:26058
+111254:Ethe:Grimsdell:201301252116,1264:Debit:9809
+111255:Elijah:Egiloff:197201277550,1265:Debit:30006#1266:Debit:4164#1267:Debit:21218
+111256:Kelwin:Ewen:199807018355,1268:Debit:43561#1269:Debit:41170
+111257:Drucy:McGowran:195408185823,1270:Debit:23442
+111258:Mackenzie:Penner:199805037560,1271:Debit:26116#1272:Debit:44559
+111259:Roderick:Hawkswood:201009176317,1273:Debit:2449#1274:Debit:41057#1275:Debit:42020#1276:Debit:32782
+111260:Mallissa:Stegel:199903113502,1277:Debit:11894#1278:Debit:14540#1279:Debit:44905#1280:Debit:44718
+111261:Findley:Dobrowolski:198308187448,1281:Debit:39341#1282:Debit:35704
+111262:Sallee:Crosse:197309095606,1283:Debit:37320#1284:Debit:36392#1285:Debit:19815
+111263:Kary:Lowdwell:195303107358,1286:Debit:17921#1287:Debit:2747#1288:Debit:20889#1289:Debit:14213
+111264:Dorene:Bastide:200403089591,1290:Debit:254#1291:Debit:15714
+111265:Ker:Fadden:202008075485,1292:Debit:36993
+111266:Annamaria:Rockingham:195507255631,1293:Debit:9362#1294:Debit:47425
+111267:Candace:Chattaway:201210273196,1295:Debit:820
+111268:Else:Harbron:195911099710,1296:Debit:47876#1297:Debit:11948#1298:Debit:42705#1299:Debit:48588
+111269:Urban:Godbald:201101072101,1300:Debit:47931#1301:Debit:3946
+111270:Poppy:Bloxsum:199804256331
+111271:Karna:Currier:198201256455,1302:Debit:20340#1303:Debit:47616
+111272:Bay:Dovidaitis:196904182850,1304:Debit:25689#1305:Debit:503#1306:Debit:43547#1307:Debit:44190
+111273:Adelind:Skatcher:200508133788
+111274:Bartie:De Marchi:198407121549
+111275:Selia:Golbourn:197010241281,1308:Debit:9661
+111276:Shoshana:Smees:201905116304,1309:Debit:21286#1310:Debit:30568
+111277:Clari:Tigner:199605213746,1311:Debit:13838#1312:Debit:4965
+111278:Cleavland:Myatt:200808095536
+111279:Edouard:Whorlton:199103165632
+111280:Gradeigh:Matchett:198303172738,1313:Debit:42787#1314:Debit:32091#1315:Debit:39598#1316:Debit:37979
+111281:Pam:MacKilroe:200008043804,1317:Debit:4483
+111282:Viva:Lennard:200309259416,1318:Debit:38252#1319:Debit:26109
+111283:Brad:Howsego:200804277885,1320:Debit:16876#1321:Debit:42063
+111284:Bordy:La Padula:195204269314
+111285:Saw:Trunkfield:202102183392,1322:Debit:12247
+111286:Royal:Osborne:197211206297,1323:Debit:5816
+111287:Gates:Sheeran:197506105351,1324:Debit:41843#1325:Debit:41573
+111288:Donalt:Aslam:200007251256
+111289:Sanders:Dannell:196708094474
+111290:Kettie:Sidwell:201112269822,1326:Debit:9468
+111291:Sara:Rampton:198109169534,1327:Debit:34955#1328:Debit:16942#1329:Debit:29245#1330:Debit:49180
+111292:Rossy:Kenway:196203232868,1331:Debit:16055
+111293:Tasia:Frogley:197401253311
+111294:Tyrone:Slamaker:197010233479,1332:Debit:36574
+111295:Reagen:Lattie:196104216864,1333:Debit:42130
+111296:Lauren:Cater:201311077755,1334:Debit:35926#1335:Debit:15172#1336:Debit:34385
+111297:Hoyt:Dreamer:198606247438,1337:Debit:37452#1338:Debit:10418#1339:Debit:47761#1340:Debit:19257
+111298:Jeremiah:Doget:198804283462,1341:Debit:33996#1342:Debit:46213
+111299:Eleanor:Sturr:201309136088,1343:Debit:49338#1344:Debit:17142#1345:Debit:42846#1346:Debit:11377
+111300:Hattie:Truss:196502038928
+111301:Bernelle:Ludwikiewicz:198010168961
+111302:Abran:Restorick:200306253647,1347:Debit:21420#1348:Debit:15115
+111303:Nickolaus:Summerhayes:197905155453,1349:Debit:24655#1350:Debit:43170
+111304:Bevvy:Clemmow:198709125054,1351:Debit:38738
+111305:Anselm:Friedman:201908123613,1352:Debit:16369#1353:Debit:40938
+111306:Sigismundo:Peggrem:200711038795,1354:Debit:8519
+111307:Byran:Adnam:196609085899,1355:Debit:43958#1356:Debit:26023
+111308:Mortimer:McClosh:197204011648,1357:Debit:12394#1358:Debit:2229
+111309:Meier:Skinn:199202029676,1359:Debit:36846#1360:Debit:19075#1361:Debit:9319
+111310:Patsy:Chart:197604245605
+111311:Dud:Knapper:198607074172,1362:Debit:8135#1363:Debit:48495#1364:Debit:37355
+111312:Ingrid:Ellingham:197412186530,1365:Debit:14351#1366:Debit:38925#1367:Debit:16607
+111313:Norrie:Nevin:198601115913
+111314:Amelia:Kopps:202011205328
+111315:Claribel:Fairnington:197512172584,1368:Debit:15636#1369:Debit:27551#1370:Debit:21223
+111316:Ronnica:Ruben:198009059017,1371:Debit:18729#1372:Debit:45149#1373:Debit:43407
+111317:Nelson:Bryett:200312011378,1374:Debit:18013#1375:Debit:14377#1376:Debit:45958#1377:Debit:37823
+111318:Bartolomeo:Eteen:202008196492,1378:Debit:11782
+111319:Elenore:Toyne:199305261311,1379:Debit:23938
+111320:Matty:Gooddie:201105018193
+111321:Loy:Sworder:200306093253,1380:Debit:6177
+111322:Tadeo:Brookhouse:199202083857,1381:Debit:36746#1382:Debit:46624#1383:Debit:18704
+111323:Brod:Costigan:196210073443,1384:Debit:18544
+111324:Rici:Stawell:200909047983,1385:Debit:3507#1386:Debit:2251#1387:Debit:7926
+111325:Ladonna:Kiddye:201806263977,1388:Debit:22611#1389:Debit:9988#1390:Debit:5016#1391:Debit:645
+111326:Estrella:Minmagh:197612022643,1392:Debit:29989#1393:Debit:5574#1394:Debit:19908
+111327:Augy:Middlewick:198206127325,1395:Debit:12895#1396:Debit:25261
+111328:Justina:Pyle:197007126076,1397:Debit:34629#1398:Debit:25640#1399:Debit:3644
+111329:Jayne:Steljes:201404137372,1400:Debit:1993#1401:Debit:47457#1402:Debit:7416
+111330:Mirella:Emanuelov:199108242912,1403:Debit:15697
+111331:Debor:Ballefant:201703266752,1404:Debit:8756#1405:Debit:3653
+111332:Jeth:Markey:201808172742
+111333:Lorena:Calderwood:195706241854,1406:Debit:49073#1407:Debit:18298
+111334:Mendel:Penchen:199904251509
+111335:Bruce:Tivers:199910046987,1408:Debit:46436
+111336:Laverne:Brewett:198111086754,1409:Debit:42385#1410:Debit:31694
+111337:Janet:Waulker:202107089102,1411:Debit:32505#1412:Debit:33
+111338:Sherlock:Stanning:196010069494
+111339:Shandee:Dresser:197207257155,1413:Debit:2796
+111340:Reeba:Laydel:200009206415,1414:Debit:38614#1415:Debit:35064#1416:Debit:44221#1417:Debit:12279
+111341:Rafael:Cruikshank:196510027249
+111342:Chandler:Ramlot:198912224650
+111343:Jonell:Gapper:200602128694,1418:Debit:6332
+111344:Saunderson:Gasperi:202008127083,1419:Debit:39832
+111345:Ashlan:Curzey:199005258061,1420:Debit:29679
+111346:Tammy:Bitterton:200709225696,1421:Debit:7426#1422:Debit:34217
+111347:Wynny:O'Tierney:195412254234,1423:Debit:27250#1424:Debit:9422#1425:Debit:40766#1426:Debit:7724
+111348:Daryl:Coleson:199608256991,1427:Debit:25312#1428:Debit:13845#1429:Debit:29711
+111349:Jacques:Stonelake:199312026671
+111350:Zonda:Trenouth:196810026561,1430:Debit:38848#1431:Debit:15271
+111351:Sula:Paice:196505164316,1432:Debit:39137
+111352:Eartha:Westover:196708094105,1433:Debit:8722
+111353:Lynnette:Birkmyre:196510282030,1434:Debit:3271#1435:Debit:40420
+111354:Katharina:McGreary:195012026910,1436:Debit:18805#1437:Debit:11689#1438:Debit:22288#1439:Debit:9969
+111355:Constanta:Brinson:200309126595,1440:Debit:32377
+111356:Trey:Noore:198912143478,1441:Debit:29419#1442:Debit:33368#1443:Debit:40718
+111357:Kamillah:Nuss:196002076732,1444:Debit:47746#1445:Debit:23728#1446:Debit:37837
+111358:Ninetta:Maharry:200604108006,1447:Debit:13001#1448:Debit:15331
+111359:Cristine:Dawnay:200003053942,1449:Debit:29043
+111360:Camala:Licciardi:199802246384,1450:Debit:38601#1451:Debit:49010#1452:Debit:34398
+111361:Nonah:Cossor:195505209333,1453:Debit:1590#1454:Debit:44355#1455:Debit:41098#1456:Debit:22010
+111362:Morrie:Cosh:199303012994,1457:Debit:49910#1458:Debit:30228#1459:Debit:36081
+111363:Philomena:Truett:195405088635,1460:Debit:38969#1461:Debit:28848
+111364:Kristopher:Cromb:200310266574,1462:Debit:23594#1463:Debit:15889#1464:Debit:19853#1465:Debit:25655
+111365:Jeni:Levay:196411151353,1466:Debit:7552#1467:Debit:13819#1468:Debit:30853
+111366:Chase:Bavister:196302079850
+111367:Florian:Davidou:198009213828,1469:Debit:29381#1470:Debit:4513
+111368:Pattin:Daleman:197310173334,1471:Debit:25379#1472:Debit:40911#1473:Debit:31072#1474:Debit:23331
+111369:Mack:Currom:201004172589,1475:Debit:20563
+111370:Vitoria:Founds:201112288001,1476:Debit:49289#1477:Debit:28806#1478:Debit:13588
+111371:Lina:Seedull:195211174043,1479:Debit:13331#1480:Debit:5612#1481:Debit:15941
+111372:Terrel:Raw:195604083726
+111373:Dora:Brandino:198304206634,1482:Debit:32693
+111374:Arni:Bowstead:202012106719
+111375:Alwyn:Turmall:200102119830,1483:Debit:29030#1484:Debit:6456#1485:Debit:37823#1486:Debit:19602
+111376:Maribelle:Hart:198509028216
+111377:Quintina:Cotillard:198408261074,1487:Debit:31022#1488:Debit:28039#1489:Debit:38213
+111378:Heath:Gery:198201285057,1490:Debit:40485#1491:Debit:1849#1492:Debit:6468#1493:Debit:36332
+111379:Aylmer:Robertacci:199306043217,1494:Debit:27523#1495:Debit:9034#1496:Debit:38400#1497:Debit:26161
+111380:Lyndy:Danks:197101144974,1498:Debit:21193
+111381:Burlie:Tolcher:195406284163,1499:Debit:49986#1500:Debit:46086#1501:Debit:1622#1502:Debit:6874
+111382:Ximenez:Jacobi:198208247444
+111383:Jaclyn:Osgodby:195210057649
+111384:Barclay:McDonand:197511035358,1503:Debit:794#1504:Debit:15814
+111385:Felisha:Vaggers:196901269562,1505:Debit:32806#1506:Debit:30379
+111386:Rickey:Leeder:196311152937
+111387:Tom:Priter:200212208953,1507:Debit:34581
+111388:Cati:Giuron:200802194740,1508:Debit:30125#1509:Debit:28622#1510:Debit:45052#1511:Debit:32809
+111389:Pyotr:Pickavance:198511155418,1512:Debit:34045#1513:Debit:31704#1514:Debit:35652#1515:Debit:44020
+111390:Bryon:Hellmore:196312041737,1516:Debit:26557
+111391:Camey:Basten:199404111363,1517:Debit:33254#1518:Debit:26567#1519:Debit:6521
+111392:Shurlocke:Meysham:196005276364,1520:Debit:7028#1521:Debit:27919#1522:Debit:40595
+111393:Flor:Swede:196908262153,1523:Debit:21198#1524:Debit:48882#1525:Debit:27872#1526:Debit:46542
+111394:Lemar:Conochie:197305076628,1527:Debit:21197
+111395:Niel:Leah:200811122827,1528:Debit:29333#1529:Debit:36248
+111396:Ari:Batt:196810047259,1530:Debit:45615
+111397:Kendall:Orr:200303134491,1531:Debit:9123#1532:Debit:43797#1533:Debit:16262#1534:Debit:41431
+111398:Gerhardt:Stredwick:196309058943
+111399:Malchy:Chiddy:195709024556
+111400:Rubie:Ryan:197611236690,1535:Debit:41830#1536:Debit:45991
+111401:Aeriela:Treece:200801168361,1537:Debit:3449#1538:Debit:41727#1539:Debit:42163#1540:Debit:36095
+111402:Tiphany:Senton:198106045603,1541:Debit:34696#1542:Debit:36162#1543:Debit:49443#1544:Debit:49349
+111403:Evy:Follen:199308228066,1545:Debit:3228#1546:Debit:21953#1547:Debit:20905#1548:Debit:37512
+111404:Field:Bayly:197302129150,1549:Debit:44728#1550:Debit:44873#1551:Debit:34084#1552:Debit:47621
+111405:Isacco:O' Sullivan:195809013429,1553:Debit:8319#1554:Debit:48678#1555:Debit:22164#1556:Debit:28993
+111406:Nani:Pepis:198004194418
+111407:Silvester:Kopps:202101088553,1557:Debit:2984#1558:Debit:19069#1559:Debit:6175#1560:Debit:35976
+111408:Cele:Awcock:196402016004,1561:Debit:9568#1562:Debit:1722
+111409:Marline:Stanman:196412211081,1563:Debit:14080
+111410:Dorthy:Swalowe:200601153055,1564:Debit:4385#1565:Debit:16218#1566:Debit:15476
+111411:Devora:Southgate:195608268510,1567:Debit:39922#1568:Debit:4635
+111412:Alecia:Blackaller:198201122158,1569:Debit:36710#1570:Debit:20377#1571:Debit:38468#1572:Debit:41057
+111413:Hardy:Duny:195605117219,1573:Debit:27762#1574:Debit:6334#1575:Debit:6722#1576:Debit:13772
+111414:Etienne:Eccleston:200105248880,1577:Debit:39907
+111415:Mikel:Flanagan:198003099210,1578:Debit:6830#1579:Debit:13075#1580:Debit:5138#1581:Debit:37189
+111416:Nickie:Cheetham:197401258082
+111417:Gerrilee:Blennerhassett:201804093161
+111418:Thatcher:Hilley:200511284769,1582:Debit:46920#1583:Debit:36510#1584:Debit:32584
+111419:Joice:Bover:196810183749,1585:Debit:18502#1586:Debit:21619#1587:Debit:39050#1588:Debit:3853
+111420:Sarajane:Quirk:197402059047,1589:Debit:15284#1590:Debit:7121#1591:Debit:3977#1592:Debit:35679
+111421:Georgeanne:Alvy:195111095219,1593:Debit:19070#1594:Debit:21074#1595:Debit:39137
+111422:Darlleen:Trammel:196106073512,1596:Debit:44504
+111423:Cele:Nutty:199807208318,1597:Debit:42672#1598:Debit:32311
+111424:Gael:Curtayne:200003199237,1599:Debit:46203#1600:Debit:8755#1601:Debit:28804
+111425:Jolyn:Habden:197908215655
+111426:Eamon:Milverton:195605227165,1602:Debit:18038
+111427:Worthington:Sawdon:196908153852,1603:Debit:40000
+111428:Dannie:Bigmore:199511248526
+111429:Josie:Bodle:201803179803,1604:Debit:20693
+111430:Elysee:Rue:195607263189,1605:Debit:33393#1606:Debit:4152
+111431:Ailene:Brockman:201603045713
+111432:Engracia:Potbury:196305254529,1607:Debit:34844#1608:Debit:5570
+111433:Arron:Thurston:199907139775,1609:Debit:32146#1610:Debit:47625#1611:Debit:27733#1612:Debit:9295
+111434:Leonidas:Delooze:200812125783,1613:Debit:1164#1614:Debit:41357#1615:Debit:45873
+111435:Dolley:Romaynes:199802098968
+111436:Matt:Catlette:196201111026,1616:Debit:18855#1617:Debit:4963#1618:Debit:46523
+111437:Monika:Pendrill:196904082689,1619:Debit:36964#1620:Debit:32407#1621:Debit:4652
+111438:Berkly:Lucia:198408018871,1622:Debit:44988
+111439:Mallory:Scurry:195711263012,1623:Debit:36296#1624:Debit:19882
+111440:Theodosia:Waszkiewicz:197710044729,1625:Debit:5969#1626:Debit:13795#1627:Debit:21950#1628:Debit:45401
+111441:Klemens:Alentyev:200808113878
+111442:Adelaida:Camps:196208164822,1629:Debit:13683
+111443:Franky:Thyng:201709053675,1630:Debit:40925
+111444:Odo:Plum:197808027132,1631:Debit:37305#1632:Debit:17343
+111445:Niels:FitzAlan:197205249694,1633:Debit:7240#1634:Debit:44691#1635:Debit:15833#1636:Debit:4908
+111446:Rosamund:Kolczynski:198201287309,1637:Debit:25250#1638:Debit:21973#1639:Debit:8352
+111447:Winna:Donat:197904092941,1640:Debit:42453#1641:Debit:36915#1642:Debit:49137
+111448:Cinda:Izzatt:195401224882,1643:Debit:41040#1644:Debit:10965#1645:Debit:32579#1646:Debit:4884
+111449:Nickey:Matches:199805288837,1647:Debit:2006#1648:Debit:38180#1649:Debit:21544
+111450:Arturo:Cass:195205106730,1650:Debit:1764#1651:Debit:3971#1652:Debit:32168#1653:Debit:8432
+111451:Townsend:Hamstead:198508016111,1654:Debit:19410#1655:Debit:30278#1656:Debit:29784
+111452:Conroy:MacMechan:200809036081,1657:Debit:46101
+111453:Bethany:Cayzer:199809267918,1658:Debit:6028#1659:Debit:44455#1660:Debit:37848#1661:Debit:46137
+111454:Josiah:Petris:196504157749,1662:Debit:29266#1663:Debit:18442#1664:Debit:8749
+111455:Boycey:Spinks:196901208483,1665:Debit:41207#1666:Debit:38625
+111456:Helaina:Large:201502138638,1667:Debit:6481#1668:Debit:37160#1669:Debit:21973#1670:Debit:36919
+111457:Rosamund:Rawood:196306049463,1671:Debit:38695#1672:Debit:24793#1673:Debit:33837#1674:Debit:5370
+111458:Merci:Lupson:196206227896,1675:Debit:7342#1676:Debit:33508#1677:Debit:34010
+111459:Emmett:Iacopetti:200308131875,1678:Debit:21182
+111460:Laure:Spandley:195012128885,1679:Debit:28598#1680:Debit:27248
+111461:Aldridge:Soame:201802257289,1681:Debit:48947#1682:Debit:17213#1683:Debit:23266#1684:Debit:2364
+111462:Gaile:Atter:200310164674,1685:Debit:13682
+111463:Bobby:Compford:195303223970,1686:Debit:33004#1687:Debit:13342#1688:Debit:9584#1689:Debit:42169
+111464:Kellsie:Jacob:197903218427,1690:Debit:49602#1691:Debit:24505#1692:Debit:7583
+111465:Maritsa:Hunsworth:195306215216,1693:Debit:49895
+111466:Paxon:Bulfoy:202109039949,1694:Debit:35498#1695:Debit:36633#1696:Debit:12356#1697:Debit:15828
+111467:Felita:Cutmare:196004195534,1698:Debit:43068#1699:Debit:21703#1700:Debit:27639#1701:Debit:9719
+111468:Angele:Norcutt:197807154546
+111469:Olympe:Domokos:196905213585,1702:Debit:19481
+111470:Tabbatha:Slym:195202207662,1703:Debit:5594
+111471:Florie:Caulder:199801232147,1704:Debit:37676#1705:Debit:7739#1706:Debit:40438#1707:Debit:44557
+111472:Harland:Reeks:195808266253,1708:Debit:24535#1709:Debit:28034#1710:Debit:43111#1711:Debit:26347
+111473:Hewitt:Pither:196211153071
+111474:Gael:Lidster:199202032974,1712:Debit:15126
+111475:Marcelle:Fosserd:198908271068,1713:Debit:44825#1714:Debit:39247#1715:Debit:14749#1716:Debit:21167
+111476:Lilith:Bloxsome:199007053536
+111477:Beryle:Confait:197904174682,1717:Debit:49929#1718:Debit:28874#1719:Debit:5433
+111478:Lionello:Hele:198310182756,1720:Debit:9089#1721:Debit:24295#1722:Debit:31712#1723:Debit:16149
+111479:Derrick:Wyman:196304281380,1724:Debit:8226#1725:Debit:30509#1726:Debit:7338#1727:Debit:34000
+111480:Ber:Minguet:200603249563
+111481:Orren:Spurgeon:197506159189,1728:Debit:21940#1729:Debit:31459#1730:Debit:36757#1731:Debit:23994
+111482:Hanny:Liddard:195706274369,1732:Debit:15929
+111483:Vasily:Whittek:196405196499,1733:Debit:24409#1734:Debit:48669#1735:Debit:28653#1736:Debit:1517
+111484:Frazer:Jarvis:199302266013,1737:Debit:41706#1738:Debit:19097
+111485:Emmet:Aberdein:198803262932,1739:Debit:39717#1740:Debit:20889
+111486:Lamar:Gauntlett:200806222973,1741:Debit:6960
+111487:Ragnar:Schoolfield:196606216003,1742:Debit:4313#1743:Debit:20730#1744:Debit:9585#1745:Debit:43546
+111488:Shauna:Boutcher:197006085980
+111489:Dore:Busher:196802273795,1746:Debit:11592#1747:Debit:15523#1748:Debit:41206#1749:Debit:40189
+111490:Janet:Heisman:201808053895
+111491:Jdavie:Polfer:195609204834,1750:Debit:26622#1751:Debit:10677
+111492:Quintin:Simonich:201604023301,1752:Debit:22680#1753:Debit:43179#1754:Debit:32721
+111493:Lamont:Creasey:199604054862
+111494:Dominique:McWard:199403149367
+111495:Lanie:Densham:198908089225
+111496:Biddie:Impey:199503037821,1755:Debit:12868#1756:Debit:40129#1757:Debit:8811#1758:Debit:17674
+111497:Etti:Mowsdill:201906155999
+111498:Natalee:Hammond:198607176285,1759:Debit:2222#1760:Debit:49481#1761:Debit:18810#1762:Debit:39840
+111499:Dorry:Zanussii:195003284603,1763:Debit:48336#1764:Debit:29334#1765:Debit:27626#1766:Debit:38366
+111500:Kitty:Dallywater:201104061225,1767:Debit:10528#1768:Debit:5346
+111501:Wanids:McKerton:198102186464,1769:Debit:22856#1770:Debit:21604
+111502:Jania:Balshen:197207125692,1771:Debit:44083#1772:Debit:68
+111503:Neddy:Elgar:201804064360
+111504:Tabbatha:Worham:196401287002,1773:Debit:9431#1774:Debit:4805#1775:Debit:28349
+111505:Cori:Valek:201404235587
+111506:Hubie:Blofield:196406049103,1776:Debit:7037#1777:Debit:43965#1778:Debit:31986#1779:Debit:10398
+111507:Ailbert:Waldock:202010248585,1780:Debit:13477#1781:Debit:7783#1782:Debit:10853
+111508:Zahara:Bilbery:195311131210,1783:Debit:9461#1784:Debit:47227#1785:Debit:48246
+111509:Herby:D'Andrea:201505235962,1786:Debit:23732#1787:Debit:41467#1788:Debit:20080
+111510:Sibylla:Benedite:200705193591,1789:Debit:20779
+111511:Madlen:Heaps:197012176635,1790:Debit:2086#1791:Debit:39996#1792:Debit:10124
+111512:Lucho:Gaukrodge:195611227909,1793:Debit:11898
+111513:Nettie:Gullberg:196810251165,1794:Debit:24789#1795:Debit:10349
+111514:Peggie:Nassau:196405109162,1796:Debit:5494
+111515:Hugo:Lorans:195402146981,1797:Debit:45855#1798:Debit:30857#1799:Debit:25171#1800:Debit:38936
+111516:Murray:Greenhough:201203288513,1801:Debit:37314#1802:Debit:47770#1803:Debit:19619
+111517:Mellicent:Vann:200201101003,1804:Debit:14011#1805:Debit:8619#1806:Debit:3818
+111518:Vanna:Leader:200806113577,1807:Debit:33530#1808:Debit:31305
+111519:Ikey:Bugge:198405089639,1809:Debit:16002#1810:Debit:8069#1811:Debit:12550
+111520:Theodoric:Colnet:200407077503,1812:Debit:49137#1813:Debit:23410#1814:Debit:34377#1815:Debit:33775
+111521:Ceil:Beeson:200610279127,1816:Debit:45446#1817:Debit:19123
+111522:Derk:Goby:198811165391
+111523:Annadiane:Glentworth:200812167651,1818:Debit:32884
+111524:Sean:Rheaume:201605032697
+111525:Kristofer:Matyja:198906226510,1819:Debit:23796#1820:Debit:9616#1821:Debit:35588#1822:Debit:2764
+111526:Tami:Sprade:197007141973,1823:Debit:49383#1824:Debit:19824#1825:Debit:1972
+111527:Beale:Fiorentino:197208022916,1826:Debit:11469#1827:Debit:459#1828:Debit:5640
+111528:Theobald:Currao:199911211365,1829:Debit:33606
+111529:Kriste:Moggan:198806137441,1830:Debit:19730#1831:Debit:5231
+111530:Earl:Webland:197507198969,1832:Debit:48850#1833:Debit:48806#1834:Debit:38093#1835:Debit:26730
+111531:Chan:Duthie:200605172667
+111532:Welsh:Genty:195212209063,1836:Debit:32754#1837:Debit:45112#1838:Debit:3611#1839:Debit:7820
+111533:Cletus:Braden:201006258458,1840:Debit:37795#1841:Debit:24621#1842:Debit:11493#1843:Debit:16870
+111534:Jacqueline:Hanney:197902269911
+111535:Dinnie:Lacroux:197611282810,1844:Debit:8577#1845:Debit:39758#1846:Debit:2988#1847:Debit:22474
+111536:Kelly:Medford:197506288178,1848:Debit:6345#1849:Debit:17597#1850:Debit:15203#1851:Debit:45813
+111537:Robb:Dagon:199809267228
+111538:Prince:Savidge:201102083725,1852:Debit:29048#1853:Debit:20821
+111539:Shirlene:Greetham:199712201994
+111540:Godiva:Christophers:195006068734
+111541:Karen:Loy:197211237955
+111542:Norma:Benmore:200003187507,1854:Debit:43878#1855:Debit:13179#1856:Debit:24409#1857:Debit:36170
+111543:Ashleigh:Barts:195909237856,1858:Debit:32307#1859:Debit:36952
+111544:Dalton:Cagan:199010019856,1860:Debit:43774#1861:Debit:3185#1862:Debit:31440#1863:Debit:48752
+111545:Wolf:Jeffcoate:198302168149
+111546:Ruby:Cheek:201805014137,1864:Debit:43060#1865:Debit:4565#1866:Debit:43141
+111547:Alaine:Farquharson:201609239406,1867:Debit:25930#1868:Debit:17618
+111548:Bambie:Fransseni:199003248515,1869:Debit:47423
+111549:Gunner:Rhelton:201003091282,1870:Debit:18343#1871:Debit:45933#1872:Debit:25510#1873:Debit:35685
+111550:Benedicto:Whewill:197107031939
+111551:Mara:Dines:195210142790
+111552:Christie:Chetwind:200712096750,1874:Debit:25000#1875:Debit:30229
+111553:Cirstoforo:McOmish:196210081111,1876:Debit:14933
+111554:Germayne:Herion:199308013358,1877:Debit:47732#1878:Debit:23015#1879:Debit:2753#1880:Debit:49097
+111555:Schuyler:Auchterlonie:195602107144,1881:Debit:37847#1882:Debit:21289#1883:Debit:43660#1884:Debit:45831
+111556:Gabriele:Voase:198601037209,1885:Debit:35493#1886:Debit:10511#1887:Debit:37057
+111557:Ware:Tossell:199610035381
+111558:Ingra:Kelcher:198711077710,1888:Debit:44916
+111559:Mick:Drewe:200310068883,1889:Debit:25939#1890:Debit:47619#1891:Debit:39823
+111560:Nancy:Tourville:195804267643,1892:Debit:40323#1893:Debit:33029#1894:Debit:11290#1895:Debit:22773
+111561:Suzette:O'Hanley:201401168630
+111562:Queenie:Stanislaw:199005253732
+111563:Vally:Dreier:197205024337,1896:Debit:30163
+111564:Silvester:Karchowski:200608184678,1897:Debit:14742
+111565:Pooh:Yokelman:198501099627,1898:Debit:12608
+111566:Claudianus:Laing:196309064929,1899:Debit:7214#1900:Debit:39042#1901:Debit:7033
+111567:Coralie:Cossom:201511139542,1902:Debit:3199#1903:Debit:1089#1904:Debit:44693#1905:Debit:5266
+111568:Chancey:Mordin:202010035167,1906:Debit:36820#1907:Debit:25714#1908:Debit:46896
+111569:Addy:Ungerecht:195607019369,1909:Debit:45579#1910:Debit:35655#1911:Debit:19283
+111570:Ethelind:Primarolo:195710186975,1912:Debit:27615
+111571:Frederique:Houndson:198002108603,1913:Debit:17849
+111572:Lesli:Banghe:201506176553,1914:Debit:25799#1915:Debit:29411
+111573:Cornelle:Caller:196907024822,1916:Debit:29081
+111574:Adham:Beauman:201711098250,1917:Debit:24981
+111575:Edwin:Colquete:201006049661,1918:Debit:29884
+111576:Peria:Leppard:199104033331,1919:Debit:22179#1920:Debit:48155#1921:Debit:17621
+111577:Christine:Gann:199311027780,1922:Debit:6411
+111578:Bertrando:Battleson:195902178459
+111579:Lion:Rhodef:197201122900,1923:Debit:42752#1924:Debit:48051#1925:Debit:23168#1926:Debit:8582
+111580:Martina:Tomadoni:198706089505
+111581:Rubi:Stoney:198204245799,1927:Debit:37155
+111582:Agace:Kintish:199402225534
+111583:Yurik:Veneur:200804057138,1928:Debit:14337#1929:Debit:47891#1930:Debit:410
+111584:Ibbie:Caff:200303045694,1931:Debit:19709#1932:Debit:45072#1933:Debit:27141
+111585:Paul:Cantrell:201904099664,1934:Debit:43868#1935:Debit:38072#1936:Debit:16154#1937:Debit:25999
+111586:Ferrel:Petschel:199111023569
+111587:Berkeley:Stenet:201305103599,1938:Debit:24880#1939:Debit:18379
+111588:Tabor:Tuberfield:201201016002,1940:Debit:38439
+111589:Stepha:Labram:201109081700,1941:Debit:28652#1942:Debit:13832#1943:Debit:317
+111590:Ive:Verissimo:198807113331,1944:Debit:14222#1945:Debit:33871#1946:Debit:34914#1947:Debit:37781
+111591:Shaine:Marzella:197805087475,1948:Debit:46373#1949:Debit:45823#1950:Debit:45356#1951:Debit:3395
+111592:Claresta:Ugolotti:201910114224,1952:Debit:1765
+111593:Mattie:Salvidge:200311019895,1953:Debit:11376#1954:Debit:34364#1955:Debit:12912#1956:Debit:1908
+111594:Jaymie:Richemont:197909172424,1957:Debit:6913#1958:Debit:3859#1959:Debit:20534#1960:Debit:24803
+111595:Alma:Lis:198906106905,1961:Debit:48181
+111596:Larry:Plank:199203254052
+111597:Kerri:Gaines:198307254161,1962:Debit:44553#1963:Debit:33675#1964:Debit:20820#1965:Debit:10380
+111598:Eb:Bendel:199908217782,1966:Debit:28886
+111599:Boonie:Pellamonuten:200004099140,1967:Debit:1433#1968:Debit:34660#1969:Debit:40388#1970:Debit:7386
+111600:Kelcie:Sheaber:196606097448,1971:Debit:23660
+111601:Donaugh:Lumb:201907199877,1972:Debit:3767#1973:Debit:2131#1974:Debit:10267
+111602:Kalil:Lassells:198609036912,1975:Debit:41505#1976:Debit:27674
+111603:Layton:Luscott:198205277873
+111604:Ginelle:Pleaden:199706124824,1977:Debit:711#1978:Debit:28568#1979:Debit:33972#1980:Debit:15118
+111605:Venus:Struan:201402038490,1981:Debit:16998
+111606:Corena:Hellings:195306193179
+111607:Berkeley:Faustin:196702226496,1982:Debit:24261
+111608:Gavra:Wyeld:202111186044,1983:Debit:43808#1984:Debit:49441
+111609:Barrie:Simenel:196704083111
+111610:Dode:Dombrell:197305259131,1985:Debit:11194#1986:Debit:46569#1987:Debit:22463#1988:Debit:15222
+111611:Analiese:Arboine:196912247432,1989:Debit:4214#1990:Debit:33067#1991:Debit:33152#1992:Debit:11442
+111612:Parry:O'Longain:197310092875,1993:Debit:36582#1994:Debit:334
+111613:Ulrich:Grissett:197903152101,1995:Debit:27663#1996:Debit:30747#1997:Debit:28637#1998:Debit:9795
+111614:Abigael:Barme:196109189844,1999:Debit:12687#2000:Debit:41566#2001:Debit:207#2002:Debit:46014
+111615:Doralyn:Itzhayek:197311013533,2003:Debit:39058#2004:Debit:15705#2005:Debit:54
+111616:Janey:Selland:199902272680,2006:Debit:16540#2007:Debit:11800#2008:Debit:24396#2009:Debit:5557
+111617:Jason:Crosio:200012022655,2010:Debit:11853#2011:Debit:40349#2012:Debit:38816
+111618:Gunner:Verner:195504132866,2013:Debit:36799#2014:Debit:38000#2015:Debit:33268
+111619:Lonnie:Ledgerton:201102117618,2016:Debit:12855#2017:Debit:47840#2018:Debit:26045#2019:Debit:46447
+111620:Rubetta:Duddle:195701279916,2020:Debit:18509#2021:Debit:11849#2022:Debit:3534
+111621:Jannelle:Poskitt:196505223848,2023:Debit:20298#2024:Debit:33130#2025:Debit:38079#2026:Debit:36116
+111622:Logan:Whitcher:195805251813,2027:Debit:40835#2028:Debit:47554
+111623:Antonella:Careswell:197409178964,2029:Debit:5961
+111624:Brodie:Meas:201712283034,2030:Debit:44605#2031:Debit:16287
+111625:Norry:Hoovart:197304184326,2032:Debit:27326#2033:Debit:34671#2034:Debit:47239
+111626:Winne:Lawty:199001111625,2035:Debit:14913#2036:Debit:46738#2037:Debit:2765
+111627:Yolanda:Braferton:198702144145,2038:Debit:6144#2039:Debit:1639#2040:Debit:39144#2041:Debit:44642
+111628:Wylie:Sidebotton:196504172913,2042:Debit:19869#2043:Debit:41107#2044:Debit:33747
+111629:Leta:Atcherley:199203065372,2045:Debit:31592
+111630:Bronnie:Sidden:199412013969,2046:Debit:19710#2047:Debit:12386
+111631:Nial:Etherton:197210141361,2048:Debit:23574#2049:Debit:38391#2050:Debit:10843
+111632:Karolina:Norton:200001123233
+111633:Ingra:Grayston:199808115231
+111634:Yasmeen:MacGow:199303055648,2051:Debit:19169#2052:Debit:41830
+111635:Myrta:Selwin:199702047651,2053:Debit:48414#2054:Debit:35684#2055:Debit:42410#2056:Debit:45996
+111636:Emmy:Kloser:199503234314,2057:Debit:21401#2058:Debit:31283
+111637:Shawna:Abells:197910168824,2059:Debit:44735#2060:Debit:23011
+111638:Agnesse:Esselin:199501246658,2061:Debit:18997#2062:Debit:27901#2063:Debit:48538#2064:Debit:28675
+111639:Prudi:Willbourne:200602026399,2065:Debit:4196#2066:Debit:32848#2067:Debit:9651#2068:Debit:44915
+111640:Carmen:Fusedale:197207086908,2069:Debit:28012#2070:Debit:44459
+111641:Donal:Agnolo:199405189357,2071:Debit:28853
+111642:Jamey:Rowbury:201402115036,2072:Debit:47352#2073:Debit:5089#2074:Debit:11258#2075:Debit:48617
+111643:Ralph:Cheverell:201904102401
+111644:Vinson:Neller:200403275065
+111645:Sid:Burfitt:198201043618,2076:Debit:3212
+111646:Dall:Devoy:196810226622,2077:Debit:408#2078:Debit:42751#2079:Debit:15001#2080:Debit:29723
+111647:Rube:Lansley:200801227010,2081:Debit:33057#2082:Debit:6175
+111648:Mallory:Darby:198011101065,2083:Debit:34085
+111649:Terence:Cudbird:197511043404
+111650:Tailor:Edlyn:197906287997,2084:Debit:3988
+111651:Maggee:Devas:200611108937,2085:Debit:6076#2086:Debit:38672#2087:Debit:47257#2088:Debit:10357
+111652:Manon:Cromley:196010091439
+111653:Nelie:Deaton:195002051424,2089:Debit:13107#2090:Debit:39704#2091:Debit:44352
+111654:Cecilia:Wadly:201603229031,2092:Debit:24670#2093:Debit:34688
+111655:Lothario:Hovenden:201210147682,2094:Debit:17271#2095:Debit:7468#2096:Debit:836#2097:Debit:6521
+111656:Fitzgerald:Colrein:200106114730,2098:Debit:213
+111657:Felizio:Winnard:201404027038,2099:Debit:32985#2100:Debit:23551#2101:Debit:44041
+111658:Dalston:Gillion:195205236301,2102:Debit:9001#2103:Debit:11103#2104:Debit:7120
+111659:Windham:Greetland:198804247489,2105:Debit:37204#2106:Debit:13423
+111660:Jessie:Marin:196901282877,2107:Debit:31763#2108:Debit:15817#2109:Debit:12654
+111661:Juliana:Speed:195712114535,2110:Debit:23108
+111662:Isa:Qusklay:199001226066
+111663:Elliot:Czaja:195907101400,2111:Debit:47964
+111664:Aurore:Tindley:196706169555
+111665:Fidela:Matelaitis:196203156854,2112:Debit:26063
+111666:Charlean:Le Friec:195402043236
+111667:Adriana:Geertsen:198801139470
+111668:Lisetta:Pennetta:198303237620,2113:Debit:45
+111669:Marillin:Herrieven:199602135176,2114:Debit:28648
+111670:Minetta:Dibben:197305171938,2115:Debit:17689
+111671:Loella:Hucks:197908285716,2116:Debit:5029#2117:Debit:49006#2118:Debit:14795#2119:Debit:7457
+111672:Humbert:Mardling:201202031586,2120:Debit:16753
+111673:Desi:Attride:196611072271
+111674:Sigrid:Willoughby:201509064630,2121:Debit:45314#2122:Debit:5052
+111675:Kalila:Sundin:200209251432
+111676:Ibbie:Presley:195909205359
+111677:Anson:Kerbler:195610164385,2123:Debit:14633#2124:Debit:27926#2125:Debit:34053
+111678:Suellen:Gaskell:197201261665,2126:Debit:39763#2127:Debit:17295
+111679:Noelyn:Belone:200309259764,2128:Debit:3766#2129:Debit:10798
+111680:Jillian:Myderscough:200112056553,2130:Debit:40917#2131:Debit:21255
+111681:Cooper:Chanders:201312071074
+111682:Itch:Hatherley:197905196901,2132:Debit:12284#2133:Debit:28948#2134:Debit:16144#2135:Debit:49585
+111683:Lolita:Dundon:197512104643
+111684:Regan:MacKay:202101271081,2136:Debit:20984#2137:Debit:14601
+111685:My:Barizeret:202003251478,2138:Debit:46471
+111686:Kippar:Oldfield:196504112074,2139:Debit:26331#2140:Debit:47541#2141:Debit:31313
+111687:Cleavland:Hillatt:197610207495,2142:Debit:209
+111688:Debbi:Gloy:198310033176,2143:Debit:18260#2144:Debit:27373
+111689:Averyl:McCrudden:201308285359,2145:Debit:38157
+111690:Letizia:O'Beirne:196709227727,2146:Debit:16800
+111691:Ugo:Monan:198309054541
+111692:Clarinda:Jedras:199802131100,2147:Debit:22854
+111693:Audrey:Stenbridge:201409232931,2148:Debit:8889#2149:Debit:40647#2150:Debit:22927#2151:Debit:44292
+111694:Ginny:Mahaffey:201708264283
+111695:Oriana:Hendrix:201412097922,2152:Debit:5922
+111696:Elle:Warboy:199012028418,2153:Debit:8809#2154:Debit:23854#2155:Debit:1642#2156:Debit:43549
+111697:Chas:Lapping:198404162745,2157:Debit:31906#2158:Debit:42884#2159:Debit:49454
+111698:Sander:Kinglesyd:198511159303,2160:Debit:38284
+111699:Marijn:Scambler:196111062775,2161:Debit:19979#2162:Debit:43726#2163:Debit:46752#2164:Debit:8135
+111700:Min:Sandels:195509149660
+111701:Jessi:Basey:201605077721,2165:Debit:8039#2166:Debit:4332#2167:Debit:2911
+111702:Letta:Powlesland:200504187096,2168:Debit:11633#2169:Debit:8577
+111703:Mathias:MacKartan:195212018370,2170:Debit:37357#2171:Debit:27299#2172:Debit:31321#2173:Debit:29231
+111704:Caz:Pariss:202109218001
+111705:Rube:O'Sherrin:200010206243,2174:Debit:6307#2175:Debit:8009#2176:Debit:40293
+111706:Jamie:McBoyle:196009115340,2177:Debit:11477#2178:Debit:30534#2179:Debit:25925
+111707:Dona:Vickar:195806144748,2180:Debit:10993
+111708:Vanessa:Michelin:200508012987,2181:Debit:46460
+111709:Bree:Bilsborrow:200905136817,2182:Debit:6936#2183:Debit:8706#2184:Debit:46893#2185:Debit:37484
+111710:Myrle:Jiles:200501274757,2186:Debit:2003#2187:Debit:6541
+111711:Garey:Linacre:198409067574,2188:Debit:17662#2189:Debit:31639#2190:Debit:24114
+111712:Colette:Keysall:200210283002,2191:Debit:33762#2192:Debit:27402
+111713:Jehanna:Ellershaw:199201287454,2193:Debit:22530#2194:Debit:3100#2195:Debit:20483#2196:Debit:49324
+111714:Hetty:Prahm:201807157792,2197:Debit:25414#2198:Debit:33736#2199:Debit:38147#2200:Debit:23103
+111715:Peggi:Cobb:196904082900,2201:Debit:31917#2202:Debit:30624
+111716:Melody:Ugoletti:201702104175,2203:Debit:9158#2204:Debit:1995
+111717:Theresita:Mochan:197811097361,2205:Debit:34953#2206:Debit:4115#2207:Debit:40391#2208:Debit:33669
+111718:Carolee:Thurnham:202011059246,2209:Debit:494
+111719:Denice:Zieme:201308096028,2210:Debit:30772#2211:Debit:2209#2212:Debit:44022#2213:Debit:42966
+111720:Bruno:Beards:196502049836,2214:Debit:47155#2215:Debit:34623#2216:Debit:15099
+111721:Fenelia:McKerlie:198708016609,2217:Debit:7748
+111722:Alli:Barden:197610052864,2218:Debit:11076
+111723:Adrea:de Juares:196205068552,2219:Debit:18256#2220:Debit:30512#2221:Debit:2082
+111724:Petra:Birds:201907098503
+111725:Launce:Lygo:197702035982,2222:Debit:17934#2223:Debit:28343#2224:Debit:17240
+111726:Flynn:Yurocjkin:200005137260,2225:Debit:32236#2226:Debit:24599#2227:Debit:41754#2228:Debit:9121
+111727:Florence:Larn:198509132866
+111728:Kaylyn:Lanchberry:197406099445,2229:Debit:7870#2230:Debit:13204
+111729:Tiler:Philpotts:201309021199,2231:Debit:3953
+111730:Bartholomew:Stubbington:199211078535,2232:Debit:3378
+111731:Chrysler:Shooter:195911022501,2233:Debit:35661#2234:Debit:37119#2235:Debit:1984#2236:Debit:38115
+111732:Galina:Nibloe:200303263332,2237:Debit:27380#2238:Debit:19603#2239:Debit:20290
+111733:Barr:Stanier:199005283157,2240:Debit:20340#2241:Debit:15576#2242:Debit:30086
+111734:Woodman:Geratasch:195010124336,2243:Debit:29091#2244:Debit:28393
+111735:Maxim:Rimington:199308064834,2245:Debit:34060#2246:Debit:9110#2247:Debit:3578
+111736:Elenore:Filipovic:199409032866,2248:Debit:12657#2249:Debit:393
+111737:Cassie:Mayling:198207252693,2250:Debit:13882#2251:Debit:24408#2252:Debit:35088
+111738:Malena:Mossbee:195507103499,2253:Debit:30053#2254:Debit:19875
+111739:Sheryl:Earwicker:196810068468,2255:Debit:32048#2256:Debit:34361#2257:Debit:7133
+111740:Kenon:McCutheon:196106233557,2258:Debit:28650
+111741:Sophi:Brundrett:195708161284
+111742:Warden:Oyley:199005189285,2259:Debit:6418
+111743:Rheta:Espinas:196607021203,2260:Debit:30321#2261:Debit:6925
+111744:Bertie:Varnals:200205161939,2262:Debit:31772#2263:Debit:7635#2264:Debit:41574#2265:Debit:31730
+111745:Darrel:Lapwood:202106151245
+111746:Kile:Bruneau:195109047329,2266:Debit:22742#2267:Debit:46466#2268:Debit:24306
+111747:Luis:Geare:199705269875
+111748:Felisha:Tappin:201708115827,2269:Debit:40758#2270:Debit:12685#2271:Debit:38628
+111749:Armstrong:Prew:199804274092,2272:Debit:19949#2273:Debit:9056
+111750:Araldo:Gosneye:199508029616,2274:Debit:30014#2275:Debit:38131#2276:Debit:25172
+111751:Martainn:Shortland:198602252041,2277:Debit:38131#2278:Debit:11436
+111752:Krishna:Moulsdall:201502118886,2279:Debit:36612
+111753:Almeta:Kenefick:198709177751,2280:Debit:35259#2281:Debit:17477#2282:Debit:33297
+111754:Kaia:Herries:195512047383,2283:Debit:49400
+111755:Carter:Krammer:201506172980,2284:Debit:10842#2285:Debit:21371
+111756:Doroteya:Nares:201802067215,2286:Debit:44880
+111757:Arlene:Melendez:197310147400,2287:Debit:1713
+111758:Hendrick:Newlyn:195906014624,2288:Debit:37921#2289:Debit:2132
+111759:Mari:Linturn:195211111936,2290:Debit:31778
+111760:Edee:Ardron:195701137945,2291:Debit:38434#2292:Debit:30673
+111761:Nonah:Bettison:199401161861,2293:Debit:17128#2294:Debit:29554#2295:Debit:39744#2296:Debit:48035
+111762:Humfrid:Geerdts:199711171395
+111763:Vallie:Gerriessen:198803136436,2297:Debit:3981#2298:Debit:45605#2299:Debit:35910
+111764:Aprilette:Domaschke:197401277965,2300:Debit:22940#2301:Debit:35563#2302:Debit:6634
+111765:Katya:Mottini:201004193855,2303:Debit:29642
+111766:Kristo:Kob:197810041753,2304:Debit:36193#2305:Debit:14911#2306:Debit:27312#2307:Debit:23515
+111767:Fabe:Opie:200005175919,2308:Debit:36964
+111768:Aldridge:Munt:201503153260,2309:Debit:35524
+111769:Dudley:Rodda:197206241781
+111770:Camile:Askam:197904281011
+111771:Amos:Mathet:198301239554,2310:Debit:47193
+111772:Della:Sproson:200812247186,2311:Debit:34718
+111773:Natty:Deetlefs:197111111953
+111774:Verla:Bellee:198103249170,2312:Debit:269
+111775:Burke:Reucastle:197401114770
+111776:Em:Scott:196502088839,2313:Debit:18507#2314:Debit:7474#2315:Debit:1688
+111777:Rand:Stonard:197306222292,2316:Debit:8712#2317:Debit:38203
+111778:Edy:Stive:197304017398,2318:Debit:23889#2319:Debit:21873#2320:Debit:32057#2321:Debit:18694
+111779:Clio:Casterou:196905168506
+111780:Lloyd:Byron:201604074143,2322:Debit:16215#2323:Debit:7480#2324:Debit:33116#2325:Debit:40261
+111781:Tadeo:Perkis:196409188779,2326:Debit:31875
+111782:Ezmeralda:Lanphere:198603014978,2327:Debit:34790#2328:Debit:19283#2329:Debit:46584#2330:Debit:23679
+111783:Adlai:Merwe:199803043165,2331:Debit:27772#2332:Debit:35354#2333:Debit:40894
+111784:Lucais:Philippe:202011276950,2334:Debit:22437#2335:Debit:13435
+111785:Fulton:Ferfulle:200107193006
+111786:Hayward:Cressor:199202043467,2336:Debit:1307#2337:Debit:9060#2338:Debit:46984#2339:Debit:4461
+111787:Stephan:Pierton:197504043374,2340:Debit:24513
+111788:Pepito:Ullock:197505242141,2341:Debit:26934
+111789:Alleen:Feehely:197510143457,2342:Debit:41050#2343:Debit:10653
+111790:Sephira:Elfes:200709226692
+111791:Marlin:Goodband:199409212978,2344:Debit:32596#2345:Debit:9170#2346:Debit:38605
+111792:Roscoe:Dockree:196405234550,2347:Debit:35439
+111793:Rocky:Ferretti:198107103574
+111794:Jarrod:Fasse:197303191805,2348:Debit:29610
+111795:Amara:Loach:197508219376,2349:Debit:42347#2350:Debit:9433#2351:Debit:21694#2352:Debit:36156
+111796:Marty:Meldrum:201101226594,2353:Debit:3083#2354:Debit:25232#2355:Debit:40818#2356:Debit:25656
+111797:Anderea:Wandless:200410032142,2357:Debit:25351#2358:Debit:36898
+111798:Gwyn:Bretton:199201172293
+111799:Dale:Ubee:197011126460,2359:Debit:2350#2360:Debit:18414#2361:Debit:12394#2362:Debit:19118
+111800:Alidia:Padbury:200702085486,2363:Debit:39127#2364:Debit:34794#2365:Debit:31306
+111801:Bird:De Maine:199310217392
+111802:Cacilie:Sewill:195610229428
+111803:Bertie:Randalson:198809066129
+111804:Enriqueta:Bullocke:201504074793,2366:Debit:48627#2367:Debit:24133#2368:Debit:22053#2369:Debit:12328
+111805:Geoffrey:Shutte:200705268370,2370:Debit:22372#2371:Debit:21957#2372:Debit:10996#2373:Debit:36554
+111806:Wayne:Favelle:196407142755,2374:Debit:20469#2375:Debit:40178#2376:Debit:37896
+111807:Dorena:Flecknoe:200602279862,2377:Debit:44369#2378:Debit:3099#2379:Debit:31172
+111808:Cherry:Maffione:200402098248,2380:Debit:34413#2381:Debit:34359
+111809:Mil:Breewood:195207265617,2382:Debit:49108
+111810:Wood:Forestel:199307136693,2383:Debit:47873#2384:Debit:13977#2385:Debit:42176
+111811:Homerus:Wickersley:197507041475
+111812:Josy:Kneafsey:198609243749,2386:Debit:18576
+111813:Juieta:Griffoen:196208113306
+111814:Bennie:Domenichelli:198208204355,2387:Debit:42282
+111815:Genvieve:Blower:200807229727
+111816:Aloin:Rance:197007108205,2388:Debit:34576#2389:Debit:48073
+111817:Katie:McPhilip:199410104559,2390:Debit:29407
+111818:Clotilda:Popelay:199410031713
+111819:Jonas:Ethelston:197001023763
+111820:Pierson:Rizzini:199005121629,2391:Debit:33974#2392:Debit:33686#2393:Debit:45773
+111821:Brandie:Kofax:195803186849,2394:Debit:33520#2395:Debit:24661#2396:Debit:39892
+111822:Lek:Kordes:196304235334,2397:Debit:43007#2398:Debit:44686#2399:Debit:42286#2400:Debit:1679
+111823:Shamus:Redhouse:200405045071,2401:Debit:31417#2402:Debit:28895
+111824:Banky:Cheatle:195205256678,2403:Debit:40173#2404:Debit:22578
+111825:Anna-maria:Danilyak:198510024189,2405:Debit:15729#2406:Debit:49090#2407:Debit:15458
+111826:Stephie:Creaven:201203207262,2408:Debit:839
+111827:Constance:Megroff:196212089427,2409:Debit:17520#2410:Debit:31493#2411:Debit:47093#2412:Debit:35178
+111828:Jessalin:Doore:199911283735
+111829:Rooney:Lawlings:196205212785,2413:Debit:26180#2414:Debit:19579
+111830:Blanche:Ringsell:197301045926,2415:Debit:13074#2416:Debit:40392#2417:Debit:22981#2418:Debit:14684
+111831:Reinald:Champney:197210172549,2419:Debit:5925#2420:Debit:35977
+111832:Waylin:Waitland:201404222519
+111833:Ira:Stranieri:200112084402,2421:Debit:5366#2422:Debit:41318#2423:Debit:4370#2424:Debit:32373
+111834:Avie:Reignould:197309194686,2425:Debit:37060#2426:Debit:47589#2427:Debit:16646#2428:Debit:10982
+111835:Gwyn:Du Pre:200210193228,2429:Debit:1315#2430:Debit:49722
+111836:Frannie:Wale:200311198230,2431:Debit:15515#2432:Debit:19737#2433:Debit:31619#2434:Debit:16355
+111837:Aime:Whisby:195806256273,2435:Debit:40992#2436:Debit:40108#2437:Debit:23611
+111838:Ingelbert:Corde:201802204518,2438:Debit:28807#2439:Debit:32460
+111839:Ethel:Hardwell:197802102857
+111840:Terri-jo:Strang:198407189585,2440:Debit:32412#2441:Debit:4140#2442:Debit:30762
+111841:Brooks:Heritege:196901284307,2443:Debit:43329#2444:Debit:45071#2445:Debit:15606
+111842:Joyan:Shepperd:196301274373,2446:Debit:29320
+111843:Siusan:Codlin:199701023313,2447:Debit:24199
+111844:Shelagh:Dabling:195609226642,2448:Debit:37323#2449:Debit:27608#2450:Debit:35628#2451:Debit:1997
+111845:Fidelio:Yakunchikov:201608023525,2452:Debit:47844#2453:Debit:5008
+111846:Whitby:Rodwell:198206015511,2454:Debit:29897#2455:Debit:30801
+111847:Pebrook:Wornham:195710271361
+111848:Saundra:Aleksidze:195211241491,2456:Debit:9518
+111849:Ardelia:Chestney:196404283389,2457:Debit:3707
+111850:Gabbey:Balas:198707151597,2458:Debit:42648#2459:Debit:24191#2460:Debit:3198
+111851:Gay:Berwick:196709042128,2461:Debit:197#2462:Debit:35390#2463:Debit:31345
+111852:Carlie:Gribbins:201912098721,2464:Debit:31629#2465:Debit:44569#2466:Debit:21007
+111853:Galen:Britnell:197407288302,2467:Debit:24594#2468:Debit:2992
+111854:Alyse:Dartnell:201804226811
+111855:Patric:Tesimon:200909024987,2469:Debit:12117#2470:Debit:48802#2471:Debit:4264#2472:Debit:27903
+111856:Annmaria:Bilson:201712051907,2473:Debit:46310#2474:Debit:30630
+111857:Laurent:Yude:200012288213
+111858:Sissy:Gristhwaite:197304133121,2475:Debit:11073
+111859:Johnathan:Shann:197504217966,2476:Debit:1039#2477:Debit:5006#2478:Debit:7540
+111860:Shirline:Woofenden:197903226271
+111861:Shellie:Boni:199105056250
+111862:Thomasina:Sabathier:201512141506
+111863:Carey:Basketter:200601223478,2479:Debit:5694#2480:Debit:11413#2481:Debit:23341#2482:Debit:46993
+111864:Julie:Jeremaes:199504019438,2483:Debit:7239#2484:Debit:22033#2485:Debit:27610#2486:Debit:30419
+111865:Devondra:Tutin:195909135028
+111866:Sib:Dinis:201204274487,2487:Debit:34268#2488:Debit:46133#2489:Debit:12013
+111867:Mella:Leyfield:199805014039,2490:Debit:17718#2491:Debit:43771#2492:Debit:3438#2493:Debit:1383
+111868:Bell:Giffin:200506214087,2494:Debit:42209#2495:Debit:35978#2496:Debit:4204
+111869:Garek:MacGovern:196612075998
+111870:Alfy:Brasse:199204043546,2497:Debit:6977#2498:Debit:20150#2499:Debit:47279
+111871:Obed:Mantione:199707183226,2500:Debit:24547#2501:Debit:28430#2502:Debit:48257#2503:Debit:30586
+111872:Sigvard:Worley:195003102146,2504:Debit:26159#2505:Debit:9896#2506:Debit:47630#2507:Debit:10020
+111873:Ardene:Tumber:201708073737,2508:Debit:28483
+111874:Karin:Shadbolt:197703274105
+111875:Rafferty:Ortler:198912266999
+111876:Ardyce:Kempston:201709289182,2509:Debit:25703#2510:Debit:48927#2511:Debit:13063
+111877:Kimmy:Rustadge:198502104165
+111878:Reena:Magnar:199003044319
+111879:Theadora:MacAndrew:198004237122
+111880:Bronson:Knight:198007091037
+111881:Hedy:Pruce:196512246731,2512:Debit:32028#2513:Debit:48014#2514:Debit:30128
+111882:Bendick:McNeilley:201612213823,2515:Debit:10051#2516:Debit:23370#2517:Debit:32562#2518:Debit:48663
+111883:Andrey:Honacker:195412215058,2519:Debit:4697#2520:Debit:19205#2521:Debit:33193#2522:Debit:17565
+111884:Danell:Oxer:200301034355,2523:Debit:1031#2524:Debit:6127#2525:Debit:19951#2526:Debit:33807
+111885:Emelda:Rudge:197205235760,2527:Debit:1624#2528:Debit:22102#2529:Debit:3630#2530:Debit:21322
+111886:Abbey:Sherrell:196905257438,2531:Debit:32304#2532:Debit:36221
+111887:Cobb:Aggett:199208225128,2533:Debit:20119#2534:Debit:40583#2535:Debit:35009#2536:Debit:41504
+111888:Dina:Jewett:201009084375
+111889:Euphemia:Chess:197207151031,2537:Debit:27565
+111890:Tiffi:Lebang:200709032843
+111891:Isabelita:Brixey:199102251556,2538:Debit:41681#2539:Debit:18113#2540:Debit:13002
+111892:Briggs:Cull:197901066322,2541:Debit:44395
+111893:Dina:Benediktsson:197105205916,2542:Debit:31563#2543:Debit:2537
+111894:Krissy:Championnet:199402196827,2544:Debit:8321
+111895:Rab:Baitson:199810143817,2545:Debit:6702
+111896:Rosamund:Rois:199311063006,2546:Debit:41277#2547:Debit:10421
+111897:Fanya:Jerrom:200809141154,2548:Debit:6618#2549:Debit:39751
+111898:Dieter:Barwise:200311025151,2550:Debit:31412
+111899:Simon:Erskine Sandys:197003112272
+111900:Timothy:Lubbock:201403179391,2551:Debit:3433#2552:Debit:2936#2553:Debit:41177#2554:Debit:32471
+111901:Tricia:Tullett:198905237210
+111902:Bridie:Vlasin:201207275684,2555:Debit:35688#2556:Debit:47798#2557:Debit:10797
+111903:Bron:Derrett:196101152528,2558:Debit:43182#2559:Debit:16169#2560:Debit:17512#2561:Debit:34274
+111904:Peirce:Brigshaw:200104112383
+111905:Lara:Feechan:200606062435,2562:Debit:22037#2563:Debit:28771
+111906:Joseph:Manicomb:198512285393,2564:Debit:4493#2565:Debit:25036
+111907:Courtney:Masterman:196405019341
+111908:Nikaniki:Androck:197610119564,2566:Debit:5958#2567:Debit:22847#2568:Debit:43861#2569:Debit:43017
+111909:Cull:Southernwood:197406087487,2570:Debit:23819#2571:Debit:49429
+111910:Zsa zsa:Ruddin:200106053039,2572:Debit:31111#2573:Debit:2640
+111911:Kerby:McVane:195508114798,2574:Debit:28782#2575:Debit:14128#2576:Debit:45645#2577:Debit:35996
+111912:Germayne:Sausman:198712034674,2578:Debit:150#2579:Debit:30328#2580:Debit:27590#2581:Debit:5166
+111913:Jacky:Tures:196003165588
+111914:Denney:Bradnocke:198212025296,2582:Debit:1736
+111915:Englebert:Wellbeloved:196909268502,2583:Debit:35711#2584:Debit:5844#2585:Debit:41347
+111916:Merci:Doring:199711154111,2586:Debit:6859
+111917:Meredeth:Eick:201102224218
+111918:Corly:Cressy:199204224125,2587:Debit:41399
+111919:Matthiew:Girardez:197806145149,2588:Debit:37189
+111920:Obidiah:Creyke:196312096087
+111921:Kiel:Cullinan:201905063688,2589:Debit:41637#2590:Debit:36443#2591:Debit:25681#2592:Debit:42666
+111922:Morna:Giorgio:201502205824,2593:Debit:14305#2594:Debit:34768
+111923:Cyril:Bing:199812187667,2595:Debit:3437#2596:Debit:38086#2597:Debit:32985#2598:Debit:47614
+111924:Lelia:Capewell:196406177146,2599:Debit:1873#2600:Debit:11700
+111925:Merl:Boecke:196112207697,2601:Debit:3713
+111926:Lebbie:Scneider:198604266395,2602:Debit:35433
+111927:Steffie:McKellen:199307248755,2603:Debit:25676#2604:Debit:6430#2605:Debit:46000#2606:Debit:22856
+111928:Gearard:Leed:201508217884,2607:Debit:39480#2608:Debit:14459#2609:Debit:28677
+111929:Haskell:Harbison:200704288448,2610:Debit:3025#2611:Debit:14425#2612:Debit:40166
+111930:Allianora:Collison:198005133466,2613:Debit:49226
+111931:Ilse:Leonarde:199412072825,2614:Debit:41287
+111932:Wendell:Petrulis:195209063004
+111933:Wittie:Cowperthwaite:198910031750
+111934:Cristina:Rickets:198710083069,2615:Debit:28343
+111935:Merrielle:Danett:196911238795,2616:Debit:23068#2617:Debit:35193
+111936:Brigg:Folliott:197206126464,2618:Debit:31739#2619:Debit:46074#2620:Debit:27343#2621:Debit:2176
+111937:Stinky:Eaglestone:200201163232
+111938:Trudy:Rabb:199311033209,2622:Debit:30419#2623:Debit:3128#2624:Debit:49695
+111939:Pernell:Trillo:199312153006,2625:Debit:48216
+111940:Gabby:Golsby:200811055084,2626:Debit:9118#2627:Debit:12761#2628:Debit:43205
+111941:Bink:McCleod:201202051818,2629:Debit:19882#2630:Debit:26878
+111942:Dehlia:Letertre:197403219177,2631:Debit:12902#2632:Debit:42201
+111943:Mile:Southon:196103175645,2633:Debit:36018#2634:Debit:11521#2635:Debit:5863
+111944:Leanora:Callard:198001239440,2636:Debit:29103#2637:Debit:46619#2638:Debit:28044#2639:Debit:4334
+111945:Denni:Hutchinges:195909236031,2640:Debit:33651#2641:Debit:2952
+111946:Tan:Zielinski:197904193046,2642:Debit:16238
+111947:Ainslie:Rowbottam:195801055148,2643:Debit:32278#2644:Debit:5519#2645:Debit:31764#2646:Debit:13026
+111948:Reynard:Pearn:201212289644,2647:Debit:977#2648:Debit:30192
+111949:Martin:Eadmead:197405087974,2649:Debit:41112#2650:Debit:9153#2651:Debit:34370#2652:Debit:8127
+111950:Tuesday:Dolman:195304019588,2653:Debit:21382#2654:Debit:46518#2655:Debit:32171#2656:Debit:33283
+111951:Nert:Northill:200203274085,2657:Debit:9707
+111952:Poppy:Lickorish:196507218716,2658:Debit:10076#2659:Debit:43044#2660:Debit:36142
+111953:Guglielma:Bellis:199908236457,2661:Debit:43891#2662:Debit:32797#2663:Debit:8402
+111954:Kyla:Stuffins:197407247485,2664:Debit:22948#2665:Debit:47359#2666:Debit:2638
+111955:Cathleen:Norley:195903267802,2667:Debit:6276
+111956:Rebe:Wingeatt:201612051720,2668:Debit:13724
+111957:Rochelle:Lincoln:200603078327
+111958:Jo-anne:Caught:200112287912,2669:Debit:6521#2670:Debit:10480#2671:Debit:14855
+111959:Coop:Dunan:199708096657,2672:Debit:2820#2673:Debit:23011
+111960:Finley:Ranson:197511011953
+111961:Roz:Udall:197105071283,2674:Debit:11412#2675:Debit:43192#2676:Debit:43602#2677:Debit:38683
+111962:Brewster:Embling:196402229285,2678:Debit:20703#2679:Debit:38270#2680:Debit:48936#2681:Debit:6722
+111963:Pammi:Mehmet:196708218924
+111964:Ricki:Gravy:196208285536
+111965:Bastien:Jedrzejkiewicz:197812179872
+111966:Nevsa:Royal:201104063439,2682:Debit:34085#2683:Debit:19474#2684:Debit:41585
+111967:Gill:Niesegen:196502106351
+111968:Rhody:Kidson:201609188204,2685:Debit:30172
+111969:Westbrook:Rentoll:198505259351,2686:Debit:31233#2687:Debit:43021#2688:Debit:3509#2689:Debit:43537
+111970:Durward:Caston:195702199640
+111971:Ysabel:Bakster:198107108891,2690:Debit:7400#2691:Debit:15726#2692:Debit:6331#2693:Debit:5981
+111972:Banky:Coysh:201012236345,2694:Debit:32399
+111973:Nicolle:Cowell:199109084392,2695:Debit:21290#2696:Debit:47235#2697:Debit:27353
+111974:Wilona:Pardi:201011197897
+111975:Rodolphe:Warin:199206118080,2698:Debit:21144#2699:Debit:22689
+111976:Dolph:Lower:200307095319,2700:Debit:36416
+111977:Joann:Germon:196607252185,2701:Debit:49500#2702:Debit:27437#2703:Debit:36609#2704:Debit:36430
+111978:Tuck:McLardie:195904061723
+111979:Sherwood:Chatfield:198506108542,2705:Debit:38752#2706:Debit:23417#2707:Debit:33032
+111980:Storm:Vertigan:196312199339,2708:Debit:24908#2709:Debit:40422#2710:Debit:6191
+111981:Ring:Yole:197604199679,2711:Debit:3648#2712:Debit:23568#2713:Debit:8074
+111982:Stephanus:Sollner:195003121732,2714:Debit:40080#2715:Debit:20024#2716:Debit:30311
+111983:Earvin:Robez:196609252170,2717:Debit:7551#2718:Debit:32999#2719:Debit:5165#2720:Debit:47621
+111984:Estell:Mosedall:197709065519,2721:Debit:2329
+111985:Tansy:Nial:195504216626,2722:Debit:27934#2723:Debit:34821
+111986:Terrence:Lomen:196311032683,2724:Debit:19186#2725:Debit:37067#2726:Debit:44182#2727:Debit:35264
+111987:Tasia:Petrishchev:199402057067,2728:Debit:20313#2729:Debit:4312
+111988:Bobby:Pittman:197911146028,2730:Debit:3947#2731:Debit:21822
+111989:Stacee:Cornejo:197606117618,2732:Debit:39616#2733:Debit:1328#2734:Debit:36712
+111990:Truda:Fidgin:200811125476,2735:Debit:34638#2736:Debit:47200
+111991:Anatole:Akast:200809015899,2737:Debit:40135
+111992:Perry:Milkin:196711228134,2738:Debit:29905#2739:Debit:19854#2740:Debit:12863#2741:Debit:43640
+111993:Elbertine:Herreran:196906151237,2742:Debit:22404#2743:Debit:25962#2744:Debit:11506#2745:Debit:33085
+111994:Rivy:Polland:200407086314,2746:Debit:29011#2747:Debit:26417#2748:Debit:3505
+111995:Claudius:Sizey:196111262155,2749:Debit:36093#2750:Debit:1035
+111996:Haleigh:Dooly:201205064264,2751:Debit:45164#2752:Debit:46579
+111997:Latashia:Kirrens:199209164880,2753:Debit:18478
+111998:Allyce:Scholer:199712217794,2754:Debit:4253
+111999:Celia:McSperron:195903126835
+112000:Elsi:Trimnell:195908083740,2755:Debit:13126#2756:Debit:36769#2757:Debit:39370
+112001:Farris:Yeardley:199412032413,2758:Debit:13720
+112002:Carie:McVaugh:198907054386,2759:Debit:32921#2760:Debit:20922#2761:Debit:28487
+112003:Reiko:Nertney:202002014174,2762:Debit:17804#2763:Debit:7119#2764:Debit:42704#2765:Debit:5196
+112004:Paloma:Joreau:198808018300
+112005:Sigmund:Mapham:200007117007
+112006:Enos:Asken:201508125633,2766:Debit:14347#2767:Debit:2950#2768:Debit:8386#2769:Debit:48031
+112007:Thibaut:Rennicks:197105039164,2770:Debit:6743#2771:Debit:30034
+112008:Berry:Tattershaw:195609154162,2772:Debit:3894#2773:Debit:27353#2774:Debit:34222
+112009:Hilario:Meysham:200409074558,2775:Debit:48541
+112010:Westbrooke:Crosier:196608029205,2776:Debit:11605#2777:Debit:35097#2778:Debit:20530
+112011:Robbyn:Gewer:195502016750,2779:Debit:9182#2780:Debit:43739#2781:Debit:18281#2782:Debit:24539
+112012:Reginald:Cleen:200303139137,2783:Debit:9011#2784:Debit:24407#2785:Debit:20932
+112013:Aarika:Beringer:196101161714,2786:Debit:24632#2787:Debit:37385#2788:Debit:36214#2789:Debit:49434
+112014:Saxon:Eland:199606189252
+112015:Margarette:Phillott:201205047228,2790:Debit:30253#2791:Debit:5074#2792:Debit:28023
+112016:Bertrand:MacQueen:198611089725,2793:Debit:29130#2794:Debit:47320
+112017:Dyane:Wisdish:197707131179,2795:Debit:2989
+112018:Gnni:Cerith:195606134290,2796:Debit:30708#2797:Debit:31461
+112019:Lianna:Berth:199712062662,2798:Debit:46153#2799:Debit:555
+112020:Janella:Benner:197311108617,2800:Debit:1407#2801:Debit:15270#2802:Debit:15418
+112021:Walsh:Bungey:200601232616,2803:Debit:40059#2804:Debit:42824
+112022:Caroljean:Grumley:198301048366,2805:Debit:34710#2806:Debit:21278#2807:Debit:28115#2808:Debit:5107
+112023:Carolyn:Flieger:200909202415,2809:Debit:23706
+112024:Philis:Calfe:200112122069,2810:Debit:43868#2811:Debit:10059#2812:Debit:46777
+112025:Fonzie:Boxe:197101258177,2813:Debit:47409#2814:Debit:2647#2815:Debit:46287
+112026:Clea:Ayre:199711288537,2816:Debit:43649#2817:Debit:4421#2818:Debit:16956
+112027:Maure:Bugbird:201802138253,2819:Debit:8083
+112028:Angelia:Shilliday:200002161618,2820:Debit:36353#2821:Debit:971#2822:Debit:430
+112029:Ursa:Kennewell:198506247551
+112030:Erhart:Limpenny:199311192654,2823:Debit:5457
+112031:Elmore:Jagielski:198702181681,2824:Debit:29458#2825:Debit:22324#2826:Debit:12153
+112032:Taite:Zupa:199409288553,2827:Debit:33585#2828:Debit:30959
+112033:Phylys:Fancutt:201705267357
+112034:Dina:Imlock:198001243099,2829:Debit:25820#2830:Debit:37104#2831:Debit:13740
+112035:Lynett:Farington:198905128053,2832:Debit:37654#2833:Debit:34456#2834:Debit:34403
+112036:Flossie:Moncey:195309137318,2835:Debit:4778
+112037:Susanna:Baelde:201312105706,2836:Debit:48095#2837:Debit:35670#2838:Debit:338
+112038:Mordecai:Belding:196512183041,2839:Debit:528#2840:Debit:23142
+112039:Dave:Warbeys:199109168745,2841:Debit:5134
+112040:Mellisent:Mara:197006012187,2842:Debit:23087#2843:Debit:46769
+112041:Crissy:Hutten:201811136814,2844:Debit:31543#2845:Debit:15952#2846:Debit:39159#2847:Debit:6542
+112042:Graehme:Woolaston:197402206862,2848:Debit:1564#2849:Debit:5531#2850:Debit:33469#2851:Debit:27267
+112043:Angelica:Rosenbarg:202005017549,2852:Debit:10312#2853:Debit:15878
+112044:Ursulina:Lackney:201512016732,2854:Debit:13622#2855:Debit:23013#2856:Debit:21867#2857:Debit:37458
+112045:Adrien:Waleworke:196704277845,2858:Debit:12568#2859:Debit:41982#2860:Debit:39185
+112046:Blakelee:Dunthorn:201002106230
+112047:Melosa:Filipyev:201506224792
+112048:Cleve:Morecombe:202105188346,2861:Debit:34875#2862:Debit:2149
+112049:Dulcia:Dowyer:199304245337,2863:Debit:47302#2864:Debit:11296#2865:Debit:21603#2866:Debit:38324
+112050:Gabriela:Borlease:198203152389,2867:Debit:45636#2868:Debit:331#2869:Debit:39539#2870:Debit:47539
+112051:Benedict:Hugo:196605129028,2871:Debit:28570#2872:Debit:38866#2873:Debit:3657#2874:Debit:26901
+112052:Loy:Bebb:198608225153,2875:Debit:46478
+112053:Raquel:Thorogood:202102173082,2876:Debit:25655#2877:Debit:20830
+112054:Dori:Halliwell:198811128191,2878:Debit:29677#2879:Debit:245
+112055:Daune:Sydney:195210215550,2880:Debit:43670#2881:Debit:6926#2882:Debit:12770
+112056:Raimund:Monshall:195505125979,2883:Debit:12343#2884:Debit:32648#2885:Debit:4463#2886:Debit:848
+112057:Herbie:Cake:200708077360,2887:Debit:46928
+112058:Delores:McKinnon:201705137280,2888:Debit:41851#2889:Debit:8936#2890:Debit:19316#2891:Debit:36697
+112059:Bat:Panchen:196705231899,2892:Debit:3135#2893:Debit:14438#2894:Debit:18669#2895:Debit:12636
+112060:Forest:Palombi:197910212755,2896:Debit:19877#2897:Debit:39393#2898:Debit:41146#2899:Debit:7832
+112061:Goldie:Frossell:196212093839,2900:Debit:17195#2901:Debit:39863
+112062:Denise:Dreigher:196903062392,2902:Debit:13407#2903:Debit:42790#2904:Debit:45614#2905:Debit:44643
+112063:Minny:Mantrup:197109064945,2906:Debit:47532#2907:Debit:2147
+112064:Patty:Becom:197706105819,2908:Debit:37720#2909:Debit:43337#2910:Debit:27686
+112065:Cary:Swindells:195203124435,2911:Debit:31684#2912:Debit:44945#2913:Debit:35731
+112066:Antons:Bartholat:195902052923
+112067:Chick:Elstob:201710163972
+112068:Eveline:Akid:201909243011,2914:Debit:40428#2915:Debit:22962
+112069:Melania:Lacheze:200909158393
+112070:Yettie:D'Arrigo:196106134750,2916:Debit:44711
+112071:Lucio:Pennock:195002258953
+112072:Cherise:Reyne:197805019677,2917:Debit:46734#2918:Debit:39276#2919:Debit:2514#2920:Debit:12172
+112073:Frederick:Laraway:197412146107,2921:Debit:24289
+112074:Gannon:Flounders:200010166376
+112075:Grace:Klagge:196509232619,2922:Debit:33053#2923:Debit:24109
+112076:Christi:Iddison:196808167110,2924:Debit:42768#2925:Debit:22221#2926:Debit:16561
+112077:Franciska:Nellies:199804222970,2927:Debit:30970#2928:Debit:44036
+112078:Astrid:Copsey:201809265552,2929:Debit:36458#2930:Debit:9021
+112079:Val:Corballis:199612217593,2931:Debit:26298#2932:Debit:28636
+112080:Angelico:Ferrand:196101052599,2933:Debit:29746#2934:Debit:21198#2935:Debit:483
+112081:Jena:O'Brallaghan:199207177405
+112082:Cordy:Bagenal:198705153298,2936:Debit:47720#2937:Debit:3193#2938:Debit:25508
+112083:Willa:Bolingbroke:195412266283
+112084:Sarene:Sillars:200710248257,2939:Debit:44284#2940:Debit:34362#2941:Debit:28418#2942:Debit:23968
+112085:Odell:Lannon:195612206627
+112086:Paco:Tremblay:198111149181,2943:Debit:14081#2944:Debit:45633
+112087:Mary:Kadd:198011031430
+112088:Morly:Rechert:196603266351,2945:Debit:33553#2946:Debit:1130#2947:Debit:44671
+112089:Gael:Paff:195706218645,2948:Debit:13067#2949:Debit:23703#2950:Debit:11905
+112090:Lib:Geary:200511254868,2951:Debit:314#2952:Debit:24250
+112091:Marge:Dripp:195811155306,2953:Debit:22488
+112092:Nikolaus:Scougall:197911253833
+112093:Anselm:Bricksey:201202272664,2954:Debit:13918
+112094:Zonda:Bodker:201704179565,2955:Debit:3985
+112095:Clyde:Loughren:200105176704,2956:Debit:35293
+112096:Aaren:Oakwell:201705114899,2957:Debit:39748#2958:Debit:40555#2959:Debit:31136
+112097:Eugenius:Winskill:202012107073,2960:Debit:19116
+112098:Marybeth:Coare:201210084359,2961:Debit:16310#2962:Debit:36829
+112099:Tonia:Dy:201301146056,2963:Debit:42947#2964:Debit:5732#2965:Debit:49841#2966:Debit:2406
+112100:Drona:Freathy:200909158410,2967:Debit:26674#2968:Debit:31846
+112101:Dotti:Markovich:200607054065,2969:Debit:37311
+112102:Isaak:Geeves:196303076361,2970:Debit:30800#2971:Debit:17657#2972:Debit:3885
+112103:Frants:Jorioz:198312077934,2973:Debit:37058#2974:Debit:42644#2975:Debit:49861
+112104:Rora:Crambie:196808018605,2976:Debit:9050
+112105:Toby:Antonin:197902289380
+112106:Charmine:Braundt:201207251870,2977:Debit:35737#2978:Debit:17181#2979:Debit:12311#2980:Debit:15480
+112107:Thibaut:Akitt:200907216731,2981:Debit:45051
+112108:Mignon:Cawkill:201507139318,2982:Debit:5959#2983:Debit:38243
+112109:Michaela:Poyzer:199111052369,2984:Debit:41651
+112110:Camella:Trivett:197708253334,2985:Debit:10029#2986:Debit:32110

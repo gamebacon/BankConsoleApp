@@ -1,6 +1,7 @@
 from datetime import datetime
 
-from Transaction import Transaction
+import Bank
+from Transaction import Transaction, get_id
 
 
 class Account:
@@ -35,15 +36,15 @@ class Account:
         view = "Inga transaktioner ännu."
         if len(self.transactions) > 0:
             view = "Transaktioner\n"
-            for transaction in self.transactions:
+            for transaction in self.transactions.values():
                 view += "%s\n" % transaction.__str__()
         return view
 
     # Creates a new transaction
     def new_transaction(self, amount):
-        transaction_id = len(self.transactions) + 1;
+        transaction_id = Bank.get_new_id(1000, self.transactions)
         date = datetime.now().strftime("%Y-%m-%d %H:%M")
         transaction = Transaction(transaction_id,  date, amount)
-        self.transactions.append(transaction)
+        self.transactions[transaction_id] = transaction
 
 

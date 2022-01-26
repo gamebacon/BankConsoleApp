@@ -8,9 +8,24 @@ def clear(num, msg=""):
     print(num * "\n" + msg)
 
 
-def is_personnumber(person_number):
+# Checks if the given string is a valid person number.
+def is_person_number(person_number):
     return re.fullmatch("[0-9]{12}", person_number)
 
+# Prompts the player with information before they can continue.
+def ok(prompt= ""):
+    ok = input(prompt + "\n(1)Ok\n")
+    clear(50)
+
+# Force positive int as input
+def intput(prompt):
+    while True:
+        try:
+            inp = int(input(prompt))
+            if inp > 0:
+                return inp
+        except:
+            pass
 
 class Main:
     def __init__(self):
@@ -54,7 +69,7 @@ class Main:
 
     def get_customer_ui(self):
         while True:
-            person_number = self.get_person_number() # input("Ange ett personnummer: ")
+            person_number = self.get_person_number()
             if person_number is None:
                 return
             customer = self.bank.get_customer(person_number)
@@ -149,7 +164,7 @@ class Main:
 
     def get_person_number(self):
         person_number = input("Ange personnummer (YYYYMMDDXXXX)\n")
-        if is_personnumber(person_number):
+        if is_person_number(person_number):
             return person_number
         else:
             ok("\"%s\" är inte ett personnummer." % person_number)
@@ -165,12 +180,12 @@ class Main:
             ok()
         else:
             self.current_customer = customer
-            print("Du är inloggad som %s %s." % (self.current_customer.first_name, self.current_customer.last_name))
             self.customer_ui(customer)
         return customer is not None
 
     def customer_ui(self, customer):
         while True:
+            clear(50, "Välkommen %s\n" % customer.get_full_name())
             inp = input("(1)Hantera konton (2)Avsluta\n")
             if inp == "1":
                 account = self.get_customer_account(customer)
@@ -198,8 +213,8 @@ class Main:
     def account_ui(self, account):
         while True:
             clear(50)
-            print("> " + account.__str__())
-            inp = input("\n(1)Uttag (2)Insättning (3)Historik (4)Avbryt\n")
+            print("> %s\n" % account.__str__())
+            inp = input("(1)Uttag (2)Insättning (3)Historik (4)Avbryt\n")
             if inp is "1" or inp is "2":
                 amount = intput("Ange mängd: ")
                 if inp == "1":
@@ -216,7 +231,7 @@ class Main:
     def get_customer_account(self, customer):
         clear(50)
         if len(customer.get_accounts()) == 0:
-            print("Inga konton hittades.")
+            ok("Inga konton hittades.")
         else:
             print(customer.accounts_str())
             """
@@ -237,19 +252,6 @@ class Main:
                 return account
 
 
-def ok(prompt= ""):
-    ok = input(prompt + "\n(1)Ok\n")
-    clear(50)
-
-
-def intput(prompt):
-    while True:
-        try:
-            inp = int(input(prompt))
-            if inp > 0:
-                return inp
-        except:
-            pass
 
 
 # Starts the program
