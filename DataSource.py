@@ -1,6 +1,6 @@
 from Account import Account
 from Customer import Customer
-from Transaction import Transaction, get_id
+from Transaction import Transaction
 
 
 def __write__(file_name, text):

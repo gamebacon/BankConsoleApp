@@ -10,9 +10,6 @@ class Customer:
     def __str__(self):
         return "%s | %s | %s %s" % (self.id, self.person_number, self.first_name, self.last_name)
 
-    def get_id(self):
-        return self.id
-
     # Returns account dictionary
     # with account_id as key and the account for value
     def get_accounts(self):
@@ -21,18 +18,8 @@ class Customer:
     def get_account(self, account_id):
         return self.accounts.get(account_id)
 
-    # todo
     def add_account(self, account):
         self.accounts[account.id] = account
-
-    def get_person_number(self):
-        return self.person_number
-
-    def set_first_name(self, first_name):
-        self.first_name = first_name
-
-    def set_last_name(self, last_name):
-        self.last_name = last_name
 
     def get_full_name(self):
         return self.first_name + " " + self.last_name

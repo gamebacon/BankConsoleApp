@@ -1,7 +1,7 @@
 from datetime import datetime
 
 import Bank
-from Transaction import Transaction, get_id
+from Transaction import Transaction
 
 
 class Account:
@@ -21,12 +21,6 @@ class Account:
     def deposit(self, amount):
         self.balance += amount
         self.new_transaction(amount)
-
-    def get_balance(self):
-        return self.balance
-
-    def get_id(self):
-        return self.id
 
     def get_transactions(self):
         return self.transactions

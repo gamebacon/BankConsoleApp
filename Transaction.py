@@ -1,6 +1,3 @@
-def get_id(transaction):
-    return transaction.id
-
 class Transaction:
     def __init__(self, id, date, amount):
         self.id = id

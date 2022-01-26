@@ -31,11 +31,8 @@ class Bank:
         self.datasource = DataSource()
         self.customers = self.datasource.get_all()
 
-    def is_account(self, account_id):
-        return self.all_customer_accounts.__contains__(account_id)
-
     # Returns a dictionary with all accounts
-    def get_all_customer_accounts(self):
+    def get_customer_accounts(self):
         return self.all_customer_accounts
 
     # Returns a list of all customers
@@ -45,8 +42,8 @@ class Bank:
     # Returns a specified customer
     def get_customer(self, person_number):
         for customer in self.customers.values():
-            if customer.get_person_number() == person_number:
-                return customer;
+            if customer.person_number == person_number:
+                return customer
         return None
 
     # Change customer names
@@ -62,10 +59,9 @@ class Bank:
     # Creates a new customer.
     # Returns false if the person is already a customer, true otherwise.
     def add_customer(self, first_name, last_name, person_number):
-        if self.customers.get(person_number) is None:
+        if self.get_customer(person_number) is None:
             new_id = get_new_id(111111, self.customers)
-            new_customer = Customer(new_id, first_name, last_name, person_number, {})
-            self.customers[person_number] = new_customer
+            self.customers[new_id] = Customer(new_id, first_name, last_name, person_number, {})
             return True
         else:
             return False
@@ -74,7 +70,7 @@ class Bank:
     # Returns account information including the total balance.
     def remove_customer(self, person_number):
         customer = self.get_customer(person_number)
-        del self.customers[person_number]
+        del self.customers[customer.id]
         return customer.accounts_str()
 
     # Add account to existing customer.
@@ -84,7 +80,7 @@ class Bank:
         new_account_id = -1
         if customer is not None:
             new_account_id = get_new_id(1000, self.all_customer_accounts)
-            new_account = Account(new_account_id, "Debit konto", 0.0, [])
+            new_account = Account(new_account_id, "Debit", 0.0, {})
             customer.add_account(new_account)
             self.all_customer_accounts[new_account.id] = new_account
         return new_account_id
@@ -100,7 +96,7 @@ class Bank:
     def withdraw(self, person_number, account_id, amount):
         customer = self.get_customer(person_number)
         account = customer.get_account(account_id)
-        if account.get_balance() - amount >= 0:
+        if account.balance - amount >= 0:
             account.withdraw(amount)
             return True
         return False
