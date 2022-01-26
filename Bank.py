@@ -24,9 +24,11 @@ class Bank:
             for account in customer.get_accounts().values():
                 self.all_customer_accounts[account.id] = account;
 
+    # Save data through the data source class.
     def save(self):
         self.datasource.save_all(self.customers)
 
+    # Load data from the data source class.
     def load(self):
         self.datasource = DataSource()
         self.customers = self.datasource.get_all()

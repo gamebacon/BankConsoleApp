@@ -12,6 +12,7 @@ def clear(num, msg=""):
 def is_person_number(person_number):
     return re.fullmatch("[0-9]{12}", person_number)
 
+
 # Checks if the given string is a word sequence.
 def is_word(word):
     return re.fullmatch("[A-Öa-ö]{1,50}", word)
@@ -24,7 +25,7 @@ def ok(prompt=""):
 
 
 # Force positive int as input
-def intput(prompt, badinp = "%s är ej giltigt."):
+def intput(prompt, badinp="%s är ej giltigt."):
     while True:
         try:
             inp = int(input(prompt))
@@ -35,7 +36,7 @@ def intput(prompt, badinp = "%s är ej giltigt."):
 
 
 # Get word character input
-def stringput(prompt, badinp = "%s är ej giltigt."):
+def stringput(prompt, badinp="%s är ej giltigt."):
     while True:
         inp = input(prompt)
         if is_word(inp):
@@ -124,7 +125,7 @@ class Main:
             clear(50, "%s - %s, %s" % (customer.id, customer.get_full_name(), customer.person_number))
             inp = input("(1)Ändra förnamn (2)Ändra efternamn (3)Avbryt\n")
             if inp is "1":
-                customer.firstname = stringput("Nytt förnamn: ")
+                customer.first_name = stringput("Nytt förnamn: ")
             elif inp is "2":
                 customer.last_name = stringput("Nytt efternamn: ")
             elif inp is "3":
@@ -257,14 +258,6 @@ class Main:
             ok("Inga konton hittades.")
         else:
             print(customer.accounts_str())
-            """
-            account_id = -1
-            inp = input("Ange ett kontonummer: ")
-            try:
-                account_id = int(inp)
-            except:
-                pass
-            """
             account_id = intput("Ange ett kontonummer: ")
             account = customer.get_account(account_id)
 

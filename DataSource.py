@@ -3,6 +3,7 @@ from Customer import Customer
 from Transaction import Transaction
 
 
+# Writes string to file
 def __write__(file_name, text):
     file = open(file_name, "wt")
     file.write(text)
@@ -10,6 +11,7 @@ def __write__(file_name, text):
     pass
 
 
+# Returns all lines as string from file
 def __read__(file_name):
     file = open(file_name, "rt")
     text = file.read()
@@ -22,6 +24,16 @@ class DataSource:
     def datasource_conn(self):
         pass
 
+    def update_by_id(self):
+        pass
+
+    def find_by_id(self):
+        pass
+
+    def remove_by_id(self):
+        pass
+
+    # Saves all customer data to file.
     def save_all(self, customers):
         text = ""
         for customer in customers.values():
@@ -32,7 +44,7 @@ class DataSource:
         __write__("data/customers.txt", text)
         self.__save_transactions__(customers)
 
-    # Saves all the transactions
+    # Saves all the transactions to file.
     def __save_transactions__(self, customers):
         text = ""
         for customer in customers.values():
@@ -43,8 +55,7 @@ class DataSource:
                 text = text[0:-1] + "\n"
         __write__("data/transactions.txt", text)
 
-    # Returns a dictionary of all account's and their transactions
-    # With account-id as key and a tuple of the account's transactions
+    # Returns a dictionary with all transactions
     def __get_all_transactions__(self):
         all_transactions = {}
         lines = __read__("data/transactions.txt").split("\n")
@@ -65,6 +76,7 @@ class DataSource:
             all_transactions[account_id] = account_transactions
         return all_transactions
 
+    # Returns all customer data.
     def get_all(self):
         customers = {}
         all_transactions = self.__get_all_transactions__()
