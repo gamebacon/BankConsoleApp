@@ -17,7 +17,10 @@ def get_new_id(start_id, dict):
 
 class Bank:
 
-    def __init__(self):
+    def __init__(self, DataSource: DataSource):
+        self.datasource = DataSource
+        self.customers = None
+
         self.load()
         self.all_customer_accounts = {}
         for customer in self.customers.values():
@@ -30,7 +33,6 @@ class Bank:
 
     # Load data from the data source class.
     def load(self):
-        self.datasource = DataSource()
         self.customers = self.datasource.get_all()
 
     # Returns a dictionary with all accounts
@@ -73,7 +75,7 @@ class Bank:
     def remove_customer(self, person_number):
         customer = self.get_customer(person_number)
         del self.customers[customer.id]
-        return customer.accounts_str()
+        return customer.get_total_balance()
 
     # Add account to existing customer.
     # returns newly created id. -1 if no account was created.

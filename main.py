@@ -4,6 +4,9 @@ from Bank import Bank
 
 
 # clears screen and optionally prints message
+from data.FileSource import FileSource
+
+
 def clear(num, msg=""):
     print(num * "\n" + msg)
 
@@ -48,7 +51,8 @@ def stringput(prompt, badinp="%s är ej giltigt."):
 
 class Main:
     def __init__(self):
-        self.bank = Bank()
+        datasource = FileSource()
+        self.bank = Bank(datasource)
         self.current_customer = None
         self.start_ui()
         self.bank.save()
@@ -172,7 +176,7 @@ class Main:
     def bank_remove_customer_ui(self, customer):
         inp = input("Ange personnumret for att slutföra radering.\n")
         if inp == customer.person_number:
-            self.bank.remove_customer(customer.person_number)
+            print(self.bank.remove_customer(customer.person_number))
             print("Kundkontot för %s togs bort." % customer.get_full_name())
         else:
             print("Du angav fel personnummer.")
