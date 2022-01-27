@@ -1,5 +1,5 @@
 src/mock.py
-src/.idea/
+.idea/
 src/__pycache__/
 src/data/MOCK_DATA.csv
 klassdiagram.drawio
