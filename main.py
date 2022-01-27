@@ -27,8 +27,9 @@ def ok(prompt=""):
 # Force positive int as input
 def intput(prompt, badinp="%s är ej giltigt."):
     while True:
+        inp = input(prompt)
         try:
-            inp = int(input(prompt))
+            inp = int(inp)
             if inp > 0:
                 return inp
         except:
@@ -73,11 +74,7 @@ class Main:
             clear(50)
             inp = input("(1)Visa kunder (2)Hantera kund (3)Ny Kund (4)Avsluta\n")
             if inp is "1":
-                clear(50)
                 self.bank_display_customers_ui()
-                print("   ID       PNR            NAMN   ")
-                print("            (%d Kunder)" % len(self.bank.customers))
-                ok()
             elif inp is "2":
                 customer = self.get_customer_ui()
                 if customer is not None:
@@ -88,8 +85,12 @@ class Main:
                 break
 
     def bank_display_customers_ui(self):
+        clear(50)
         for customer in self.bank.get_customers():
             print(customer.__str__())
+        print("   ID       PNR            NAMN   ")
+        print("            (%d Kunder)" % len(self.bank.customers))
+        ok()
 
     def get_customer_ui(self):
         while True:

@@ -6,4 +6,4 @@ class Transaction:
 
     # Returns a string representation of the transaction.
     def __str__(self):
-        return "%s | %s | %s%s kr" % (self.id, self.date, "+" if self.amount > 0 else "", self.amount)
+        return "%s | %s | %s%s kr" % (self.id, self.date.strftime("%Y-%m-%d %H:%M"), "+" if self.amount > 0 else "", self.amount)

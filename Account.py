@@ -37,7 +37,7 @@ class Account:
     # Creates a new transaction
     def new_transaction(self, amount):
         transaction_id = Bank.get_new_id(1000, self.transactions)
-        date = datetime.now().strftime("%Y-%m-%d %H:%M")
+        date = datetime.now() #.strftime("%Y-%m-%d %H:%M")
         transaction = Transaction(transaction_id,  date, amount)
         self.transactions[transaction_id] = transaction
 

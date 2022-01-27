@@ -1,3 +1,5 @@
+import datetime
+
 from Account import Account
 from Customer import Customer
 from Transaction import Transaction
@@ -16,7 +18,7 @@ def __read__(file_name):
     file = open(file_name, "rt")
     text = file.read()
     file.close()
-    return text;
+    return text
 
 
 class DataSource:
@@ -51,7 +53,7 @@ class DataSource:
             for account in customer.get_accounts().values():
                 text += str(account.id) + ","
                 for transaction in account.get_transactions().values():
-                    text += "%s;%s;%s#" % (transaction.id, transaction.date, transaction.amount)
+                    text += "%s;%s;%s#" % (transaction.id, transaction.date.strftime("%Y-%m-%d %H:%M:%S"), transaction.amount)
                 text = text[0:-1] + "\n"
         __write__("data/transactions.txt", text)
 
@@ -70,7 +72,9 @@ class DataSource:
                 for transaction in data[1].split("#"):
                     transaction_details = transaction.split(";")
                     transaction_id = int(transaction_details[0])
-                    date = transaction_details[1]
+                    # date = transaction_details[1]
+                    # print(transaction_details[1])
+                    date = datetime.datetime.strptime(transaction_details[1], '%Y-%m-%d %H:%M:%S')
                     amount = transaction_details[2]
                     account_transactions[transaction_id] = Transaction(transaction_id, date, amount)
             all_transactions[account_id] = account_transactions
