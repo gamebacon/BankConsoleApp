@@ -1,7 +1,7 @@
-mock.py
-.idea/
-__pycache__/
-data/MOCK_DATA.csv
+src/mock.py
+src/.idea/
+src/__pycache__/
+src/data/MOCK_DATA.csv
 klassdiagram.drawio
 Instructions.pdf
 documentation.docx
