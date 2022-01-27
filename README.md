@@ -1,2 +1,2 @@
 # BankConsoleApp
-![klassdiagram](documentation.pdf)
+![klassdiagram](klassdiagram.png)
